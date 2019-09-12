@@ -1,5 +1,5 @@
 {
-  "name": "@klasa/util",
+  "name": "@klasa/utils",
   "version": "0.0.1",
   "description": "some util thing.",
   "main": "dist/index.js",
@@ -30,7 +30,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/dirigeants/util"
+    "url": "https://github.com/dirigeants/utils"
   },
   "ava": {
     "compileEnhancements": false,
