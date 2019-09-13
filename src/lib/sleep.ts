@@ -1,10 +1,15 @@
 import { promisify } from 'util';
 
+interface PromisifiedTimeout {
+	(ms: number): Promise<void>;
+	<T>(ms: number, value: T): Promise<T>;
+}
+
 /**
  * Promisified version of setTimeout for use with await
  * @param delay The amount of time in ms to delay
- * @param [args] Any args to pass to the .then (mostly pointless in this form)
+ * @param args Any args to pass to the .then (mostly pointless in this form)
  */
-const sleep: (delay: number, args?: T) => Promise<T> = promisify(setTimeout);
+const sleep: PromisifiedTimeout = promisify(setTimeout);
 
 export default sleep;

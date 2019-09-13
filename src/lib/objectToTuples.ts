@@ -3,15 +3,14 @@ import isObject from './isObject';
 /**
  * Convert an object to a tuple
  * @since 0.5.0
- * @param {Object<string, *>} object The object to convert
- * @param {string} [prefix=''] The prefix for the key
- * @returns {Array<Array<*>>}
+ * @param value The object to convert
+ * @param prefix The prefix for the key
  */
-export default function objectToTuples(object, prefix = '') {
+export default function objectToTuples(original: Record<string, unknown>, prefix = ''): [string, unknown][] {
 	const entries = [];
-	for (const [key, value] of Object.entries(object)) {
+	for (const [key, value] of Object.entries(original)) {
 		if (isObject(value)) {
-			entries.push(...objectToTuples(value, `${prefix}${key}.`));
+			entries.push(...objectToTuples(value as Record<string, unknown>, `${prefix}${key}.`));
 		} else {
 			entries.push([`${prefix}${key}`, value]);
 		}

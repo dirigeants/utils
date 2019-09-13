@@ -1,14 +1,15 @@
 import regExpEsc from './regExpEsc';
 
-let sensitivePattern;
+let sensitivePattern: RegExp | undefined;
+const zws = String.fromCharCode(8203);
 
 /**
  * Cleans sensitive info from strings
  * @since 0.0.1
- * @param {string} text The text to clean
- * @returns {string}
+ * @param text The text to clean
  */
 export function clean(text: string): string {
+	if (typeof sensitivePattern === 'undefined') throw new Error('initClean must be called before running this.');
 	return text.replace(sensitivePattern, '「ｒｅｄａｃｔｅｄ」').replace(/`/g, `\`${zws}`).replace(/@/g, `@${zws}`);
 }
 
