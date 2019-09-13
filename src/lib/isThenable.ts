@@ -1,5 +1,13 @@
 import isFunction from './isFunction';
 
+function hasThen(input: { then?: Function }): boolean {
+	return isFunction(input.then);
+}
+
+function hasCatch(input: { catch?: Function }): boolean {
+	return isFunction(input.catch);
+}
+
 /**
  * Verify if an object is a promise.
  * @param input The promise to verify
@@ -7,5 +15,5 @@ import isFunction from './isFunction';
 export default function isThenable(input: unknown): boolean {
 	if (!input) return false;
 	return (input instanceof Promise) ||
-		(input !== Promise.prototype && isFunction(input['then']) && isFunction(input['catch']));
+		(input !== Promise.prototype && hasThen(input) && hasCatch(input));
 }
