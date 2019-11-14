@@ -7,7 +7,7 @@ import isObject from './isObject';
  * @param def Default properties
  * @param given Object to assign defaults to
  */
-export default function mergeDefault<A, B extends Partial<A & Partial<NonNullable<A>>>>(defaults: A, given?: B): A & B {
+export default function mergeDefault<A, B extends Partial<A>>(defaults: A, given?: B): A & B {
 	if (!given) return deepClone(defaults) as A & B;
 	for (const key in defaults) {
 		// eslint-disable-next-line @typescript-eslint/ban-ts-ignore
