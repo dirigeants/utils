@@ -2,7 +2,7 @@ import ava from 'ava';
 import { arrayStrictEquals } from '../dist';
 
 ava('arrayStrictEquals(reference)', (test): void => {
-	const array = [];
+	const array: undefined[] = [];
 
 	test.true(arrayStrictEquals(array, array));
 });

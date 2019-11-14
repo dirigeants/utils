@@ -7,13 +7,13 @@ import isObject from './isObject';
  * @param def Default properties
  * @param given Object to assign defaults to
  */
-export default function mergeDefault<A, B extends Partial<A & B>>(defaults: A, given?: B): A & B {
+export default function mergeDefault<A, B extends Partial<A & Partial<NonNullable<A>>>>(defaults: A, given?: B): A & B {
 	if (!given) return deepClone(defaults) as A & B;
 	for (const key in defaults) {
 		// eslint-disable-next-line @typescript-eslint/ban-ts-ignore
 		// @ts-ignore
 		if (typeof given[key] === 'undefined') given[key] = deepClone(defaults[key]);
-		else if (isObject(given[key])) given[key] = mergeDefault(defaults[key], given[key]);
+		else if (isObject(given[key])) given[key] = mergeDefault(defaults[key], given[key]) as unknown as B[Extract<keyof A, string>];
 	}
 
 	return given as A & B;
