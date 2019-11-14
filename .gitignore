@@ -9,3 +9,5 @@ docs/
 test-results.xml
 
 yarn-error.log
+
+.idea/
