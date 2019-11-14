@@ -16,7 +16,7 @@ export default function deepClone<T>(source: T): T {
 		return output as unknown as T;
 	}
 	if (isObject(source)) {
-		const output = {} as unknown as Partial<T>;
+		const output = {} as Record<string | number | symbol, unknown>;
 		for (const [key, value] of Object.entries(source)) output[key] = deepClone(value);
 		return output as unknown as T;
 	}
