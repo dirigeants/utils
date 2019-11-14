@@ -1,5 +1,5 @@
 const TOTITLECASE = /[A-Za-zÀ-ÖØ-öø-ÿ]\S*/g;
-const titleCaseVariants = {
+const titleCaseVariants: Record<string, string> = {
 	textchannel: 'TextChannel',
 	voicechannel: 'VoiceChannel',
 	categorychannel: 'CategoryChannel',
