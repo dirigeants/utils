@@ -1,11 +1,12 @@
 import isFunction from './isFunction';
+import isObject from './isObject';
 
-function hasThen(input: { then?: Function }): boolean {
-	return isFunction(input.then);
+function hasThen(input: unknown | { then?: Function }): boolean {
+	return isObject(input) && isFunction(input.then);
 }
 
-function hasCatch(input: { catch?: Function }): boolean {
-	return isFunction(input.catch);
+function hasCatch(input: unknown | { catch?: Function }): boolean {
+	return isObject(input) && isFunction(input.catch);
 }
 
 /**
