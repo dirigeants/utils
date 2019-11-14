@@ -2,7 +2,6 @@
 	"compileOnSave": true,
 	"compilerOptions": {
 		"alwaysStrict": true,
-		"strict": true,
 		"lib": ["esnext"],
 		"module": "commonjs",
 		"noUnusedParameters": true,
