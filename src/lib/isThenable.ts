@@ -1,11 +1,11 @@
 import isFunction from './isFunction';
 
 function hasThen(input: { then?: Function }): boolean {
-	return isFunction(input.then);
+	return Reflect.has(input, 'then') && isFunction(input.then);
 }
 
 function hasCatch(input: { catch?: Function }): boolean {
-	return isFunction(input.catch);
+	return Reflect.has(input, 'catch') && isFunction(input.catch);
 }
 
 /**
