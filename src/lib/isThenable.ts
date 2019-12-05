@@ -1,5 +1,4 @@
 import isFunction from './isFunction';
-import isObject from './isObject';
 
 export interface Thenable {
 	then: Function;
