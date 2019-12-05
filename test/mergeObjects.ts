@@ -41,3 +41,15 @@ ava('mergeObjects(deep)', (test): void => {
 	const target = { b: { i: 4 } };
 	test.deepEqual(mergeObjects(target, source), { a: 0, b: { i: 4 } });
 });
+
+ava('mergeObjects(deep-replace)', (test): void => {
+	const source = { a: { i: 4 } };
+	const target = { a: 0 };
+	test.deepEqual(mergeObjects(target, source), { a: { i: 4 } });
+});
+
+ava('mergeObjects(deep-type-mismatch)', (test): void => {
+	const source = { a: 0 };
+	const target = { a: { b: 1 } };
+	test.deepEqual(mergeObjects(target, source), { a: { b: 1 } });
+});

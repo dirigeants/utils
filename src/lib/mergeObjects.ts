@@ -8,15 +8,14 @@ import isObject from './isObject';
 export default function mergeObjects<
 	A extends Record<PropertyKey, unknown>,
 	B extends Record<PropertyKey, unknown>
->(objTarget: A & Partial<B>, objSource: B): A & B {
-	for (const key in objSource) {
-		// eslint-disable-next-line @typescript-eslint/ban-ts-ignore
-		// @ts-ignore
-		objTarget[key] = typeof objTarget[key] === 'undefined' ?
-			objSource[key] :
-			isObject(objSource[key]) ?
-				mergeObjects(objTarget[key] as A & Partial<B>, objSource[key] as B) :
-				objSource[key];
+>(objTarget: A, objSource: B): A & B {
+	for (const [key, value] of Object.entries(objSource) as [keyof B, unknown][]) {
+		const targetValue = objTarget[key];
+		if (isObject(value)) {
+			Reflect.set(objTarget, key, isObject(targetValue) ? mergeObjects(targetValue, value) : value);
+		} else if (!isObject(targetValue)) {
+			Reflect.set(objTarget, key, value);
+		}
 	}
 	return objTarget as A & B;
 }
