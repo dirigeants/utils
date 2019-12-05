@@ -48,7 +48,7 @@ ava('deepClone(array)', (test): void => {
 
 ava('deepClone(array-nested)', (test): void => {
 	test.plan(4);
-	const source = [1, 2, 3, [4, 5, [6, 7, 8]]];
+	const source: [number, number, number, (number | number[])[]] = [1, 2, 3, [4, 5, [6, 7, 8]]];
 	const clone = deepClone(source);
 
 	test.not(source, clone);

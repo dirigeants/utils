@@ -13,7 +13,7 @@ export default function mergeDefault<A, B extends Partial<A>>(defaults: A, given
 		// eslint-disable-next-line @typescript-eslint/ban-ts-ignore
 		// @ts-ignore
 		if (typeof given[key] === 'undefined') given[key] = deepClone(defaults[key]);
-		else if (isObject(given[key])) given[key] = mergeDefault(defaults[key], given[key]);
+		else if (isObject(given[key])) given[key] = mergeDefault(defaults[key], given[key]) as unknown as B[Extract<keyof A, string>];
 	}
 
 	return given as A & B;

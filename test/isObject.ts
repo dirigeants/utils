@@ -38,7 +38,7 @@ ava('isObject(object-null)', (test): void => {
 });
 
 ava('isObject(object-array)', (test): void => {
-	const value = [];
+	const value: undefined[] = [];
 	test.false(isObject(value));
 });
 
