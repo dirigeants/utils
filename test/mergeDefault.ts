@@ -36,7 +36,7 @@ ava('mergeDefault(extended)', (test): void => {
 });
 
 ava('mergeDefault(partial-falsy-null)', (test): void => {
-	const defaults = { a: 0, b: 1 };
+	const defaults: { a: null | number, b: number } = { a: 0, b: 1 };
 	const given = { a: null };
 	test.deepEqual(mergeDefault(defaults, given), { a: null, b: 1 });
 });

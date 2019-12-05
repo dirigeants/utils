@@ -9,7 +9,7 @@ export default function makeObject(path: string, value: unknown, obj: Record<str
 		obj[path] = value;
 	} else {
 		const route = path.split('.');
-		const lastKey = route.pop();
+		const lastKey = route.pop() as string;
 		let reference = obj;
 		for (const key of route) {
 			if (!reference[key]) reference[key] = {};
