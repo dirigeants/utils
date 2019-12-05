@@ -35,3 +35,9 @@ ava('mergeObjects(extended)', (test): void => {
 	const target = { a: 2, i: 2 };
 	test.deepEqual(mergeObjects(target, source), { a: 0, i: 2, b: 1 });
 });
+
+ava('mergeObjects(deep)', (test): void => {
+	const source = { a: 0 };
+	const target = { b: { i: 4 } };
+	test.deepEqual(mergeObjects(target, source), { a: 0, b: { i: 4 } });
+});
