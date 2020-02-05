@@ -5,7 +5,7 @@ const token = 'MzM5OTQyNzM5Mjc1Njc3NzI3.4qyqwg.WjrWfDaMQdCP8xVn7P0va5gujmh';
 const zws = String.fromCharCode(8203);
 
 ava.serial('clean(uninitialized)', (test): void => {
-	test.throws(() => clean(token), 'initClean must be called before running this.');
+	test.throws(() => clean(token), { message: 'initClean must be called before running this.' });
 });
 
 ava.serial('clean(initClean)', (test): void => {
