@@ -6,7 +6,7 @@ import isObject from './isObject';
  * @param value The object to convert
  * @param prefix The prefix for the key
  */
-export default function objectToTuples(original: Record<string, unknown>, prefix = ''): [string, unknown][] {
+export default function objectToTuples<T = Record<string, unknown>>(original: T, prefix = ''): [string, unknown][] {
 	const entries: [string, unknown][] = [];
 	for (const [key, value] of Object.entries(original)) {
 		if (isObject(value)) {
