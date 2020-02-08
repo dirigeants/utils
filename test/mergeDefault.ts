@@ -46,3 +46,9 @@ ava('mergeDefault(partial-undefined)', (test): void => {
 	const given = { a: undefined };
 	test.deepEqual(mergeDefault(defaults, given), { a: 0, b: 1 });
 });
+
+ava('mergeDefault(deep)', (test): void => {
+	const defaults = { a: { b: 1 } };
+	const given = { a: { b: 2 } };
+	test.deepEqual(mergeDefault(defaults, given), { a: { b: 2 } });
+});
