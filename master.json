@@ -1,0 +1,3898 @@
+{
+	"id": 0,
+	"name": "@klasa/utils",
+	"kind": 0,
+	"flags": {},
+	"originalName": "",
+	"children": [
+		{
+			"id": 167,
+			"name": "\"index\"",
+			"kind": 1,
+			"kindString": "Module",
+			"flags": {
+				"isExported": true
+			},
+			"originalName": "/home/runner/work/utils/utils/src/index.ts",
+			"children": [
+				{
+					"id": 170,
+					"name": "arrayStrictEquals",
+					"kind": 16777216,
+					"kindString": "Reference",
+					"flags": {
+						"isExported": true
+					},
+					"target": 16
+				},
+				{
+					"id": 171,
+					"name": "chunk",
+					"kind": 16777216,
+					"kindString": "Reference",
+					"flags": {
+						"isExported": true
+					},
+					"target": 22
+				},
+				{
+					"id": 168,
+					"name": "clean",
+					"kind": 16777216,
+					"kindString": "Reference",
+					"flags": {
+						"isExported": true
+					},
+					"target": 9
+				},
+				{
+					"id": 172,
+					"name": "codeBlock",
+					"kind": 16777216,
+					"kindString": "Reference",
+					"flags": {
+						"isExported": true
+					},
+					"target": 32
+				},
+				{
+					"id": 173,
+					"name": "deepClone",
+					"kind": 16777216,
+					"kindString": "Reference",
+					"flags": {
+						"isExported": true
+					},
+					"target": 46
+				},
+				{
+					"id": 174,
+					"name": "exec",
+					"kind": 16777216,
+					"kindString": "Reference",
+					"flags": {
+						"isExported": true
+					},
+					"target": 87
+				},
+				{
+					"id": 169,
+					"name": "initClean",
+					"kind": 16777216,
+					"kindString": "Reference",
+					"flags": {
+						"isExported": true
+					},
+					"target": 12
+				},
+				{
+					"id": 175,
+					"name": "isClass",
+					"kind": 16777216,
+					"kindString": "Reference",
+					"flags": {
+						"isExported": true
+					},
+					"target": 89
+				},
+				{
+					"id": 176,
+					"name": "isFunction",
+					"kind": 16777216,
+					"kindString": "Reference",
+					"flags": {
+						"isExported": true
+					},
+					"target": 93
+				},
+				{
+					"id": 177,
+					"name": "isNumber",
+					"kind": 16777216,
+					"kindString": "Reference",
+					"flags": {
+						"isExported": true
+					},
+					"target": 97
+				},
+				{
+					"id": 178,
+					"name": "isObject",
+					"kind": 16777216,
+					"kindString": "Reference",
+					"flags": {
+						"isExported": true
+					},
+					"target": 42
+				},
+				{
+					"id": 179,
+					"name": "isPrimitive",
+					"kind": 16777216,
+					"kindString": "Reference",
+					"flags": {
+						"isExported": true
+					},
+					"target": 38
+				},
+				{
+					"id": 180,
+					"name": "isThenable",
+					"kind": 16777216,
+					"kindString": "Reference",
+					"flags": {
+						"isExported": true
+					},
+					"target": 114
+				},
+				{
+					"id": 181,
+					"name": "makeObject",
+					"kind": 16777216,
+					"kindString": "Reference",
+					"flags": {
+						"isExported": true
+					},
+					"target": 118
+				},
+				{
+					"id": 182,
+					"name": "mergeDefault",
+					"kind": 16777216,
+					"kindString": "Reference",
+					"flags": {
+						"isExported": true
+					},
+					"target": 125
+				},
+				{
+					"id": 183,
+					"name": "mergeObjects",
+					"kind": 16777216,
+					"kindString": "Reference",
+					"flags": {
+						"isExported": true
+					},
+					"target": 133
+				},
+				{
+					"id": 184,
+					"name": "objectToTuples",
+					"kind": 16777216,
+					"kindString": "Reference",
+					"flags": {
+						"isExported": true
+					},
+					"target": 140
+				},
+				{
+					"id": 185,
+					"name": "regExpEsc",
+					"kind": 16777216,
+					"kindString": "Reference",
+					"flags": {
+						"isExported": true
+					},
+					"target": 3
+				},
+				{
+					"id": 186,
+					"name": "sleep",
+					"kind": 16777216,
+					"kindString": "Reference",
+					"flags": {
+						"isExported": true
+					},
+					"target": 152
+				},
+				{
+					"id": 187,
+					"name": "toTitleCase",
+					"kind": 16777216,
+					"kindString": "Reference",
+					"flags": {
+						"isExported": true
+					},
+					"target": 160
+				},
+				{
+					"id": 188,
+					"name": "tryParse",
+					"kind": 16777216,
+					"kindString": "Reference",
+					"flags": {
+						"isExported": true
+					},
+					"target": 164
+				}
+			],
+			"groups": [
+				{
+					"title": "References",
+					"kind": 16777216,
+					"children": [
+						170,
+						171,
+						168,
+						172,
+						173,
+						174,
+						169,
+						175,
+						176,
+						177,
+						178,
+						179,
+						180,
+						181,
+						182,
+						183,
+						184,
+						185,
+						186,
+						187,
+						188
+					]
+				}
+			],
+			"sources": [
+				{
+					"fileName": "index.ts",
+					"line": 1,
+					"character": 0
+				}
+			]
+		},
+		{
+			"id": 15,
+			"name": "\"lib/arrayStrictEquals\"",
+			"kind": 1,
+			"kindString": "Module",
+			"flags": {
+				"isExported": true
+			},
+			"originalName": "/home/runner/work/utils/utils/src/lib/arrayStrictEquals.ts",
+			"children": [
+				{
+					"id": 16,
+					"name": "arraysStrictEquals",
+					"kind": 64,
+					"kindString": "Function",
+					"flags": {
+						"isExported": true
+					},
+					"signatures": [
+						{
+							"id": 17,
+							"name": "arraysStrictEquals",
+							"kind": 4096,
+							"kindString": "Call signature",
+							"flags": {
+								"isExported": true
+							},
+							"comment": {
+								"shortText": "Compare if both arrays are strictly equal"
+							},
+							"typeParameter": [
+								{
+									"id": 18,
+									"name": "T",
+									"kind": 131072,
+									"kindString": "Type parameter",
+									"flags": {
+										"isExported": true
+									},
+									"type": {
+										"type": "typeOperator",
+										"operator": "keyof",
+										"target": {
+											"type": "array",
+											"elementType": {
+												"type": "intrinsic",
+												"name": "unknown"
+											}
+										}
+									}
+								}
+							],
+							"parameters": [
+								{
+									"id": 19,
+									"name": "arr1",
+									"kind": 32768,
+									"kindString": "Parameter",
+									"flags": {
+										"isExported": true
+									},
+									"comment": {
+										"text": "The first array to compare"
+									},
+									"type": {
+										"type": "typeParameter",
+										"name": "T",
+										"constraint": {
+											"type": "typeOperator",
+											"operator": "keyof",
+											"target": {
+												"type": "array",
+												"elementType": {
+													"type": "intrinsic",
+													"name": "unknown"
+												}
+											}
+										}
+									}
+								},
+								{
+									"id": 20,
+									"name": "arr2",
+									"kind": 32768,
+									"kindString": "Parameter",
+									"flags": {
+										"isExported": true
+									},
+									"comment": {
+										"text": "The second array to compare\n"
+									},
+									"type": {
+										"type": "typeParameter",
+										"name": "T",
+										"constraint": {
+											"type": "typeOperator",
+											"operator": "keyof",
+											"target": {
+												"type": "array",
+												"elementType": {
+													"type": "intrinsic",
+													"name": "unknown"
+												}
+											}
+										}
+									}
+								}
+							],
+							"type": {
+								"type": "intrinsic",
+								"name": "boolean"
+							}
+						}
+					],
+					"sources": [
+						{
+							"fileName": "lib/arrayStrictEquals.ts",
+							"line": 6,
+							"character": 42
+						}
+					]
+				}
+			],
+			"groups": [
+				{
+					"title": "Functions",
+					"kind": 64,
+					"children": [
+						16
+					]
+				}
+			],
+			"sources": [
+				{
+					"fileName": "lib/arrayStrictEquals.ts",
+					"line": 1,
+					"character": 0
+				}
+			]
+		},
+		{
+			"id": 21,
+			"name": "\"lib/chunk\"",
+			"kind": 1,
+			"kindString": "Module",
+			"flags": {
+				"isExported": true
+			},
+			"originalName": "/home/runner/work/utils/utils/src/lib/chunk.ts",
+			"children": [
+				{
+					"id": 22,
+					"name": "chunk",
+					"kind": 64,
+					"kindString": "Function",
+					"flags": {
+						"isExported": true
+					},
+					"signatures": [
+						{
+							"id": 23,
+							"name": "chunk",
+							"kind": 4096,
+							"kindString": "Call signature",
+							"flags": {
+								"isExported": true
+							},
+							"comment": {
+								"shortText": "Splits up an array into chunks",
+								"tags": [
+									{
+										"tag": "since",
+										"text": "0.5.0"
+									}
+								]
+							},
+							"typeParameter": [
+								{
+									"id": 24,
+									"name": "T",
+									"kind": 131072,
+									"kindString": "Type parameter",
+									"flags": {
+										"isExported": true
+									}
+								}
+							],
+							"parameters": [
+								{
+									"id": 25,
+									"name": "entries",
+									"kind": 32768,
+									"kindString": "Parameter",
+									"flags": {
+										"isExported": true
+									},
+									"comment": {
+										"text": "The object to be merged"
+									},
+									"type": {
+										"type": "typeOperator",
+										"operator": "keyof",
+										"target": {
+											"type": "array",
+											"elementType": {
+												"type": "typeParameter",
+												"name": "T"
+											}
+										}
+									}
+								},
+								{
+									"id": 26,
+									"name": "chunkSize",
+									"kind": 32768,
+									"kindString": "Parameter",
+									"flags": {
+										"isExported": true
+									},
+									"comment": {
+										"text": "The object to merge\n"
+									},
+									"type": {
+										"type": "intrinsic",
+										"name": "number"
+									}
+								}
+							],
+							"type": {
+								"type": "array",
+								"elementType": {
+									"type": "array",
+									"elementType": {
+										"type": "typeParameter",
+										"name": "T"
+									}
+								}
+							}
+						}
+					],
+					"sources": [
+						{
+							"fileName": "lib/chunk.ts",
+							"line": 7,
+							"character": 29
+						}
+					]
+				}
+			],
+			"groups": [
+				{
+					"title": "Functions",
+					"kind": 64,
+					"children": [
+						22
+					]
+				}
+			],
+			"sources": [
+				{
+					"fileName": "lib/chunk.ts",
+					"line": 1,
+					"character": 0
+				}
+			]
+		},
+		{
+			"id": 6,
+			"name": "\"lib/clean\"",
+			"kind": 1,
+			"kindString": "Module",
+			"flags": {
+				"isExported": true
+			},
+			"originalName": "/home/runner/work/utils/utils/src/lib/clean.ts",
+			"children": [
+				{
+					"id": 7,
+					"name": "sensitivePattern",
+					"kind": 32,
+					"kindString": "Variable",
+					"flags": {
+						"isLet": true
+					},
+					"sources": [
+						{
+							"fileName": "lib/clean.ts",
+							"line": 3,
+							"character": 20
+						}
+					],
+					"type": {
+						"type": "union",
+						"types": [
+							{
+								"type": "reference",
+								"name": "RegExp"
+							},
+							{
+								"type": "intrinsic",
+								"name": "undefined"
+							}
+						]
+					}
+				},
+				{
+					"id": 8,
+					"name": "zws",
+					"kind": 32,
+					"kindString": "Variable",
+					"flags": {
+						"isConst": true
+					},
+					"sources": [
+						{
+							"fileName": "lib/clean.ts",
+							"line": 4,
+							"character": 9
+						}
+					],
+					"type": {
+						"type": "intrinsic",
+						"name": "string"
+					},
+					"defaultValue": "String.fromCharCode(8203)"
+				},
+				{
+					"id": 9,
+					"name": "clean",
+					"kind": 64,
+					"kindString": "Function",
+					"flags": {
+						"isExported": true
+					},
+					"signatures": [
+						{
+							"id": 10,
+							"name": "clean",
+							"kind": 4096,
+							"kindString": "Call signature",
+							"flags": {
+								"isExported": true
+							},
+							"comment": {
+								"shortText": "Cleans sensitive info from strings",
+								"tags": [
+									{
+										"tag": "since",
+										"text": "0.0.1"
+									}
+								]
+							},
+							"parameters": [
+								{
+									"id": 11,
+									"name": "text",
+									"kind": 32768,
+									"kindString": "Parameter",
+									"flags": {
+										"isExported": true
+									},
+									"comment": {
+										"text": "The text to clean\n"
+									},
+									"type": {
+										"type": "intrinsic",
+										"name": "string"
+									}
+								}
+							],
+							"type": {
+								"type": "intrinsic",
+								"name": "string"
+							}
+						}
+					],
+					"sources": [
+						{
+							"fileName": "lib/clean.ts",
+							"line": 11,
+							"character": 21
+						}
+					]
+				},
+				{
+					"id": 12,
+					"name": "initClean",
+					"kind": 64,
+					"kindString": "Function",
+					"flags": {
+						"isExported": true
+					},
+					"signatures": [
+						{
+							"id": 13,
+							"name": "initClean",
+							"kind": 4096,
+							"kindString": "Call signature",
+							"flags": {
+								"isExported": true
+							},
+							"comment": {
+								"shortText": "Initializes the sensitive patterns for clean()"
+							},
+							"parameters": [
+								{
+									"id": 14,
+									"name": "token",
+									"kind": 32768,
+									"kindString": "Parameter",
+									"flags": {
+										"isExported": true
+									},
+									"comment": {
+										"text": "The token to clean\n"
+									},
+									"type": {
+										"type": "intrinsic",
+										"name": "string"
+									}
+								}
+							],
+							"type": {
+								"type": "intrinsic",
+								"name": "void"
+							}
+						}
+					],
+					"sources": [
+						{
+							"fileName": "lib/clean.ts",
+							"line": 20,
+							"character": 25
+						}
+					]
+				}
+			],
+			"groups": [
+				{
+					"title": "Variables",
+					"kind": 32,
+					"children": [
+						7,
+						8
+					]
+				},
+				{
+					"title": "Functions",
+					"kind": 64,
+					"children": [
+						9,
+						12
+					]
+				}
+			],
+			"sources": [
+				{
+					"fileName": "lib/clean.ts",
+					"line": 1,
+					"character": 0
+				}
+			]
+		},
+		{
+			"id": 27,
+			"name": "\"lib/codeBlock\"",
+			"kind": 1,
+			"kindString": "Module",
+			"flags": {
+				"isExported": true
+			},
+			"originalName": "/home/runner/work/utils/utils/src/lib/codeBlock.ts",
+			"children": [
+				{
+					"id": 28,
+					"name": "Stringifiable",
+					"kind": 256,
+					"kindString": "Interface",
+					"flags": {},
+					"children": [
+						{
+							"id": 29,
+							"name": "toString",
+							"kind": 2048,
+							"kindString": "Method",
+							"flags": {},
+							"signatures": [
+								{
+									"id": 30,
+									"name": "toString",
+									"kind": 4096,
+									"kindString": "Call signature",
+									"flags": {},
+									"type": {
+										"type": "intrinsic",
+										"name": "string"
+									}
+								}
+							],
+							"sources": [
+								{
+									"fileName": "lib/codeBlock.ts",
+									"line": 4,
+									"character": 9
+								}
+							]
+						}
+					],
+					"groups": [
+						{
+							"title": "Methods",
+							"kind": 2048,
+							"children": [
+								29
+							]
+						}
+					],
+					"sources": [
+						{
+							"fileName": "lib/codeBlock.ts",
+							"line": 3,
+							"character": 23
+						}
+					]
+				},
+				{
+					"id": 31,
+					"name": "zws",
+					"kind": 32,
+					"kindString": "Variable",
+					"flags": {
+						"isConst": true
+					},
+					"sources": [
+						{
+							"fileName": "lib/codeBlock.ts",
+							"line": 1,
+							"character": 9
+						}
+					],
+					"type": {
+						"type": "intrinsic",
+						"name": "string"
+					},
+					"defaultValue": "String.fromCharCode(8203)"
+				},
+				{
+					"id": 32,
+					"name": "codeBlock",
+					"kind": 64,
+					"kindString": "Function",
+					"flags": {
+						"isExported": true
+					},
+					"signatures": [
+						{
+							"id": 33,
+							"name": "codeBlock",
+							"kind": 4096,
+							"kindString": "Call signature",
+							"flags": {
+								"isExported": true
+							},
+							"comment": {
+								"shortText": "Makes a codeblock markup string",
+								"tags": [
+									{
+										"tag": "since",
+										"text": "0.0.1"
+									}
+								]
+							},
+							"parameters": [
+								{
+									"id": 34,
+									"name": "lang",
+									"kind": 32768,
+									"kindString": "Parameter",
+									"flags": {
+										"isExported": true
+									},
+									"comment": {
+										"text": "The codeblock language"
+									},
+									"type": {
+										"type": "intrinsic",
+										"name": "string"
+									}
+								},
+								{
+									"id": 35,
+									"name": "expression",
+									"kind": 32768,
+									"kindString": "Parameter",
+									"flags": {
+										"isExported": true
+									},
+									"comment": {
+										"text": "The expression to be wrapped in the codeblock\n"
+									},
+									"type": {
+										"type": "reference",
+										"id": 28,
+										"name": "Stringifiable"
+									}
+								}
+							],
+							"type": {
+								"type": "intrinsic",
+								"name": "string"
+							}
+						}
+					],
+					"sources": [
+						{
+							"fileName": "lib/codeBlock.ts",
+							"line": 13,
+							"character": 33
+						}
+					]
+				}
+			],
+			"groups": [
+				{
+					"title": "Interfaces",
+					"kind": 256,
+					"children": [
+						28
+					]
+				},
+				{
+					"title": "Variables",
+					"kind": 32,
+					"children": [
+						31
+					]
+				},
+				{
+					"title": "Functions",
+					"kind": 64,
+					"children": [
+						32
+					]
+				}
+			],
+			"sources": [
+				{
+					"fileName": "lib/codeBlock.ts",
+					"line": 1,
+					"character": 0
+				}
+			]
+		},
+		{
+			"id": 45,
+			"name": "\"lib/deepClone\"",
+			"kind": 1,
+			"kindString": "Module",
+			"flags": {
+				"isExported": true
+			},
+			"originalName": "/home/runner/work/utils/utils/src/lib/deepClone.ts",
+			"children": [
+				{
+					"id": 46,
+					"name": "deepClone",
+					"kind": 64,
+					"kindString": "Function",
+					"flags": {
+						"isExported": true
+					},
+					"signatures": [
+						{
+							"id": 47,
+							"name": "deepClone",
+							"kind": 4096,
+							"kindString": "Call signature",
+							"flags": {
+								"isExported": true
+							},
+							"comment": {
+								"shortText": "Deep clone a value",
+								"tags": [
+									{
+										"tag": "since",
+										"text": "0.5.0"
+									}
+								]
+							},
+							"typeParameter": [
+								{
+									"id": 48,
+									"name": "T",
+									"kind": 131072,
+									"kindString": "Type parameter",
+									"flags": {
+										"isExported": true
+									}
+								}
+							],
+							"parameters": [
+								{
+									"id": 49,
+									"name": "source",
+									"kind": 32768,
+									"kindString": "Parameter",
+									"flags": {
+										"isExported": true
+									},
+									"comment": {
+										"text": "The object to clone\n"
+									},
+									"type": {
+										"type": "typeParameter",
+										"name": "T"
+									}
+								}
+							],
+							"type": {
+								"type": "typeParameter",
+								"name": "T"
+							}
+						}
+					],
+					"sources": [
+						{
+							"fileName": "lib/deepClone.ts",
+							"line": 9,
+							"character": 33
+						}
+					]
+				}
+			],
+			"groups": [
+				{
+					"title": "Functions",
+					"kind": 64,
+					"children": [
+						46
+					]
+				}
+			],
+			"sources": [
+				{
+					"fileName": "lib/deepClone.ts",
+					"line": 1,
+					"character": 0
+				}
+			]
+		},
+		{
+			"id": 50,
+			"name": "\"lib/exec\"",
+			"kind": 1,
+			"kindString": "Module",
+			"flags": {
+				"isExported": true
+			},
+			"originalName": "/home/runner/work/utils/utils/src/lib/exec.ts",
+			"children": [
+				{
+					"id": 51,
+					"name": "PromisifiedExec",
+					"kind": 256,
+					"kindString": "Interface",
+					"flags": {},
+					"signatures": [
+						{
+							"id": 52,
+							"name": "__call",
+							"kind": 4096,
+							"kindString": "Call signature",
+							"flags": {},
+							"parameters": [
+								{
+									"id": 53,
+									"name": "command",
+									"kind": 32768,
+									"kindString": "Parameter",
+									"flags": {},
+									"type": {
+										"type": "intrinsic",
+										"name": "string"
+									}
+								}
+							],
+							"type": {
+								"type": "reference",
+								"typeArguments": [
+									{
+										"type": "reflection",
+										"declaration": {
+											"id": 54,
+											"name": "__type",
+											"kind": 65536,
+											"kindString": "Type literal",
+											"flags": {},
+											"children": [
+												{
+													"id": 56,
+													"name": "stderr",
+													"kind": 32,
+													"kindString": "Variable",
+													"flags": {},
+													"sources": [
+														{
+															"fileName": "lib/exec.ts",
+															"line": 5,
+															"character": 61
+														}
+													],
+													"type": {
+														"type": "intrinsic",
+														"name": "string"
+													}
+												},
+												{
+													"id": 55,
+													"name": "stdout",
+													"kind": 32,
+													"kindString": "Variable",
+													"flags": {},
+													"sources": [
+														{
+															"fileName": "lib/exec.ts",
+															"line": 5,
+															"character": 45
+														}
+													],
+													"type": {
+														"type": "intrinsic",
+														"name": "string"
+													}
+												}
+											],
+											"groups": [
+												{
+													"title": "Variables",
+													"kind": 32,
+													"children": [
+														56,
+														55
+													]
+												}
+											],
+											"sources": [
+												{
+													"fileName": "lib/exec.ts",
+													"line": 5,
+													"character": 37
+												}
+											]
+										}
+									}
+								],
+								"name": "PromiseWithChild"
+							}
+						},
+						{
+							"id": 57,
+							"name": "__call",
+							"kind": 4096,
+							"kindString": "Call signature",
+							"flags": {},
+							"parameters": [
+								{
+									"id": 58,
+									"name": "command",
+									"kind": 32768,
+									"kindString": "Parameter",
+									"flags": {},
+									"type": {
+										"type": "intrinsic",
+										"name": "string"
+									}
+								},
+								{
+									"id": 59,
+									"name": "options",
+									"kind": 32768,
+									"kindString": "Parameter",
+									"flags": {},
+									"type": {
+										"type": "intersection",
+										"types": [
+											{
+												"type": "reflection",
+												"declaration": {
+													"id": 60,
+													"name": "__type",
+													"kind": 65536,
+													"kindString": "Type literal",
+													"flags": {},
+													"children": [
+														{
+															"id": 61,
+															"name": "encoding",
+															"kind": 32,
+															"kindString": "Variable",
+															"flags": {},
+															"sources": [
+																{
+																	"fileName": "lib/exec.ts",
+																	"line": 6,
+																	"character": 38
+																}
+															],
+															"type": {
+																"type": "union",
+																"types": [
+																	{
+																		"type": "stringLiteral",
+																		"value": "buffer"
+																	},
+																	{
+																		"type": "intrinsic",
+																		"name": "null"
+																	}
+																]
+															}
+														}
+													],
+													"groups": [
+														{
+															"title": "Variables",
+															"kind": 32,
+															"children": [
+																61
+															]
+														}
+													],
+													"sources": [
+														{
+															"fileName": "lib/exec.ts",
+															"line": 6,
+															"character": 27
+														}
+													]
+												}
+											},
+											{
+												"type": "reference",
+												"name": "ExecOptions"
+											}
+										]
+									}
+								}
+							],
+							"type": {
+								"type": "reference",
+								"typeArguments": [
+									{
+										"type": "reflection",
+										"declaration": {
+											"id": 62,
+											"name": "__type",
+											"kind": 65536,
+											"kindString": "Type literal",
+											"flags": {},
+											"children": [
+												{
+													"id": 64,
+													"name": "stderr",
+													"kind": 32,
+													"kindString": "Variable",
+													"flags": {},
+													"sources": [
+														{
+															"fileName": "lib/exec.ts",
+															"line": 6,
+															"character": 115
+														}
+													],
+													"type": {
+														"type": "reference",
+														"name": "Buffer"
+													}
+												},
+												{
+													"id": 63,
+													"name": "stdout",
+													"kind": 32,
+													"kindString": "Variable",
+													"flags": {},
+													"sources": [
+														{
+															"fileName": "lib/exec.ts",
+															"line": 6,
+															"character": 99
+														}
+													],
+													"type": {
+														"type": "reference",
+														"name": "Buffer"
+													}
+												}
+											],
+											"groups": [
+												{
+													"title": "Variables",
+													"kind": 32,
+													"children": [
+														64,
+														63
+													]
+												}
+											],
+											"sources": [
+												{
+													"fileName": "lib/exec.ts",
+													"line": 6,
+													"character": 91
+												}
+											]
+										}
+									}
+								],
+								"name": "PromiseWithChild"
+							}
+						},
+						{
+							"id": 65,
+							"name": "__call",
+							"kind": 4096,
+							"kindString": "Call signature",
+							"flags": {},
+							"parameters": [
+								{
+									"id": 66,
+									"name": "command",
+									"kind": 32768,
+									"kindString": "Parameter",
+									"flags": {},
+									"type": {
+										"type": "intrinsic",
+										"name": "string"
+									}
+								},
+								{
+									"id": 67,
+									"name": "options",
+									"kind": 32768,
+									"kindString": "Parameter",
+									"flags": {},
+									"type": {
+										"type": "intersection",
+										"types": [
+											{
+												"type": "reflection",
+												"declaration": {
+													"id": 68,
+													"name": "__type",
+													"kind": 65536,
+													"kindString": "Type literal",
+													"flags": {},
+													"children": [
+														{
+															"id": 69,
+															"name": "encoding",
+															"kind": 32,
+															"kindString": "Variable",
+															"flags": {},
+															"sources": [
+																{
+																	"fileName": "lib/exec.ts",
+																	"line": 7,
+																	"character": 38
+																}
+															],
+															"type": {
+																"type": "reference",
+																"name": "BufferEncoding"
+															}
+														}
+													],
+													"groups": [
+														{
+															"title": "Variables",
+															"kind": 32,
+															"children": [
+																69
+															]
+														}
+													],
+													"sources": [
+														{
+															"fileName": "lib/exec.ts",
+															"line": 7,
+															"character": 27
+														}
+													]
+												}
+											},
+											{
+												"type": "reference",
+												"name": "ExecOptions"
+											}
+										]
+									}
+								}
+							],
+							"type": {
+								"type": "reference",
+								"typeArguments": [
+									{
+										"type": "reflection",
+										"declaration": {
+											"id": 70,
+											"name": "__type",
+											"kind": 65536,
+											"kindString": "Type literal",
+											"flags": {},
+											"children": [
+												{
+													"id": 72,
+													"name": "stderr",
+													"kind": 32,
+													"kindString": "Variable",
+													"flags": {},
+													"sources": [
+														{
+															"fileName": "lib/exec.ts",
+															"line": 7,
+															"character": 114
+														}
+													],
+													"type": {
+														"type": "intrinsic",
+														"name": "string"
+													}
+												},
+												{
+													"id": 71,
+													"name": "stdout",
+													"kind": 32,
+													"kindString": "Variable",
+													"flags": {},
+													"sources": [
+														{
+															"fileName": "lib/exec.ts",
+															"line": 7,
+															"character": 98
+														}
+													],
+													"type": {
+														"type": "intrinsic",
+														"name": "string"
+													}
+												}
+											],
+											"groups": [
+												{
+													"title": "Variables",
+													"kind": 32,
+													"children": [
+														72,
+														71
+													]
+												}
+											],
+											"sources": [
+												{
+													"fileName": "lib/exec.ts",
+													"line": 7,
+													"character": 90
+												}
+											]
+										}
+									}
+								],
+								"name": "PromiseWithChild"
+							}
+						},
+						{
+							"id": 73,
+							"name": "__call",
+							"kind": 4096,
+							"kindString": "Call signature",
+							"flags": {},
+							"parameters": [
+								{
+									"id": 74,
+									"name": "command",
+									"kind": 32768,
+									"kindString": "Parameter",
+									"flags": {},
+									"type": {
+										"type": "intrinsic",
+										"name": "string"
+									}
+								},
+								{
+									"id": 75,
+									"name": "options",
+									"kind": 32768,
+									"kindString": "Parameter",
+									"flags": {},
+									"type": {
+										"type": "reference",
+										"name": "ExecOptions"
+									}
+								}
+							],
+							"type": {
+								"type": "reference",
+								"typeArguments": [
+									{
+										"type": "reflection",
+										"declaration": {
+											"id": 76,
+											"name": "__type",
+											"kind": 65536,
+											"kindString": "Type literal",
+											"flags": {},
+											"children": [
+												{
+													"id": 78,
+													"name": "stderr",
+													"kind": 32,
+													"kindString": "Variable",
+													"flags": {},
+													"sources": [
+														{
+															"fileName": "lib/exec.ts",
+															"line": 8,
+															"character": 83
+														}
+													],
+													"type": {
+														"type": "intrinsic",
+														"name": "string"
+													}
+												},
+												{
+													"id": 77,
+													"name": "stdout",
+													"kind": 32,
+													"kindString": "Variable",
+													"flags": {},
+													"sources": [
+														{
+															"fileName": "lib/exec.ts",
+															"line": 8,
+															"character": 67
+														}
+													],
+													"type": {
+														"type": "intrinsic",
+														"name": "string"
+													}
+												}
+											],
+											"groups": [
+												{
+													"title": "Variables",
+													"kind": 32,
+													"children": [
+														78,
+														77
+													]
+												}
+											],
+											"sources": [
+												{
+													"fileName": "lib/exec.ts",
+													"line": 8,
+													"character": 59
+												}
+											]
+										}
+									}
+								],
+								"name": "PromiseWithChild"
+							}
+						},
+						{
+							"id": 79,
+							"name": "__call",
+							"kind": 4096,
+							"kindString": "Call signature",
+							"flags": {},
+							"parameters": [
+								{
+									"id": 80,
+									"name": "command",
+									"kind": 32768,
+									"kindString": "Parameter",
+									"flags": {},
+									"type": {
+										"type": "intrinsic",
+										"name": "string"
+									}
+								},
+								{
+									"id": 81,
+									"name": "options",
+									"kind": 32768,
+									"kindString": "Parameter",
+									"flags": {
+										"isOptional": true
+									},
+									"type": {
+										"type": "union",
+										"types": [
+											{
+												"type": "intersection",
+												"types": [
+													{
+														"type": "reflection",
+														"declaration": {
+															"id": 82,
+															"name": "__type",
+															"kind": 65536,
+															"kindString": "Type literal",
+															"flags": {},
+															"children": [
+																{
+																	"id": 83,
+																	"name": "encoding",
+																	"kind": 32,
+																	"kindString": "Variable",
+																	"flags": {
+																		"isOptional": true
+																	},
+																	"sources": [
+																		{
+																			"fileName": "lib/exec.ts",
+																			"line": 9,
+																			"character": 40
+																		}
+																	],
+																	"type": {
+																		"type": "union",
+																		"types": [
+																			{
+																				"type": "intrinsic",
+																				"name": "string"
+																			},
+																			{
+																				"type": "intrinsic",
+																				"name": "null"
+																			}
+																		]
+																	}
+																}
+															],
+															"groups": [
+																{
+																	"title": "Variables",
+																	"kind": 32,
+																	"children": [
+																		83
+																	]
+																}
+															]
+														}
+													},
+													{
+														"type": "reference",
+														"name": "ExecOptions"
+													}
+												]
+											},
+											{
+												"type": "intrinsic",
+												"name": "null"
+											}
+										]
+									}
+								}
+							],
+							"type": {
+								"type": "reference",
+								"typeArguments": [
+									{
+										"type": "reflection",
+										"declaration": {
+											"id": 84,
+											"name": "__type",
+											"kind": 65536,
+											"kindString": "Type literal",
+											"flags": {},
+											"children": [
+												{
+													"id": 86,
+													"name": "stderr",
+													"kind": 32,
+													"kindString": "Variable",
+													"flags": {},
+													"sources": [
+														{
+															"fileName": "lib/exec.ts",
+															"line": 9,
+															"character": 133
+														}
+													],
+													"type": {
+														"type": "union",
+														"types": [
+															{
+																"type": "intrinsic",
+																"name": "string"
+															},
+															{
+																"type": "reference",
+																"name": "Buffer"
+															}
+														]
+													}
+												},
+												{
+													"id": 85,
+													"name": "stdout",
+													"kind": 32,
+													"kindString": "Variable",
+													"flags": {},
+													"sources": [
+														{
+															"fileName": "lib/exec.ts",
+															"line": 9,
+															"character": 108
+														}
+													],
+													"type": {
+														"type": "union",
+														"types": [
+															{
+																"type": "intrinsic",
+																"name": "string"
+															},
+															{
+																"type": "reference",
+																"name": "Buffer"
+															}
+														]
+													}
+												}
+											],
+											"groups": [
+												{
+													"title": "Variables",
+													"kind": 32,
+													"children": [
+														86,
+														85
+													]
+												}
+											],
+											"sources": [
+												{
+													"fileName": "lib/exec.ts",
+													"line": 9,
+													"character": 100
+												}
+											]
+										}
+									}
+								],
+								"name": "PromiseWithChild"
+							}
+						}
+					],
+					"sources": [
+						{
+							"fileName": "lib/exec.ts",
+							"line": 4,
+							"character": 25
+						}
+					]
+				},
+				{
+					"id": 87,
+					"name": "exec",
+					"kind": 32,
+					"kindString": "Variable",
+					"flags": {
+						"isExported": true,
+						"isConst": true
+					},
+					"comment": {
+						"shortText": "Promisified version of child_process.exec for use with await",
+						"tags": [
+							{
+								"tag": "param",
+								"text": "The command to run",
+								"param": "command"
+							},
+							{
+								"tag": "param",
+								"text": "The options to pass to exec\n",
+								"param": "options"
+							}
+						]
+					},
+					"sources": [
+						{
+							"fileName": "lib/exec.ts",
+							"line": 17,
+							"character": 10
+						}
+					],
+					"type": {
+						"type": "reference",
+						"id": 51,
+						"name": "PromisifiedExec"
+					},
+					"defaultValue": "promisify(childProcessExec)"
+				}
+			],
+			"groups": [
+				{
+					"title": "Interfaces",
+					"kind": 256,
+					"children": [
+						51
+					]
+				},
+				{
+					"title": "Variables",
+					"kind": 32,
+					"children": [
+						87
+					]
+				}
+			],
+			"sources": [
+				{
+					"fileName": "lib/exec.ts",
+					"line": 1,
+					"character": 0
+				}
+			]
+		},
+		{
+			"id": 88,
+			"name": "\"lib/isClass\"",
+			"kind": 1,
+			"kindString": "Module",
+			"flags": {
+				"isExported": true
+			},
+			"originalName": "/home/runner/work/utils/utils/src/lib/isClass.ts",
+			"children": [
+				{
+					"id": 89,
+					"name": "isClass",
+					"kind": 64,
+					"kindString": "Function",
+					"flags": {
+						"isExported": true
+					},
+					"signatures": [
+						{
+							"id": 90,
+							"name": "isClass",
+							"kind": 4096,
+							"kindString": "Call signature",
+							"flags": {
+								"isExported": true
+							},
+							"comment": {
+								"shortText": "Verify if the input is a class constructor."
+							},
+							"parameters": [
+								{
+									"id": 91,
+									"name": "input",
+									"kind": 32768,
+									"kindString": "Parameter",
+									"flags": {
+										"isExported": true
+									},
+									"comment": {
+										"text": "The function to verify\n"
+									},
+									"type": {
+										"type": "intrinsic",
+										"name": "unknown"
+									}
+								}
+							],
+							"type": {
+								"type": "intrinsic",
+								"name": "boolean"
+							}
+						}
+					],
+					"sources": [
+						{
+							"fileName": "lib/isClass.ts",
+							"line": 5,
+							"character": 31
+						}
+					]
+				}
+			],
+			"groups": [
+				{
+					"title": "Functions",
+					"kind": 64,
+					"children": [
+						89
+					]
+				}
+			],
+			"sources": [
+				{
+					"fileName": "lib/isClass.ts",
+					"line": 1,
+					"character": 0
+				}
+			]
+		},
+		{
+			"id": 92,
+			"name": "\"lib/isFunction\"",
+			"kind": 1,
+			"kindString": "Module",
+			"flags": {
+				"isExported": true
+			},
+			"originalName": "/home/runner/work/utils/utils/src/lib/isFunction.ts",
+			"children": [
+				{
+					"id": 93,
+					"name": "isFunction",
+					"kind": 64,
+					"kindString": "Function",
+					"flags": {
+						"isExported": true
+					},
+					"signatures": [
+						{
+							"id": 94,
+							"name": "isFunction",
+							"kind": 4096,
+							"kindString": "Call signature",
+							"flags": {
+								"isExported": true
+							},
+							"comment": {
+								"shortText": "Verify if the input is a function."
+							},
+							"parameters": [
+								{
+									"id": 95,
+									"name": "input",
+									"kind": 32768,
+									"kindString": "Parameter",
+									"flags": {
+										"isExported": true
+									},
+									"comment": {
+										"text": "The function to verify\n"
+									},
+									"type": {
+										"type": "intrinsic",
+										"name": "unknown"
+									}
+								}
+							],
+							"type": {
+								"type": "predicate",
+								"name": "input",
+								"asserts": false,
+								"targetType": {
+									"type": "reference",
+									"name": "Function"
+								}
+							}
+						}
+					],
+					"sources": [
+						{
+							"fileName": "lib/isFunction.ts",
+							"line": 5,
+							"character": 34
+						}
+					]
+				}
+			],
+			"groups": [
+				{
+					"title": "Functions",
+					"kind": 64,
+					"children": [
+						93
+					]
+				}
+			],
+			"sources": [
+				{
+					"fileName": "lib/isFunction.ts",
+					"line": 1,
+					"character": 0
+				}
+			]
+		},
+		{
+			"id": 96,
+			"name": "\"lib/isNumber\"",
+			"kind": 1,
+			"kindString": "Module",
+			"flags": {
+				"isExported": true
+			},
+			"originalName": "/home/runner/work/utils/utils/src/lib/isNumber.ts",
+			"children": [
+				{
+					"id": 97,
+					"name": "isNumber",
+					"kind": 64,
+					"kindString": "Function",
+					"flags": {
+						"isExported": true
+					},
+					"signatures": [
+						{
+							"id": 98,
+							"name": "isNumber",
+							"kind": 4096,
+							"kindString": "Call signature",
+							"flags": {
+								"isExported": true
+							},
+							"comment": {
+								"shortText": "Verify if a number is a finite number."
+							},
+							"parameters": [
+								{
+									"id": 99,
+									"name": "input",
+									"kind": 32768,
+									"kindString": "Parameter",
+									"flags": {
+										"isExported": true
+									},
+									"comment": {
+										"text": "The number to verify\n"
+									},
+									"type": {
+										"type": "intrinsic",
+										"name": "unknown"
+									}
+								}
+							],
+							"type": {
+								"type": "predicate",
+								"name": "input",
+								"asserts": false,
+								"targetType": {
+									"type": "intrinsic",
+									"name": "number"
+								}
+							}
+						}
+					],
+					"sources": [
+						{
+							"fileName": "lib/isNumber.ts",
+							"line": 5,
+							"character": 32
+						}
+					]
+				}
+			],
+			"groups": [
+				{
+					"title": "Functions",
+					"kind": 64,
+					"children": [
+						97
+					]
+				}
+			],
+			"sources": [
+				{
+					"fileName": "lib/isNumber.ts",
+					"line": 1,
+					"character": 0
+				}
+			]
+		},
+		{
+			"id": 41,
+			"name": "\"lib/isObject\"",
+			"kind": 1,
+			"kindString": "Module",
+			"flags": {
+				"isExported": true
+			},
+			"originalName": "/home/runner/work/utils/utils/src/lib/isObject.ts",
+			"children": [
+				{
+					"id": 42,
+					"name": "isObject",
+					"kind": 64,
+					"kindString": "Function",
+					"flags": {
+						"isExported": true
+					},
+					"signatures": [
+						{
+							"id": 43,
+							"name": "isObject",
+							"kind": 4096,
+							"kindString": "Call signature",
+							"flags": {
+								"isExported": true
+							},
+							"comment": {
+								"shortText": "Verify if the input is an object literal (or class)."
+							},
+							"parameters": [
+								{
+									"id": 44,
+									"name": "input",
+									"kind": 32768,
+									"kindString": "Parameter",
+									"flags": {
+										"isExported": true
+									},
+									"comment": {
+										"text": "The object to verify\n"
+									},
+									"type": {
+										"type": "intrinsic",
+										"name": "unknown"
+									}
+								}
+							],
+							"type": {
+								"type": "predicate",
+								"name": "input",
+								"asserts": false,
+								"targetType": {
+									"type": "union",
+									"types": [
+										{
+											"type": "reference",
+											"typeArguments": [
+												{
+													"type": "reference",
+													"name": "PropertyKey"
+												},
+												{
+													"type": "intrinsic",
+													"name": "unknown"
+												}
+											],
+											"name": "Record"
+										},
+										{
+											"type": "intrinsic",
+											"name": "object"
+										}
+									]
+								}
+							}
+						}
+					],
+					"sources": [
+						{
+							"fileName": "lib/isObject.ts",
+							"line": 5,
+							"character": 32
+						}
+					]
+				}
+			],
+			"groups": [
+				{
+					"title": "Functions",
+					"kind": 64,
+					"children": [
+						42
+					]
+				}
+			],
+			"sources": [
+				{
+					"fileName": "lib/isObject.ts",
+					"line": 1,
+					"character": 0
+				}
+			]
+		},
+		{
+			"id": 36,
+			"name": "\"lib/isPrimitive\"",
+			"kind": 1,
+			"kindString": "Module",
+			"flags": {
+				"isExported": true
+			},
+			"originalName": "/home/runner/work/utils/utils/src/lib/isPrimitive.ts",
+			"children": [
+				{
+					"id": 37,
+					"name": "PRIMITIVE_TYPES",
+					"kind": 32,
+					"kindString": "Variable",
+					"flags": {
+						"isConst": true
+					},
+					"sources": [
+						{
+							"fileName": "lib/isPrimitive.ts",
+							"line": 1,
+							"character": 21
+						}
+					],
+					"type": {
+						"type": "array",
+						"elementType": {
+							"type": "intrinsic",
+							"name": "string"
+						}
+					},
+					"defaultValue": "['string', 'bigint', 'number', 'boolean']"
+				},
+				{
+					"id": 38,
+					"name": "isPrimitive",
+					"kind": 64,
+					"kindString": "Function",
+					"flags": {
+						"isExported": true
+					},
+					"signatures": [
+						{
+							"id": 39,
+							"name": "isPrimitive",
+							"kind": 4096,
+							"kindString": "Call signature",
+							"flags": {
+								"isExported": true
+							},
+							"comment": {
+								"shortText": "Check whether a value is a primitive",
+								"tags": [
+									{
+										"tag": "since",
+										"text": "0.5.0"
+									}
+								]
+							},
+							"parameters": [
+								{
+									"id": 40,
+									"name": "input",
+									"kind": 32768,
+									"kindString": "Parameter",
+									"flags": {
+										"isExported": true
+									},
+									"comment": {
+										"text": "The input to check\n"
+									},
+									"type": {
+										"type": "intrinsic",
+										"name": "unknown"
+									}
+								}
+							],
+							"type": {
+								"type": "predicate",
+								"name": "input",
+								"asserts": false,
+								"targetType": {
+									"type": "union",
+									"types": [
+										{
+											"type": "intrinsic",
+											"name": "string"
+										},
+										{
+											"type": "intrinsic",
+											"name": "number"
+										},
+										{
+											"type": "intrinsic",
+											"name": "bigint"
+										},
+										{
+											"type": "intrinsic",
+											"name": "false"
+										},
+										{
+											"type": "intrinsic",
+											"name": "true"
+										}
+									]
+								}
+							}
+						}
+					],
+					"sources": [
+						{
+							"fileName": "lib/isPrimitive.ts",
+							"line": 8,
+							"character": 35
+						}
+					]
+				}
+			],
+			"groups": [
+				{
+					"title": "Variables",
+					"kind": 32,
+					"children": [
+						37
+					]
+				},
+				{
+					"title": "Functions",
+					"kind": 64,
+					"children": [
+						38
+					]
+				}
+			],
+			"sources": [
+				{
+					"fileName": "lib/isPrimitive.ts",
+					"line": 1,
+					"character": 0
+				}
+			]
+		},
+		{
+			"id": 100,
+			"name": "\"lib/isThenable\"",
+			"kind": 1,
+			"kindString": "Module",
+			"flags": {
+				"isExported": true
+			},
+			"originalName": "/home/runner/work/utils/utils/src/lib/isThenable.ts",
+			"children": [
+				{
+					"id": 101,
+					"name": "Thenable",
+					"kind": 256,
+					"kindString": "Interface",
+					"flags": {
+						"isExported": true
+					},
+					"children": [
+						{
+							"id": 103,
+							"name": "catch",
+							"kind": 1024,
+							"kindString": "Property",
+							"flags": {
+								"isExported": true
+							},
+							"sources": [
+								{
+									"fileName": "lib/isThenable.ts",
+									"line": 5,
+									"character": 6
+								}
+							],
+							"type": {
+								"type": "reference",
+								"name": "Function"
+							}
+						},
+						{
+							"id": 102,
+							"name": "then",
+							"kind": 1024,
+							"kindString": "Property",
+							"flags": {
+								"isExported": true
+							},
+							"sources": [
+								{
+									"fileName": "lib/isThenable.ts",
+									"line": 4,
+									"character": 5
+								}
+							],
+							"type": {
+								"type": "reference",
+								"name": "Function"
+							}
+						}
+					],
+					"groups": [
+						{
+							"title": "Properties",
+							"kind": 1024,
+							"children": [
+								103,
+								102
+							]
+						}
+					],
+					"sources": [
+						{
+							"fileName": "lib/isThenable.ts",
+							"line": 3,
+							"character": 25
+						}
+					]
+				},
+				{
+					"id": 109,
+					"name": "hasCatch",
+					"kind": 64,
+					"kindString": "Function",
+					"flags": {},
+					"signatures": [
+						{
+							"id": 110,
+							"name": "hasCatch",
+							"kind": 4096,
+							"kindString": "Call signature",
+							"flags": {},
+							"parameters": [
+								{
+									"id": 111,
+									"name": "input",
+									"kind": 32768,
+									"kindString": "Parameter",
+									"flags": {},
+									"type": {
+										"type": "reflection",
+										"declaration": {
+											"id": 112,
+											"name": "__type",
+											"kind": 65536,
+											"kindString": "Type literal",
+											"flags": {},
+											"children": [
+												{
+													"id": 113,
+													"name": "catch",
+													"kind": 32,
+													"kindString": "Variable",
+													"flags": {
+														"isOptional": true
+													},
+													"sources": [
+														{
+															"fileName": "lib/isThenable.ts",
+															"line": 12,
+															"character": 32
+														}
+													],
+													"type": {
+														"type": "reference",
+														"name": "Function"
+													}
+												}
+											],
+											"groups": [
+												{
+													"title": "Variables",
+													"kind": 32,
+													"children": [
+														113
+													]
+												}
+											],
+											"sources": [
+												{
+													"fileName": "lib/isThenable.ts",
+													"line": 12,
+													"character": 24
+												}
+											]
+										}
+									}
+								}
+							],
+							"type": {
+								"type": "intrinsic",
+								"name": "boolean"
+							}
+						}
+					],
+					"sources": [
+						{
+							"fileName": "lib/isThenable.ts",
+							"line": 12,
+							"character": 17
+						}
+					]
+				},
+				{
+					"id": 104,
+					"name": "hasThen",
+					"kind": 64,
+					"kindString": "Function",
+					"flags": {},
+					"signatures": [
+						{
+							"id": 105,
+							"name": "hasThen",
+							"kind": 4096,
+							"kindString": "Call signature",
+							"flags": {},
+							"parameters": [
+								{
+									"id": 106,
+									"name": "input",
+									"kind": 32768,
+									"kindString": "Parameter",
+									"flags": {},
+									"type": {
+										"type": "reflection",
+										"declaration": {
+											"id": 107,
+											"name": "__type",
+											"kind": 65536,
+											"kindString": "Type literal",
+											"flags": {},
+											"children": [
+												{
+													"id": 108,
+													"name": "then",
+													"kind": 32,
+													"kindString": "Variable",
+													"flags": {
+														"isOptional": true
+													},
+													"sources": [
+														{
+															"fileName": "lib/isThenable.ts",
+															"line": 8,
+															"character": 30
+														}
+													],
+													"type": {
+														"type": "reference",
+														"name": "Function"
+													}
+												}
+											],
+											"groups": [
+												{
+													"title": "Variables",
+													"kind": 32,
+													"children": [
+														108
+													]
+												}
+											],
+											"sources": [
+												{
+													"fileName": "lib/isThenable.ts",
+													"line": 8,
+													"character": 23
+												}
+											]
+										}
+									}
+								}
+							],
+							"type": {
+								"type": "intrinsic",
+								"name": "boolean"
+							}
+						}
+					],
+					"sources": [
+						{
+							"fileName": "lib/isThenable.ts",
+							"line": 8,
+							"character": 16
+						}
+					]
+				},
+				{
+					"id": 114,
+					"name": "isThenable",
+					"kind": 64,
+					"kindString": "Function",
+					"flags": {
+						"isExported": true
+					},
+					"signatures": [
+						{
+							"id": 115,
+							"name": "isThenable",
+							"kind": 4096,
+							"kindString": "Call signature",
+							"flags": {
+								"isExported": true
+							},
+							"comment": {
+								"shortText": "Verify if an object is a promise."
+							},
+							"parameters": [
+								{
+									"id": 116,
+									"name": "input",
+									"kind": 32768,
+									"kindString": "Parameter",
+									"flags": {
+										"isExported": true
+									},
+									"comment": {
+										"text": "The promise to verify\n"
+									},
+									"type": {
+										"type": "intrinsic",
+										"name": "unknown"
+									}
+								}
+							],
+							"type": {
+								"type": "predicate",
+								"name": "input",
+								"asserts": false,
+								"targetType": {
+									"type": "reference",
+									"name": "Thenable"
+								}
+							}
+						}
+					],
+					"sources": [
+						{
+							"fileName": "lib/isThenable.ts",
+							"line": 20,
+							"character": 34
+						}
+					]
+				}
+			],
+			"groups": [
+				{
+					"title": "Interfaces",
+					"kind": 256,
+					"children": [
+						101
+					]
+				},
+				{
+					"title": "Functions",
+					"kind": 64,
+					"children": [
+						109,
+						104,
+						114
+					]
+				}
+			],
+			"sources": [
+				{
+					"fileName": "lib/isThenable.ts",
+					"line": 1,
+					"character": 0
+				}
+			]
+		},
+		{
+			"id": 117,
+			"name": "\"lib/makeObject\"",
+			"kind": 1,
+			"kindString": "Module",
+			"flags": {
+				"isExported": true
+			},
+			"originalName": "/home/runner/work/utils/utils/src/lib/makeObject.ts",
+			"children": [
+				{
+					"id": 118,
+					"name": "makeObject",
+					"kind": 64,
+					"kindString": "Function",
+					"flags": {
+						"isExported": true
+					},
+					"signatures": [
+						{
+							"id": 119,
+							"name": "makeObject",
+							"kind": 4096,
+							"kindString": "Call signature",
+							"flags": {
+								"isExported": true
+							},
+							"comment": {
+								"shortText": "Turn a dotted path into a json object."
+							},
+							"parameters": [
+								{
+									"id": 120,
+									"name": "path",
+									"kind": 32768,
+									"kindString": "Parameter",
+									"flags": {
+										"isExported": true
+									},
+									"comment": {
+										"text": "The dotted path"
+									},
+									"type": {
+										"type": "intrinsic",
+										"name": "string"
+									}
+								},
+								{
+									"id": 121,
+									"name": "value",
+									"kind": 32768,
+									"kindString": "Parameter",
+									"flags": {
+										"isExported": true
+									},
+									"comment": {
+										"text": "The value"
+									},
+									"type": {
+										"type": "intrinsic",
+										"name": "unknown"
+									}
+								},
+								{
+									"id": 122,
+									"name": "obj",
+									"kind": 32768,
+									"kindString": "Parameter",
+									"flags": {
+										"isExported": true
+									},
+									"comment": {
+										"text": "The object to edit\n"
+									},
+									"type": {
+										"type": "reference",
+										"typeArguments": [
+											{
+												"type": "intrinsic",
+												"name": "string"
+											},
+											{
+												"type": "intrinsic",
+												"name": "unknown"
+											}
+										],
+										"name": "Record"
+									},
+									"defaultValue": "{}"
+								}
+							],
+							"type": {
+								"type": "reference",
+								"typeArguments": [
+									{
+										"type": "intrinsic",
+										"name": "string"
+									},
+									{
+										"type": "intrinsic",
+										"name": "unknown"
+									}
+								],
+								"name": "Record"
+							}
+						}
+					],
+					"sources": [
+						{
+							"fileName": "lib/makeObject.ts",
+							"line": 7,
+							"character": 34
+						}
+					]
+				}
+			],
+			"groups": [
+				{
+					"title": "Functions",
+					"kind": 64,
+					"children": [
+						118
+					]
+				}
+			],
+			"sources": [
+				{
+					"fileName": "lib/makeObject.ts",
+					"line": 1,
+					"character": 0
+				}
+			]
+		},
+		{
+			"id": 123,
+			"name": "\"lib/mergeDefault\"",
+			"kind": 1,
+			"kindString": "Module",
+			"flags": {
+				"isExported": true
+			},
+			"originalName": "/home/runner/work/utils/utils/src/lib/mergeDefault.ts",
+			"children": [
+				{
+					"id": 124,
+					"name": "KeyedObject",
+					"kind": 4194304,
+					"kindString": "Type alias",
+					"flags": {},
+					"sources": [
+						{
+							"fileName": "lib/mergeDefault.ts",
+							"line": 4,
+							"character": 16
+						}
+					],
+					"type": {
+						"type": "reference",
+						"typeArguments": [
+							{
+								"type": "reference",
+								"name": "PropertyKey"
+							},
+							{
+								"type": "intrinsic",
+								"name": "unknown"
+							}
+						],
+						"name": "Record"
+					}
+				},
+				{
+					"id": 125,
+					"name": "mergeDefault",
+					"kind": 64,
+					"kindString": "Function",
+					"flags": {
+						"isExported": true
+					},
+					"signatures": [
+						{
+							"id": 126,
+							"name": "mergeDefault",
+							"kind": 4096,
+							"kindString": "Call signature",
+							"flags": {
+								"isExported": true
+							},
+							"comment": {
+								"shortText": "Sets default properties on an object that aren't already specified.",
+								"tags": [
+									{
+										"tag": "since",
+										"text": "0.5.0"
+									}
+								]
+							},
+							"typeParameter": [
+								{
+									"id": 127,
+									"name": "A",
+									"kind": 131072,
+									"kindString": "Type parameter",
+									"flags": {
+										"isExported": true
+									},
+									"type": {
+										"type": "reference",
+										"id": 124,
+										"name": "KeyedObject"
+									}
+								},
+								{
+									"id": 128,
+									"name": "B",
+									"kind": 131072,
+									"kindString": "Type parameter",
+									"flags": {
+										"isExported": true
+									},
+									"type": {
+										"type": "reference",
+										"typeArguments": [
+											{
+												"type": "typeParameter",
+												"name": "A"
+											}
+										],
+										"name": "Partial"
+									}
+								}
+							],
+							"parameters": [
+								{
+									"id": 129,
+									"name": "defaults",
+									"kind": 32768,
+									"kindString": "Parameter",
+									"flags": {
+										"isExported": true
+									},
+									"type": {
+										"type": "typeParameter",
+										"name": "A",
+										"constraint": {
+											"type": "reference",
+											"id": 124,
+											"name": "KeyedObject"
+										}
+									}
+								},
+								{
+									"id": 130,
+									"name": "given",
+									"kind": 32768,
+									"kindString": "Parameter",
+									"flags": {
+										"isExported": true,
+										"isOptional": true
+									},
+									"comment": {
+										"text": "Object to assign defaults to\n"
+									},
+									"type": {
+										"type": "reference",
+										"id": 128,
+										"name": "B"
+									}
+								}
+							],
+							"type": {
+								"type": "intersection",
+								"types": [
+									{
+										"type": "typeParameter",
+										"name": "A",
+										"constraint": {
+											"type": "reference",
+											"id": 124,
+											"name": "KeyedObject"
+										}
+									},
+									{
+										"type": "typeParameter",
+										"name": "B",
+										"constraint": {
+											"type": "reference",
+											"typeArguments": [
+												{
+													"type": "typeParameter",
+													"name": "A"
+												}
+											],
+											"name": "Partial"
+										}
+									}
+								]
+							}
+						}
+					],
+					"sources": [
+						{
+							"fileName": "lib/mergeDefault.ts",
+							"line": 12,
+							"character": 36
+						}
+					]
+				}
+			],
+			"groups": [
+				{
+					"title": "Type aliases",
+					"kind": 4194304,
+					"children": [
+						124
+					]
+				},
+				{
+					"title": "Functions",
+					"kind": 64,
+					"children": [
+						125
+					]
+				}
+			],
+			"sources": [
+				{
+					"fileName": "lib/mergeDefault.ts",
+					"line": 1,
+					"character": 0
+				}
+			]
+		},
+		{
+			"id": 131,
+			"name": "\"lib/mergeObjects\"",
+			"kind": 1,
+			"kindString": "Module",
+			"flags": {
+				"isExported": true
+			},
+			"originalName": "/home/runner/work/utils/utils/src/lib/mergeObjects.ts",
+			"children": [
+				{
+					"id": 132,
+					"name": "KeyedObject",
+					"kind": 4194304,
+					"kindString": "Type alias",
+					"flags": {},
+					"sources": [
+						{
+							"fileName": "lib/mergeObjects.ts",
+							"line": 3,
+							"character": 16
+						}
+					],
+					"type": {
+						"type": "reference",
+						"typeArguments": [
+							{
+								"type": "reference",
+								"name": "PropertyKey"
+							},
+							{
+								"type": "intrinsic",
+								"name": "unknown"
+							}
+						],
+						"name": "Record"
+					}
+				},
+				{
+					"id": 133,
+					"name": "mergeObjects",
+					"kind": 64,
+					"kindString": "Function",
+					"flags": {
+						"isExported": true
+					},
+					"signatures": [
+						{
+							"id": 134,
+							"name": "mergeObjects",
+							"kind": 4096,
+							"kindString": "Call signature",
+							"flags": {
+								"isExported": true
+							},
+							"comment": {
+								"shortText": "Merges two objects"
+							},
+							"typeParameter": [
+								{
+									"id": 135,
+									"name": "A",
+									"kind": 131072,
+									"kindString": "Type parameter",
+									"flags": {
+										"isExported": true
+									},
+									"type": {
+										"type": "reference",
+										"id": 132,
+										"name": "KeyedObject"
+									}
+								},
+								{
+									"id": 136,
+									"name": "B",
+									"kind": 131072,
+									"kindString": "Type parameter",
+									"flags": {
+										"isExported": true
+									},
+									"type": {
+										"type": "reference",
+										"id": 132,
+										"name": "KeyedObject"
+									}
+								}
+							],
+							"parameters": [
+								{
+									"id": 137,
+									"name": "objTarget",
+									"kind": 32768,
+									"kindString": "Parameter",
+									"flags": {
+										"isExported": true
+									},
+									"comment": {
+										"text": "The object to be merged"
+									},
+									"type": {
+										"type": "typeParameter",
+										"name": "A",
+										"constraint": {
+											"type": "reference",
+											"id": 132,
+											"name": "KeyedObject"
+										}
+									}
+								},
+								{
+									"id": 138,
+									"name": "objSource",
+									"kind": 32768,
+									"kindString": "Parameter",
+									"flags": {
+										"isExported": true
+									},
+									"comment": {
+										"text": "The object to merge\n"
+									},
+									"type": {
+										"type": "typeParameter",
+										"name": "B",
+										"constraint": {
+											"type": "reference",
+											"id": 132,
+											"name": "KeyedObject"
+										}
+									}
+								}
+							],
+							"type": {
+								"type": "intersection",
+								"types": [
+									{
+										"type": "typeParameter",
+										"name": "A",
+										"constraint": {
+											"type": "reference",
+											"id": 132,
+											"name": "KeyedObject"
+										}
+									},
+									{
+										"type": "typeParameter",
+										"name": "B",
+										"constraint": {
+											"type": "reference",
+											"id": 132,
+											"name": "KeyedObject"
+										}
+									}
+								]
+							}
+						}
+					],
+					"sources": [
+						{
+							"fileName": "lib/mergeObjects.ts",
+							"line": 10,
+							"character": 36
+						}
+					]
+				}
+			],
+			"groups": [
+				{
+					"title": "Type aliases",
+					"kind": 4194304,
+					"children": [
+						132
+					]
+				},
+				{
+					"title": "Functions",
+					"kind": 64,
+					"children": [
+						133
+					]
+				}
+			],
+			"sources": [
+				{
+					"fileName": "lib/mergeObjects.ts",
+					"line": 1,
+					"character": 0
+				}
+			]
+		},
+		{
+			"id": 139,
+			"name": "\"lib/objectToTuples\"",
+			"kind": 1,
+			"kindString": "Module",
+			"flags": {
+				"isExported": true
+			},
+			"originalName": "/home/runner/work/utils/utils/src/lib/objectToTuples.ts",
+			"children": [
+				{
+					"id": 140,
+					"name": "objectToTuples",
+					"kind": 64,
+					"kindString": "Function",
+					"flags": {
+						"isExported": true
+					},
+					"signatures": [
+						{
+							"id": 141,
+							"name": "objectToTuples",
+							"kind": 4096,
+							"kindString": "Call signature",
+							"flags": {
+								"isExported": true
+							},
+							"comment": {
+								"shortText": "Convert an object to a tuple",
+								"tags": [
+									{
+										"tag": "since",
+										"text": "0.5.0"
+									}
+								]
+							},
+							"parameters": [
+								{
+									"id": 142,
+									"name": "original",
+									"kind": 32768,
+									"kindString": "Parameter",
+									"flags": {
+										"isExported": true
+									},
+									"type": {
+										"type": "reference",
+										"typeArguments": [
+											{
+												"type": "intrinsic",
+												"name": "string"
+											},
+											{
+												"type": "intrinsic",
+												"name": "unknown"
+											}
+										],
+										"name": "Record"
+									}
+								},
+								{
+									"id": 143,
+									"name": "prefix",
+									"kind": 32768,
+									"kindString": "Parameter",
+									"flags": {
+										"isExported": true
+									},
+									"comment": {
+										"text": "The prefix for the key\n"
+									},
+									"type": {
+										"type": "intrinsic",
+										"name": "string"
+									},
+									"defaultValue": "\"\""
+								}
+							],
+							"type": {
+								"type": "array",
+								"elementType": {
+									"type": "tuple",
+									"elements": [
+										{
+											"type": "intrinsic",
+											"name": "string"
+										},
+										{
+											"type": "intrinsic",
+											"name": "unknown"
+										}
+									]
+								}
+							}
+						}
+					],
+					"sources": [
+						{
+							"fileName": "lib/objectToTuples.ts",
+							"line": 9,
+							"character": 38
+						}
+					]
+				}
+			],
+			"groups": [
+				{
+					"title": "Functions",
+					"kind": 64,
+					"children": [
+						140
+					]
+				}
+			],
+			"sources": [
+				{
+					"fileName": "lib/objectToTuples.ts",
+					"line": 1,
+					"character": 0
+				}
+			]
+		},
+		{
+			"id": 1,
+			"name": "\"lib/regExpEsc\"",
+			"kind": 1,
+			"kindString": "Module",
+			"flags": {
+				"isExported": true
+			},
+			"originalName": "/home/runner/work/utils/utils/src/lib/regExpEsc.ts",
+			"children": [
+				{
+					"id": 2,
+					"name": "REGEXPESC",
+					"kind": 32,
+					"kindString": "Variable",
+					"flags": {
+						"isConst": true
+					},
+					"sources": [
+						{
+							"fileName": "lib/regExpEsc.ts",
+							"line": 1,
+							"character": 15
+						}
+					],
+					"type": {
+						"type": "reference",
+						"name": "RegExp"
+					},
+					"defaultValue": "/[-/\\\\^$*+?.()|[\\]{}]/g"
+				},
+				{
+					"id": 3,
+					"name": "regExpEsc",
+					"kind": 64,
+					"kindString": "Function",
+					"flags": {
+						"isExported": true
+					},
+					"signatures": [
+						{
+							"id": 4,
+							"name": "regExpEsc",
+							"kind": 4096,
+							"kindString": "Call signature",
+							"flags": {
+								"isExported": true
+							},
+							"comment": {
+								"shortText": "Cleans a string from regex injection",
+								"tags": [
+									{
+										"tag": "since",
+										"text": "0.0.1"
+									}
+								]
+							},
+							"parameters": [
+								{
+									"id": 5,
+									"name": "str",
+									"kind": 32768,
+									"kindString": "Parameter",
+									"flags": {
+										"isExported": true
+									},
+									"comment": {
+										"text": "The string to clean\n"
+									},
+									"type": {
+										"type": "intrinsic",
+										"name": "string"
+									}
+								}
+							],
+							"type": {
+								"type": "intrinsic",
+								"name": "string"
+							}
+						}
+					],
+					"sources": [
+						{
+							"fileName": "lib/regExpEsc.ts",
+							"line": 8,
+							"character": 33
+						}
+					]
+				}
+			],
+			"groups": [
+				{
+					"title": "Variables",
+					"kind": 32,
+					"children": [
+						2
+					]
+				},
+				{
+					"title": "Functions",
+					"kind": 64,
+					"children": [
+						3
+					]
+				}
+			],
+			"sources": [
+				{
+					"fileName": "lib/regExpEsc.ts",
+					"line": 1,
+					"character": 0
+				}
+			]
+		},
+		{
+			"id": 144,
+			"name": "\"lib/sleep\"",
+			"kind": 1,
+			"kindString": "Module",
+			"flags": {
+				"isExported": true
+			},
+			"originalName": "/home/runner/work/utils/utils/src/lib/sleep.ts",
+			"children": [
+				{
+					"id": 145,
+					"name": "PromisifiedTimeout",
+					"kind": 256,
+					"kindString": "Interface",
+					"flags": {},
+					"signatures": [
+						{
+							"id": 146,
+							"name": "__call",
+							"kind": 4096,
+							"kindString": "Call signature",
+							"flags": {},
+							"parameters": [
+								{
+									"id": 147,
+									"name": "ms",
+									"kind": 32768,
+									"kindString": "Parameter",
+									"flags": {},
+									"type": {
+										"type": "intrinsic",
+										"name": "number"
+									}
+								}
+							],
+							"type": {
+								"type": "reference",
+								"typeArguments": [
+									{
+										"type": "intrinsic",
+										"name": "void"
+									}
+								],
+								"name": "Promise"
+							}
+						},
+						{
+							"id": 148,
+							"name": "__call",
+							"kind": 4096,
+							"kindString": "Call signature",
+							"flags": {},
+							"typeParameter": [
+								{
+									"id": 149,
+									"name": "T",
+									"kind": 131072,
+									"kindString": "Type parameter",
+									"flags": {}
+								}
+							],
+							"parameters": [
+								{
+									"id": 150,
+									"name": "ms",
+									"kind": 32768,
+									"kindString": "Parameter",
+									"flags": {},
+									"type": {
+										"type": "intrinsic",
+										"name": "number"
+									}
+								},
+								{
+									"id": 151,
+									"name": "value",
+									"kind": 32768,
+									"kindString": "Parameter",
+									"flags": {},
+									"type": {
+										"type": "typeParameter",
+										"name": "T"
+									}
+								}
+							],
+							"type": {
+								"type": "reference",
+								"typeArguments": [
+									{
+										"type": "typeParameter",
+										"name": "T"
+									}
+								],
+								"name": "Promise"
+							}
+						}
+					],
+					"sources": [
+						{
+							"fileName": "lib/sleep.ts",
+							"line": 3,
+							"character": 28
+						}
+					]
+				},
+				{
+					"id": 152,
+					"name": "sleep",
+					"kind": 32,
+					"kindString": "Variable",
+					"flags": {
+						"isExported": true,
+						"isConst": true
+					},
+					"comment": {
+						"shortText": "Promisified version of setTimeout for use with await",
+						"tags": [
+							{
+								"tag": "param",
+								"text": "The amount of time in ms to delay",
+								"param": "delay"
+							},
+							{
+								"tag": "param",
+								"text": "Any args to pass to the .then (mostly pointless in this form)\n",
+								"param": "args"
+							}
+						]
+					},
+					"sources": [
+						{
+							"fileName": "lib/sleep.ts",
+							"line": 13,
+							"character": 11
+						}
+					],
+					"type": {
+						"type": "reference",
+						"id": 145,
+						"name": "PromisifiedTimeout"
+					},
+					"defaultValue": "promisify(setTimeout)"
+				}
+			],
+			"groups": [
+				{
+					"title": "Interfaces",
+					"kind": 256,
+					"children": [
+						145
+					]
+				},
+				{
+					"title": "Variables",
+					"kind": 32,
+					"children": [
+						152
+					]
+				}
+			],
+			"sources": [
+				{
+					"fileName": "lib/sleep.ts",
+					"line": 1,
+					"character": 0
+				}
+			]
+		},
+		{
+			"id": 153,
+			"name": "\"lib/toTitleCase\"",
+			"kind": 1,
+			"kindString": "Module",
+			"flags": {
+				"isExported": true
+			},
+			"originalName": "/home/runner/work/utils/utils/src/lib/toTitleCase.ts",
+			"children": [
+				{
+					"id": 154,
+					"name": "TOTITLECASE",
+					"kind": 32,
+					"kindString": "Variable",
+					"flags": {
+						"isConst": true
+					},
+					"sources": [
+						{
+							"fileName": "lib/toTitleCase.ts",
+							"line": 1,
+							"character": 17
+						}
+					],
+					"type": {
+						"type": "reference",
+						"name": "RegExp"
+					},
+					"defaultValue": "/[A-Za-zÀ-ÖØ-öø-ÿ]\\S*/g"
+				},
+				{
+					"id": 160,
+					"name": "toTitleCase",
+					"kind": 64,
+					"kindString": "Function",
+					"flags": {
+						"isExported": true
+					},
+					"signatures": [
+						{
+							"id": 161,
+							"name": "toTitleCase",
+							"kind": 4096,
+							"kindString": "Call signature",
+							"flags": {
+								"isExported": true
+							},
+							"comment": {
+								"shortText": "Converts a string to Title Case"
+							},
+							"parameters": [
+								{
+									"id": 162,
+									"name": "str",
+									"kind": 32768,
+									"kindString": "Parameter",
+									"flags": {
+										"isExported": true
+									},
+									"comment": {
+										"text": "The string to title case\n"
+									},
+									"type": {
+										"type": "intrinsic",
+										"name": "string"
+									}
+								}
+							],
+							"type": {
+								"type": "intrinsic",
+								"name": "string"
+							}
+						}
+					],
+					"sources": [
+						{
+							"fileName": "lib/toTitleCase.ts",
+							"line": 13,
+							"character": 35
+						}
+					]
+				},
+				{
+					"id": 155,
+					"name": "titleCaseVariants",
+					"kind": 2097152,
+					"kindString": "Object literal",
+					"flags": {
+						"isConst": true
+					},
+					"children": [
+						{
+							"id": 158,
+							"name": "categorychannel",
+							"kind": 32,
+							"kindString": "Variable",
+							"flags": {},
+							"sources": [
+								{
+									"fileName": "lib/toTitleCase.ts",
+									"line": 5,
+									"character": 16
+								}
+							],
+							"type": {
+								"type": "intrinsic",
+								"name": "string"
+							},
+							"defaultValue": "\"CategoryChannel\""
+						},
+						{
+							"id": 159,
+							"name": "guildmember",
+							"kind": 32,
+							"kindString": "Variable",
+							"flags": {},
+							"sources": [
+								{
+									"fileName": "lib/toTitleCase.ts",
+									"line": 6,
+									"character": 12
+								}
+							],
+							"type": {
+								"type": "intrinsic",
+								"name": "string"
+							},
+							"defaultValue": "\"GuildMember\""
+						},
+						{
+							"id": 156,
+							"name": "textchannel",
+							"kind": 32,
+							"kindString": "Variable",
+							"flags": {},
+							"sources": [
+								{
+									"fileName": "lib/toTitleCase.ts",
+									"line": 3,
+									"character": 12
+								}
+							],
+							"type": {
+								"type": "intrinsic",
+								"name": "string"
+							},
+							"defaultValue": "\"TextChannel\""
+						},
+						{
+							"id": 157,
+							"name": "voicechannel",
+							"kind": 32,
+							"kindString": "Variable",
+							"flags": {},
+							"sources": [
+								{
+									"fileName": "lib/toTitleCase.ts",
+									"line": 4,
+									"character": 13
+								}
+							],
+							"type": {
+								"type": "intrinsic",
+								"name": "string"
+							},
+							"defaultValue": "\"VoiceChannel\""
+						}
+					],
+					"groups": [
+						{
+							"title": "Variables",
+							"kind": 32,
+							"children": [
+								158,
+								159,
+								156,
+								157
+							]
+						}
+					],
+					"sources": [
+						{
+							"fileName": "lib/toTitleCase.ts",
+							"line": 2,
+							"character": 23
+						}
+					],
+					"type": {
+						"type": "intrinsic",
+						"name": "object"
+					}
+				}
+			],
+			"groups": [
+				{
+					"title": "Variables",
+					"kind": 32,
+					"children": [
+						154
+					]
+				},
+				{
+					"title": "Functions",
+					"kind": 64,
+					"children": [
+						160
+					]
+				},
+				{
+					"title": "Object literals",
+					"kind": 2097152,
+					"children": [
+						155
+					]
+				}
+			],
+			"sources": [
+				{
+					"fileName": "lib/toTitleCase.ts",
+					"line": 1,
+					"character": 0
+				}
+			]
+		},
+		{
+			"id": 163,
+			"name": "\"lib/tryParse\"",
+			"kind": 1,
+			"kindString": "Module",
+			"flags": {
+				"isExported": true
+			},
+			"originalName": "/home/runner/work/utils/utils/src/lib/tryParse.ts",
+			"children": [
+				{
+					"id": 164,
+					"name": "tryParse",
+					"kind": 64,
+					"kindString": "Function",
+					"flags": {
+						"isExported": true
+					},
+					"signatures": [
+						{
+							"id": 165,
+							"name": "tryParse",
+							"kind": 4096,
+							"kindString": "Call signature",
+							"flags": {
+								"isExported": true
+							},
+							"comment": {
+								"shortText": "Try parse a stringified JSON string."
+							},
+							"parameters": [
+								{
+									"id": 166,
+									"name": "value",
+									"kind": 32768,
+									"kindString": "Parameter",
+									"flags": {
+										"isExported": true
+									},
+									"comment": {
+										"text": "The value to parse\n"
+									},
+									"type": {
+										"type": "intrinsic",
+										"name": "string"
+									}
+								}
+							],
+							"type": {
+								"type": "union",
+								"types": [
+									{
+										"type": "intrinsic",
+										"name": "object"
+									},
+									{
+										"type": "intrinsic",
+										"name": "string"
+									}
+								]
+							}
+						}
+					],
+					"sources": [
+						{
+							"fileName": "lib/tryParse.ts",
+							"line": 5,
+							"character": 32
+						}
+					]
+				}
+			],
+			"groups": [
+				{
+					"title": "Functions",
+					"kind": 64,
+					"children": [
+						164
+					]
+				}
+			],
+			"sources": [
+				{
+					"fileName": "lib/tryParse.ts",
+					"line": 1,
+					"character": 0
+				}
+			]
+		}
+	],
+	"groups": [
+		{
+			"title": "Modules",
+			"kind": 1,
+			"children": [
+				167,
+				15,
+				21,
+				6,
+				27,
+				45,
+				50,
+				88,
+				92,
+				96,
+				41,
+				36,
+				100,
+				117,
+				123,
+				131,
+				139,
+				1,
+				144,
+				153,
+				163
+			]
+		}
+	]
+}
