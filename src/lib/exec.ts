@@ -14,6 +14,4 @@ interface PromisifiedExec {
  * @param command The command to run
  * @param options The options to pass to exec
  */
-const exec: PromisifiedExec = promisify(childProcessExec);
-
-export default exec;
+export const exec: PromisifiedExec = promisify(childProcessExec);

@@ -5,6 +5,6 @@ const REGEXPESC = /[-/\\^$*+?.()|[\]{}]/g;
  * @since 0.0.1
  * @param str The string to clean
  */
-export default function regExpEsc(str: string): string {
+export function regExpEsc(str: string): string {
 	return str.replace(REGEXPESC, '\\$&');
 }

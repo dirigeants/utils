@@ -1,4 +1,4 @@
-import isFunction from './isFunction';
+import { isFunction } from './isFunction';
 
 export interface Thenable {
 	then: Function;
@@ -17,7 +17,7 @@ function hasCatch(input: { catch?: Function }): boolean {
  * Verify if an object is a promise.
  * @param input The promise to verify
  */
-export default function isThenable(input: unknown): input is Thenable {
+export function isThenable(input: unknown): input is Thenable {
 	if (typeof input !== 'object' || input === null) return false;
 	return (input instanceof Promise) ||
 		(input !== Promise.prototype && hasThen(input) && hasCatch(input));
