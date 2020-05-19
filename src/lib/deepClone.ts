@@ -1,12 +1,12 @@
-import isPrimitive from './isPrimitive';
-import isObject from './isObject';
+import { isPrimitive } from './isPrimitive';
+import { isObject } from './isObject';
 
 /**
  * Deep clone a value
  * @since 0.5.0
  * @param source The object to clone
  */
-export default function deepClone<T>(source: T): T {
+export function deepClone<T>(source: T): T {
 	// Check if it's a primitive (with exception of function and null, which is typeof object)
 	if (source === null || isPrimitive(source)) return source;
 	if (Array.isArray(source)) {

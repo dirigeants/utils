@@ -1,4 +1,5 @@
-import isObject from './isObject';
+import { isObject } from './isObject';
+import { DeepRequired } from './utilityTypes';
 
 type KeyedObject = Record<PropertyKey, unknown>;
 
@@ -7,7 +8,7 @@ type KeyedObject = Record<PropertyKey, unknown>;
  * @param objTarget The object to be merged
  * @param objSource The object to merge
  */
-export default function mergeObjects<A extends KeyedObject, B extends KeyedObject>(objTarget: A, objSource: B): A & B {
+export function mergeObjects<A extends KeyedObject, B extends KeyedObject>(objTarget: A, objSource: B): DeepRequired<A & B> {
 	for (const [key, value] of Object.entries(objSource) as [keyof B, unknown][]) {
 		const targetValue = objTarget[key];
 		if (isObject(value)) {
@@ -16,5 +17,5 @@ export default function mergeObjects<A extends KeyedObject, B extends KeyedObjec
 			Reflect.set(objTarget, key, value);
 		}
 	}
-	return objTarget as A & B;
+	return objTarget as DeepRequired<A & B>;
 }
