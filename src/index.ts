@@ -18,4 +18,4 @@ export * from './lib/regExpEsc';
 export * from './lib/sleep';
 export * from './lib/toTitleCase';
 export * from './lib/tryParse';
-export * from './lib/utilityTypes'
+export * from './lib/utilityTypes';
