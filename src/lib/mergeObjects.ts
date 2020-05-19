@@ -1,5 +1,6 @@
 import { isObject } from './isObject';
-import { DeepRequired } from './utilityTypes';
+
+import type { DeepRequired } from './utilityTypes';
 
 type KeyedObject = Record<PropertyKey, unknown>;
 
