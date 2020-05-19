@@ -6,7 +6,7 @@
 	"originalName": "",
 	"children": [
 		{
-			"id": 167,
+			"id": 180,
 			"name": "\"index\"",
 			"kind": 1,
 			"kindString": "Module",
@@ -16,7 +16,67 @@
 			"originalName": "/home/runner/work/utils/utils/src/index.ts",
 			"children": [
 				{
-					"id": 170,
+					"id": 204,
+					"name": "Builtin",
+					"kind": 16777216,
+					"kindString": "Reference",
+					"flags": {
+						"isExported": true
+					},
+					"target": 125
+				},
+				{
+					"id": 205,
+					"name": "DeepRequired",
+					"kind": 16777216,
+					"kindString": "Reference",
+					"flags": {
+						"isExported": true
+					},
+					"target": 126
+				},
+				{
+					"id": 207,
+					"name": "PartialRequired",
+					"kind": 16777216,
+					"kindString": "Reference",
+					"flags": {
+						"isExported": true
+					},
+					"target": 133
+				},
+				{
+					"id": 203,
+					"name": "Primitive",
+					"kind": 16777216,
+					"kindString": "Reference",
+					"flags": {
+						"isExported": true
+					},
+					"target": 124
+				},
+				{
+					"id": 206,
+					"name": "RequiredExcept",
+					"kind": 16777216,
+					"kindString": "Reference",
+					"flags": {
+						"isExported": true
+					},
+					"target": 130
+				},
+				{
+					"id": 194,
+					"name": "Thenable",
+					"kind": 16777216,
+					"kindString": "Reference",
+					"flags": {
+						"isExported": true
+					},
+					"target": 101
+				},
+				{
+					"id": 183,
 					"name": "arrayStrictEquals",
 					"kind": 16777216,
 					"kindString": "Reference",
@@ -26,7 +86,7 @@
 					"target": 16
 				},
 				{
-					"id": 171,
+					"id": 184,
 					"name": "chunk",
 					"kind": 16777216,
 					"kindString": "Reference",
@@ -36,7 +96,7 @@
 					"target": 22
 				},
 				{
-					"id": 168,
+					"id": 181,
 					"name": "clean",
 					"kind": 16777216,
 					"kindString": "Reference",
@@ -46,7 +106,7 @@
 					"target": 9
 				},
 				{
-					"id": 172,
+					"id": 185,
 					"name": "codeBlock",
 					"kind": 16777216,
 					"kindString": "Reference",
@@ -56,7 +116,7 @@
 					"target": 32
 				},
 				{
-					"id": 173,
+					"id": 186,
 					"name": "deepClone",
 					"kind": 16777216,
 					"kindString": "Reference",
@@ -66,7 +126,7 @@
 					"target": 46
 				},
 				{
-					"id": 174,
+					"id": 187,
 					"name": "exec",
 					"kind": 16777216,
 					"kindString": "Reference",
@@ -76,7 +136,7 @@
 					"target": 87
 				},
 				{
-					"id": 169,
+					"id": 182,
 					"name": "initClean",
 					"kind": 16777216,
 					"kindString": "Reference",
@@ -86,7 +146,7 @@
 					"target": 12
 				},
 				{
-					"id": 175,
+					"id": 188,
 					"name": "isClass",
 					"kind": 16777216,
 					"kindString": "Reference",
@@ -96,7 +156,7 @@
 					"target": 89
 				},
 				{
-					"id": 176,
+					"id": 189,
 					"name": "isFunction",
 					"kind": 16777216,
 					"kindString": "Reference",
@@ -106,7 +166,7 @@
 					"target": 93
 				},
 				{
-					"id": 177,
+					"id": 190,
 					"name": "isNumber",
 					"kind": 16777216,
 					"kindString": "Reference",
@@ -116,7 +176,7 @@
 					"target": 97
 				},
 				{
-					"id": 178,
+					"id": 191,
 					"name": "isObject",
 					"kind": 16777216,
 					"kindString": "Reference",
@@ -126,7 +186,7 @@
 					"target": 42
 				},
 				{
-					"id": 179,
+					"id": 192,
 					"name": "isPrimitive",
 					"kind": 16777216,
 					"kindString": "Reference",
@@ -136,7 +196,7 @@
 					"target": 38
 				},
 				{
-					"id": 180,
+					"id": 193,
 					"name": "isThenable",
 					"kind": 16777216,
 					"kindString": "Reference",
@@ -146,7 +206,7 @@
 					"target": 114
 				},
 				{
-					"id": 181,
+					"id": 195,
 					"name": "makeObject",
 					"kind": 16777216,
 					"kindString": "Reference",
@@ -156,37 +216,37 @@
 					"target": 118
 				},
 				{
-					"id": 182,
+					"id": 196,
 					"name": "mergeDefault",
 					"kind": 16777216,
 					"kindString": "Reference",
 					"flags": {
 						"isExported": true
 					},
-					"target": 125
+					"target": 138
 				},
 				{
-					"id": 183,
+					"id": 197,
 					"name": "mergeObjects",
 					"kind": 16777216,
 					"kindString": "Reference",
 					"flags": {
 						"isExported": true
 					},
-					"target": 133
+					"target": 146
 				},
 				{
-					"id": 184,
+					"id": 198,
 					"name": "objectToTuples",
 					"kind": 16777216,
 					"kindString": "Reference",
 					"flags": {
 						"isExported": true
 					},
-					"target": 140
+					"target": 153
 				},
 				{
-					"id": 185,
+					"id": 199,
 					"name": "regExpEsc",
 					"kind": 16777216,
 					"kindString": "Reference",
@@ -196,34 +256,34 @@
 					"target": 3
 				},
 				{
-					"id": 186,
+					"id": 200,
 					"name": "sleep",
 					"kind": 16777216,
 					"kindString": "Reference",
 					"flags": {
 						"isExported": true
 					},
-					"target": 152
+					"target": 165
 				},
 				{
-					"id": 187,
+					"id": 201,
 					"name": "toTitleCase",
 					"kind": 16777216,
 					"kindString": "Reference",
 					"flags": {
 						"isExported": true
 					},
-					"target": 160
+					"target": 173
 				},
 				{
-					"id": 188,
+					"id": 202,
 					"name": "tryParse",
 					"kind": 16777216,
 					"kindString": "Reference",
 					"flags": {
 						"isExported": true
 					},
-					"target": 164
+					"target": 177
 				}
 			],
 			"groups": [
@@ -231,27 +291,33 @@
 					"title": "References",
 					"kind": 16777216,
 					"children": [
-						170,
-						171,
-						168,
-						172,
-						173,
-						174,
-						169,
-						175,
-						176,
-						177,
-						178,
-						179,
-						180,
-						181,
-						182,
+						204,
+						205,
+						207,
+						203,
+						206,
+						194,
 						183,
 						184,
+						181,
 						185,
 						186,
 						187,
-						188
+						182,
+						188,
+						189,
+						190,
+						191,
+						192,
+						193,
+						195,
+						196,
+						197,
+						198,
+						199,
+						200,
+						201,
+						202
 					]
 				}
 			],
@@ -275,7 +341,7 @@
 			"children": [
 				{
 					"id": 16,
-					"name": "arraysStrictEquals",
+					"name": "arrayStrictEquals",
 					"kind": 64,
 					"kindString": "Function",
 					"flags": {
@@ -284,7 +350,7 @@
 					"signatures": [
 						{
 							"id": 17,
-							"name": "arraysStrictEquals",
+							"name": "arrayStrictEquals",
 							"kind": 4096,
 							"kindString": "Call signature",
 							"flags": {
@@ -381,7 +447,7 @@
 						{
 							"fileName": "lib/arrayStrictEquals.ts",
 							"line": 6,
-							"character": 42
+							"character": 33
 						}
 					]
 				}
@@ -507,7 +573,7 @@
 						{
 							"fileName": "lib/chunk.ts",
 							"line": 7,
-							"character": 29
+							"character": 21
 						}
 					]
 				}
@@ -880,7 +946,7 @@
 						{
 							"fileName": "lib/codeBlock.ts",
 							"line": 13,
-							"character": 33
+							"character": 25
 						}
 					]
 				}
@@ -991,7 +1057,7 @@
 						{
 							"fileName": "lib/deepClone.ts",
 							"line": 9,
-							"character": 33
+							"character": 25
 						}
 					]
 				}
@@ -1761,7 +1827,7 @@
 						{
 							"fileName": "lib/exec.ts",
 							"line": 17,
-							"character": 10
+							"character": 17
 						}
 					],
 					"type": {
@@ -1854,7 +1920,7 @@
 						{
 							"fileName": "lib/isClass.ts",
 							"line": 5,
-							"character": 31
+							"character": 23
 						}
 					]
 				}
@@ -1939,7 +2005,7 @@
 						{
 							"fileName": "lib/isFunction.ts",
 							"line": 5,
-							"character": 34
+							"character": 26
 						}
 					]
 				}
@@ -2024,7 +2090,7 @@
 						{
 							"fileName": "lib/isNumber.ts",
 							"line": 5,
-							"character": 32
+							"character": 24
 						}
 					]
 				}
@@ -2128,7 +2194,7 @@
 						{
 							"fileName": "lib/isObject.ts",
 							"line": 5,
-							"character": 32
+							"character": 24
 						}
 					]
 				}
@@ -2264,7 +2330,7 @@
 						{
 							"fileName": "lib/isPrimitive.ts",
 							"line": 8,
-							"character": 35
+							"character": 27
 						}
 					]
 				}
@@ -2592,7 +2658,7 @@
 						{
 							"fileName": "lib/isThenable.ts",
 							"line": 20,
-							"character": 34
+							"character": 26
 						}
 					]
 				}
@@ -2734,7 +2800,7 @@
 						{
 							"fileName": "lib/makeObject.ts",
 							"line": 7,
-							"character": 34
+							"character": 26
 						}
 					]
 				}
@@ -2757,7 +2823,7 @@
 			]
 		},
 		{
-			"id": 123,
+			"id": 136,
 			"name": "\"lib/mergeDefault\"",
 			"kind": 1,
 			"kindString": "Module",
@@ -2767,7 +2833,7 @@
 			"originalName": "/home/runner/work/utils/utils/src/lib/mergeDefault.ts",
 			"children": [
 				{
-					"id": 124,
+					"id": 137,
 					"name": "KeyedObject",
 					"kind": 4194304,
 					"kindString": "Type alias",
@@ -2775,7 +2841,7 @@
 					"sources": [
 						{
 							"fileName": "lib/mergeDefault.ts",
-							"line": 4,
+							"line": 6,
 							"character": 16
 						}
 					],
@@ -2795,7 +2861,7 @@
 					}
 				},
 				{
-					"id": 125,
+					"id": 138,
 					"name": "mergeDefault",
 					"kind": 64,
 					"kindString": "Function",
@@ -2804,7 +2870,7 @@
 					},
 					"signatures": [
 						{
-							"id": 126,
+							"id": 139,
 							"name": "mergeDefault",
 							"kind": 4096,
 							"kindString": "Call signature",
@@ -2822,7 +2888,7 @@
 							},
 							"typeParameter": [
 								{
-									"id": 127,
+									"id": 140,
 									"name": "A",
 									"kind": 131072,
 									"kindString": "Type parameter",
@@ -2831,12 +2897,12 @@
 									},
 									"type": {
 										"type": "reference",
-										"id": 124,
+										"id": 137,
 										"name": "KeyedObject"
 									}
 								},
 								{
-									"id": 128,
+									"id": 141,
 									"name": "B",
 									"kind": 131072,
 									"kindString": "Type parameter",
@@ -2857,7 +2923,7 @@
 							],
 							"parameters": [
 								{
-									"id": 129,
+									"id": 142,
 									"name": "defaults",
 									"kind": 32768,
 									"kindString": "Parameter",
@@ -2869,13 +2935,13 @@
 										"name": "A",
 										"constraint": {
 											"type": "reference",
-											"id": 124,
+											"id": 137,
 											"name": "KeyedObject"
 										}
 									}
 								},
 								{
-									"id": 130,
+									"id": 143,
 									"name": "given",
 									"kind": 32768,
 									"kindString": "Parameter",
@@ -2888,46 +2954,53 @@
 									},
 									"type": {
 										"type": "reference",
-										"id": 128,
+										"id": 141,
 										"name": "B"
 									}
 								}
 							],
 							"type": {
-								"type": "intersection",
-								"types": [
+								"type": "reference",
+								"id": 126,
+								"typeArguments": [
 									{
-										"type": "typeParameter",
-										"name": "A",
-										"constraint": {
-											"type": "reference",
-											"id": 124,
-											"name": "KeyedObject"
-										}
-									},
-									{
-										"type": "typeParameter",
-										"name": "B",
-										"constraint": {
-											"type": "reference",
-											"typeArguments": [
-												{
-													"type": "typeParameter",
-													"name": "A"
+										"type": "intersection",
+										"types": [
+											{
+												"type": "typeParameter",
+												"name": "A",
+												"constraint": {
+													"type": "reference",
+													"id": 137,
+													"name": "KeyedObject"
 												}
-											],
-											"name": "Partial"
-										}
+											},
+											{
+												"type": "typeParameter",
+												"name": "B",
+												"constraint": {
+													"type": "reference",
+													"typeArguments": [
+														{
+															"type": "typeParameter",
+															"name": "A"
+														}
+													],
+													"name": "Partial"
+												}
+											}
+										]
 									}
-								]
+								],
+								"name": "DeepRequired"
 							}
 						}
 					],
 					"sources": [
 						{
 							"fileName": "lib/mergeDefault.ts",
-							"line": 12,
-							"character": 36
+							"line": 14,
+							"character": 28
 						}
 					]
 				}
@@ -2937,14 +3010,14 @@
 					"title": "Type aliases",
 					"kind": 4194304,
 					"children": [
-						124
+						137
 					]
 				},
 				{
 					"title": "Functions",
 					"kind": 64,
 					"children": [
-						125
+						138
 					]
 				}
 			],
@@ -2957,7 +3030,7 @@
 			]
 		},
 		{
-			"id": 131,
+			"id": 144,
 			"name": "\"lib/mergeObjects\"",
 			"kind": 1,
 			"kindString": "Module",
@@ -2967,7 +3040,7 @@
 			"originalName": "/home/runner/work/utils/utils/src/lib/mergeObjects.ts",
 			"children": [
 				{
-					"id": 132,
+					"id": 145,
 					"name": "KeyedObject",
 					"kind": 4194304,
 					"kindString": "Type alias",
@@ -2995,7 +3068,7 @@
 					}
 				},
 				{
-					"id": 133,
+					"id": 146,
 					"name": "mergeObjects",
 					"kind": 64,
 					"kindString": "Function",
@@ -3004,7 +3077,7 @@
 					},
 					"signatures": [
 						{
-							"id": 134,
+							"id": 147,
 							"name": "mergeObjects",
 							"kind": 4096,
 							"kindString": "Call signature",
@@ -3016,7 +3089,7 @@
 							},
 							"typeParameter": [
 								{
-									"id": 135,
+									"id": 148,
 									"name": "A",
 									"kind": 131072,
 									"kindString": "Type parameter",
@@ -3025,12 +3098,12 @@
 									},
 									"type": {
 										"type": "reference",
-										"id": 132,
+										"id": 145,
 										"name": "KeyedObject"
 									}
 								},
 								{
-									"id": 136,
+									"id": 149,
 									"name": "B",
 									"kind": 131072,
 									"kindString": "Type parameter",
@@ -3039,14 +3112,14 @@
 									},
 									"type": {
 										"type": "reference",
-										"id": 132,
+										"id": 145,
 										"name": "KeyedObject"
 									}
 								}
 							],
 							"parameters": [
 								{
-									"id": 137,
+									"id": 150,
 									"name": "objTarget",
 									"kind": 32768,
 									"kindString": "Parameter",
@@ -3061,13 +3134,13 @@
 										"name": "A",
 										"constraint": {
 											"type": "reference",
-											"id": 132,
+											"id": 145,
 											"name": "KeyedObject"
 										}
 									}
 								},
 								{
-									"id": 138,
+									"id": 151,
 									"name": "objSource",
 									"kind": 32768,
 									"kindString": "Parameter",
@@ -3082,7 +3155,7 @@
 										"name": "B",
 										"constraint": {
 											"type": "reference",
-											"id": 132,
+											"id": 145,
 											"name": "KeyedObject"
 										}
 									}
@@ -3096,7 +3169,7 @@
 										"name": "A",
 										"constraint": {
 											"type": "reference",
-											"id": 132,
+											"id": 145,
 											"name": "KeyedObject"
 										}
 									},
@@ -3105,7 +3178,7 @@
 										"name": "B",
 										"constraint": {
 											"type": "reference",
-											"id": 132,
+											"id": 145,
 											"name": "KeyedObject"
 										}
 									}
@@ -3117,7 +3190,7 @@
 						{
 							"fileName": "lib/mergeObjects.ts",
 							"line": 10,
-							"character": 36
+							"character": 28
 						}
 					]
 				}
@@ -3127,14 +3200,14 @@
 					"title": "Type aliases",
 					"kind": 4194304,
 					"children": [
-						132
+						145
 					]
 				},
 				{
 					"title": "Functions",
 					"kind": 64,
 					"children": [
-						133
+						146
 					]
 				}
 			],
@@ -3147,7 +3220,7 @@
 			]
 		},
 		{
-			"id": 139,
+			"id": 152,
 			"name": "\"lib/objectToTuples\"",
 			"kind": 1,
 			"kindString": "Module",
@@ -3157,7 +3230,7 @@
 			"originalName": "/home/runner/work/utils/utils/src/lib/objectToTuples.ts",
 			"children": [
 				{
-					"id": 140,
+					"id": 153,
 					"name": "objectToTuples",
 					"kind": 64,
 					"kindString": "Function",
@@ -3166,7 +3239,7 @@
 					},
 					"signatures": [
 						{
-							"id": 141,
+							"id": 154,
 							"name": "objectToTuples",
 							"kind": 4096,
 							"kindString": "Call signature",
@@ -3184,7 +3257,7 @@
 							},
 							"parameters": [
 								{
-									"id": 142,
+									"id": 155,
 									"name": "original",
 									"kind": 32768,
 									"kindString": "Parameter",
@@ -3207,7 +3280,7 @@
 									}
 								},
 								{
-									"id": 143,
+									"id": 156,
 									"name": "prefix",
 									"kind": 32768,
 									"kindString": "Parameter",
@@ -3246,7 +3319,7 @@
 						{
 							"fileName": "lib/objectToTuples.ts",
 							"line": 9,
-							"character": 38
+							"character": 30
 						}
 					]
 				}
@@ -3256,7 +3329,7 @@
 					"title": "Functions",
 					"kind": 64,
 					"children": [
-						140
+						153
 					]
 				}
 			],
@@ -3353,7 +3426,7 @@
 						{
 							"fileName": "lib/regExpEsc.ts",
 							"line": 8,
-							"character": 33
+							"character": 25
 						}
 					]
 				}
@@ -3383,7 +3456,7 @@
 			]
 		},
 		{
-			"id": 144,
+			"id": 157,
 			"name": "\"lib/sleep\"",
 			"kind": 1,
 			"kindString": "Module",
@@ -3393,21 +3466,21 @@
 			"originalName": "/home/runner/work/utils/utils/src/lib/sleep.ts",
 			"children": [
 				{
-					"id": 145,
+					"id": 158,
 					"name": "PromisifiedTimeout",
 					"kind": 256,
 					"kindString": "Interface",
 					"flags": {},
 					"signatures": [
 						{
-							"id": 146,
+							"id": 159,
 							"name": "__call",
 							"kind": 4096,
 							"kindString": "Call signature",
 							"flags": {},
 							"parameters": [
 								{
-									"id": 147,
+									"id": 160,
 									"name": "ms",
 									"kind": 32768,
 									"kindString": "Parameter",
@@ -3430,14 +3503,14 @@
 							}
 						},
 						{
-							"id": 148,
+							"id": 161,
 							"name": "__call",
 							"kind": 4096,
 							"kindString": "Call signature",
 							"flags": {},
 							"typeParameter": [
 								{
-									"id": 149,
+									"id": 162,
 									"name": "T",
 									"kind": 131072,
 									"kindString": "Type parameter",
@@ -3446,7 +3519,7 @@
 							],
 							"parameters": [
 								{
-									"id": 150,
+									"id": 163,
 									"name": "ms",
 									"kind": 32768,
 									"kindString": "Parameter",
@@ -3457,7 +3530,7 @@
 									}
 								},
 								{
-									"id": 151,
+									"id": 164,
 									"name": "value",
 									"kind": 32768,
 									"kindString": "Parameter",
@@ -3489,7 +3562,7 @@
 					]
 				},
 				{
-					"id": 152,
+					"id": 165,
 					"name": "sleep",
 					"kind": 32,
 					"kindString": "Variable",
@@ -3516,12 +3589,12 @@
 						{
 							"fileName": "lib/sleep.ts",
 							"line": 13,
-							"character": 11
+							"character": 18
 						}
 					],
 					"type": {
 						"type": "reference",
-						"id": 145,
+						"id": 158,
 						"name": "PromisifiedTimeout"
 					},
 					"defaultValue": "promisify(setTimeout)"
@@ -3532,14 +3605,14 @@
 					"title": "Interfaces",
 					"kind": 256,
 					"children": [
-						145
+						158
 					]
 				},
 				{
 					"title": "Variables",
 					"kind": 32,
 					"children": [
-						152
+						165
 					]
 				}
 			],
@@ -3552,7 +3625,7 @@
 			]
 		},
 		{
-			"id": 153,
+			"id": 166,
 			"name": "\"lib/toTitleCase\"",
 			"kind": 1,
 			"kindString": "Module",
@@ -3562,7 +3635,7 @@
 			"originalName": "/home/runner/work/utils/utils/src/lib/toTitleCase.ts",
 			"children": [
 				{
-					"id": 154,
+					"id": 167,
 					"name": "TOTITLECASE",
 					"kind": 32,
 					"kindString": "Variable",
@@ -3583,7 +3656,7 @@
 					"defaultValue": "/[A-Za-zÀ-ÖØ-öø-ÿ]\\S*/g"
 				},
 				{
-					"id": 160,
+					"id": 173,
 					"name": "toTitleCase",
 					"kind": 64,
 					"kindString": "Function",
@@ -3592,7 +3665,7 @@
 					},
 					"signatures": [
 						{
-							"id": 161,
+							"id": 174,
 							"name": "toTitleCase",
 							"kind": 4096,
 							"kindString": "Call signature",
@@ -3604,7 +3677,7 @@
 							},
 							"parameters": [
 								{
-									"id": 162,
+									"id": 175,
 									"name": "str",
 									"kind": 32768,
 									"kindString": "Parameter",
@@ -3630,12 +3703,12 @@
 						{
 							"fileName": "lib/toTitleCase.ts",
 							"line": 13,
-							"character": 35
+							"character": 27
 						}
 					]
 				},
 				{
-					"id": 155,
+					"id": 168,
 					"name": "titleCaseVariants",
 					"kind": 2097152,
 					"kindString": "Object literal",
@@ -3644,7 +3717,7 @@
 					},
 					"children": [
 						{
-							"id": 158,
+							"id": 171,
 							"name": "categorychannel",
 							"kind": 32,
 							"kindString": "Variable",
@@ -3663,7 +3736,7 @@
 							"defaultValue": "\"CategoryChannel\""
 						},
 						{
-							"id": 159,
+							"id": 172,
 							"name": "guildmember",
 							"kind": 32,
 							"kindString": "Variable",
@@ -3682,7 +3755,7 @@
 							"defaultValue": "\"GuildMember\""
 						},
 						{
-							"id": 156,
+							"id": 169,
 							"name": "textchannel",
 							"kind": 32,
 							"kindString": "Variable",
@@ -3701,7 +3774,7 @@
 							"defaultValue": "\"TextChannel\""
 						},
 						{
-							"id": 157,
+							"id": 170,
 							"name": "voicechannel",
 							"kind": 32,
 							"kindString": "Variable",
@@ -3725,10 +3798,10 @@
 							"title": "Variables",
 							"kind": 32,
 							"children": [
-								158,
-								159,
-								156,
-								157
+								171,
+								172,
+								169,
+								170
 							]
 						}
 					],
@@ -3750,21 +3823,21 @@
 					"title": "Variables",
 					"kind": 32,
 					"children": [
-						154
+						167
 					]
 				},
 				{
 					"title": "Functions",
 					"kind": 64,
 					"children": [
-						160
+						173
 					]
 				},
 				{
 					"title": "Object literals",
 					"kind": 2097152,
 					"children": [
-						155
+						168
 					]
 				}
 			],
@@ -3777,7 +3850,7 @@
 			]
 		},
 		{
-			"id": 163,
+			"id": 176,
 			"name": "\"lib/tryParse\"",
 			"kind": 1,
 			"kindString": "Module",
@@ -3787,7 +3860,7 @@
 			"originalName": "/home/runner/work/utils/utils/src/lib/tryParse.ts",
 			"children": [
 				{
-					"id": 164,
+					"id": 177,
 					"name": "tryParse",
 					"kind": 64,
 					"kindString": "Function",
@@ -3796,7 +3869,7 @@
 					},
 					"signatures": [
 						{
-							"id": 165,
+							"id": 178,
 							"name": "tryParse",
 							"kind": 4096,
 							"kindString": "Call signature",
@@ -3808,7 +3881,7 @@
 							},
 							"parameters": [
 								{
-									"id": 166,
+									"id": 179,
 									"name": "value",
 									"kind": 32768,
 									"kindString": "Parameter",
@@ -3843,7 +3916,7 @@
 						{
 							"fileName": "lib/tryParse.ts",
 							"line": 5,
-							"character": 32
+							"character": 24
 						}
 					]
 				}
@@ -3853,13 +3926,722 @@
 					"title": "Functions",
 					"kind": 64,
 					"children": [
-						164
+						177
 					]
 				}
 			],
 			"sources": [
 				{
 					"fileName": "lib/tryParse.ts",
+					"line": 1,
+					"character": 0
+				}
+			]
+		},
+		{
+			"id": 123,
+			"name": "\"lib/utilityTypes\"",
+			"kind": 1,
+			"kindString": "Module",
+			"flags": {
+				"isExported": true
+			},
+			"originalName": "/home/runner/work/utils/utils/src/lib/utilityTypes.ts",
+			"children": [
+				{
+					"id": 125,
+					"name": "Builtin",
+					"kind": 4194304,
+					"kindString": "Type alias",
+					"flags": {
+						"isExported": true
+					},
+					"sources": [
+						{
+							"fileName": "lib/utilityTypes.ts",
+							"line": 2,
+							"character": 19
+						}
+					],
+					"type": {
+						"type": "union",
+						"types": [
+							{
+								"type": "reference",
+								"id": 124,
+								"name": "Primitive"
+							},
+							{
+								"type": "reference",
+								"name": "Function"
+							},
+							{
+								"type": "reference",
+								"name": "Date"
+							},
+							{
+								"type": "reference",
+								"name": "Error"
+							},
+							{
+								"type": "reference",
+								"name": "RegExp"
+							}
+						]
+					}
+				},
+				{
+					"id": 126,
+					"name": "DeepRequired",
+					"kind": 4194304,
+					"kindString": "Type alias",
+					"flags": {
+						"isExported": true
+					},
+					"typeParameter": [
+						{
+							"id": 127,
+							"name": "T",
+							"kind": 131072,
+							"kindString": "Type parameter",
+							"flags": {
+								"isExported": true
+							}
+						}
+					],
+					"sources": [
+						{
+							"fileName": "lib/utilityTypes.ts",
+							"line": 4,
+							"character": 24
+						}
+					],
+					"type": {
+						"type": "conditional",
+						"checkType": {
+							"type": "typeParameter",
+							"name": "T"
+						},
+						"extendsType": {
+							"type": "reference",
+							"name": "Builtin"
+						},
+						"trueType": {
+							"type": "reference",
+							"typeArguments": [
+								{
+									"type": "reference",
+									"name": "T"
+								}
+							],
+							"name": "NonNullable"
+						},
+						"falseType": {
+							"type": "conditional",
+							"checkType": {
+								"type": "typeParameter",
+								"name": "T"
+							},
+							"extendsType": {
+								"type": "reference",
+								"typeArguments": [
+									{
+										"type": "inferred",
+										"name": "K"
+									},
+									{
+										"type": "inferred",
+										"name": "V"
+									}
+								],
+								"name": "Map"
+							},
+							"trueType": {
+								"type": "reference",
+								"typeArguments": [
+									{
+										"type": "reference",
+										"typeArguments": [
+											{
+												"type": "typeParameter",
+												"name": "K"
+											}
+										],
+										"name": "DeepRequired"
+									},
+									{
+										"type": "reference",
+										"typeArguments": [
+											{
+												"type": "typeParameter",
+												"name": "V"
+											}
+										],
+										"name": "DeepRequired"
+									}
+								],
+								"name": "Map"
+							},
+							"falseType": {
+								"type": "conditional",
+								"checkType": {
+									"type": "typeParameter",
+									"name": "T"
+								},
+								"extendsType": {
+									"type": "reference",
+									"typeArguments": [
+										{
+											"type": "inferred",
+											"name": "K"
+										},
+										{
+											"type": "inferred",
+											"name": "V"
+										}
+									],
+									"name": "ReadonlyMap"
+								},
+								"trueType": {
+									"type": "reference",
+									"typeArguments": [
+										{
+											"type": "reference",
+											"typeArguments": [
+												{
+													"type": "typeParameter",
+													"name": "K"
+												}
+											],
+											"name": "DeepRequired"
+										},
+										{
+											"type": "reference",
+											"typeArguments": [
+												{
+													"type": "typeParameter",
+													"name": "V"
+												}
+											],
+											"name": "DeepRequired"
+										}
+									],
+									"name": "ReadonlyMap"
+								},
+								"falseType": {
+									"type": "conditional",
+									"checkType": {
+										"type": "typeParameter",
+										"name": "T"
+									},
+									"extendsType": {
+										"type": "reference",
+										"typeArguments": [
+											{
+												"type": "inferred",
+												"name": "K"
+											},
+											{
+												"type": "inferred",
+												"name": "V"
+											}
+										],
+										"name": "WeakMap"
+									},
+									"trueType": {
+										"type": "reference",
+										"typeArguments": [
+											{
+												"type": "reference",
+												"typeArguments": [
+													{
+														"type": "typeParameter",
+														"name": "K"
+													}
+												],
+												"name": "DeepRequired"
+											},
+											{
+												"type": "reference",
+												"typeArguments": [
+													{
+														"type": "typeParameter",
+														"name": "V"
+													}
+												],
+												"name": "DeepRequired"
+											}
+										],
+										"name": "WeakMap"
+									},
+									"falseType": {
+										"type": "conditional",
+										"checkType": {
+											"type": "typeParameter",
+											"name": "T"
+										},
+										"extendsType": {
+											"type": "reference",
+											"typeArguments": [
+												{
+													"type": "inferred",
+													"name": "U"
+												}
+											],
+											"name": "Set"
+										},
+										"trueType": {
+											"type": "reference",
+											"typeArguments": [
+												{
+													"type": "reference",
+													"typeArguments": [
+														{
+															"type": "typeParameter",
+															"name": "U"
+														}
+													],
+													"name": "DeepRequired"
+												}
+											],
+											"name": "Set"
+										},
+										"falseType": {
+											"type": "conditional",
+											"checkType": {
+												"type": "typeParameter",
+												"name": "T"
+											},
+											"extendsType": {
+												"type": "reference",
+												"typeArguments": [
+													{
+														"type": "inferred",
+														"name": "U"
+													}
+												],
+												"name": "ReadonlySet"
+											},
+											"trueType": {
+												"type": "reference",
+												"typeArguments": [
+													{
+														"type": "reference",
+														"typeArguments": [
+															{
+																"type": "typeParameter",
+																"name": "U"
+															}
+														],
+														"name": "DeepRequired"
+													}
+												],
+												"name": "ReadonlySet"
+											},
+											"falseType": {
+												"type": "conditional",
+												"checkType": {
+													"type": "typeParameter",
+													"name": "T"
+												},
+												"extendsType": {
+													"type": "reference",
+													"typeArguments": [
+														{
+															"type": "inferred",
+															"name": "U"
+														}
+													],
+													"name": "WeakSet"
+												},
+												"trueType": {
+													"type": "reference",
+													"typeArguments": [
+														{
+															"type": "reference",
+															"typeArguments": [
+																{
+																	"type": "typeParameter",
+																	"name": "U"
+																}
+															],
+															"name": "DeepRequired"
+														}
+													],
+													"name": "WeakSet"
+												},
+												"falseType": {
+													"type": "conditional",
+													"checkType": {
+														"type": "typeParameter",
+														"name": "T"
+													},
+													"extendsType": {
+														"type": "reference",
+														"typeArguments": [
+															{
+																"type": "inferred",
+																"name": "U"
+															}
+														],
+														"name": "Promise"
+													},
+													"trueType": {
+														"type": "reference",
+														"typeArguments": [
+															{
+																"type": "reference",
+																"typeArguments": [
+																	{
+																		"type": "typeParameter",
+																		"name": "U"
+																	}
+																],
+																"name": "DeepRequired"
+															}
+														],
+														"name": "Promise"
+													},
+													"falseType": {
+														"type": "conditional",
+														"checkType": {
+															"type": "typeParameter",
+															"name": "T"
+														},
+														"extendsType": {
+															"type": "reflection",
+															"declaration": {
+																"id": 128,
+																"name": "__type",
+																"kind": 65536,
+																"kindString": "Type literal",
+																"flags": {
+																	"isExported": true
+																},
+																"sources": [
+																	{
+																		"fileName": "lib/utilityTypes.ts",
+																		"line": 20,
+																		"character": 19
+																	}
+																]
+															}
+														},
+														"trueType": {
+															"type": "reflection",
+															"declaration": {
+																"id": 129,
+																"name": "__type",
+																"kind": 65536,
+																"kindString": "Type literal",
+																"flags": {
+																	"isExported": true
+																},
+																"sources": [
+																	{
+																		"fileName": "lib/utilityTypes.ts",
+																		"line": 21,
+																		"character": 10
+																	}
+																]
+															}
+														},
+														"falseType": {
+															"type": "reference",
+															"typeArguments": [
+																{
+																	"type": "typeParameter",
+																	"name": "T"
+																}
+															],
+															"name": "NonNullable"
+														}
+													}
+												}
+											}
+										}
+									}
+								}
+							}
+						}
+					}
+				},
+				{
+					"id": 133,
+					"name": "PartialRequired",
+					"kind": 4194304,
+					"kindString": "Type alias",
+					"flags": {
+						"isExported": true
+					},
+					"typeParameter": [
+						{
+							"id": 134,
+							"name": "T",
+							"kind": 131072,
+							"kindString": "Type parameter",
+							"flags": {
+								"isExported": true
+							}
+						},
+						{
+							"id": 135,
+							"name": "K",
+							"kind": 131072,
+							"kindString": "Type parameter",
+							"flags": {
+								"isExported": true
+							},
+							"type": {
+								"type": "typeOperator",
+								"operator": "keyof",
+								"target": {
+									"type": "typeParameter",
+									"name": "T"
+								}
+							}
+						}
+					],
+					"sources": [
+						{
+							"fileName": "lib/utilityTypes.ts",
+							"line": 26,
+							"character": 27
+						}
+					],
+					"type": {
+						"type": "intersection",
+						"types": [
+							{
+								"type": "reference",
+								"typeArguments": [
+									{
+										"type": "reference",
+										"typeArguments": [
+											{
+												"type": "typeParameter",
+												"name": "T"
+											},
+											{
+												"type": "typeParameter",
+												"name": "K",
+												"constraint": {
+													"type": "typeOperator",
+													"operator": "keyof",
+													"target": {
+														"type": "typeParameter",
+														"name": "T"
+													}
+												}
+											}
+										],
+										"name": "Omit"
+									}
+								],
+								"name": "Partial"
+							},
+							{
+								"type": "reference",
+								"typeArguments": [
+									{
+										"type": "reference",
+										"typeArguments": [
+											{
+												"type": "typeParameter",
+												"name": "T"
+											},
+											{
+												"type": "typeParameter",
+												"name": "K",
+												"constraint": {
+													"type": "typeOperator",
+													"operator": "keyof",
+													"target": {
+														"type": "typeParameter",
+														"name": "T"
+													}
+												}
+											}
+										],
+										"name": "Pick"
+									}
+								],
+								"name": "Required"
+							}
+						]
+					}
+				},
+				{
+					"id": 124,
+					"name": "Primitive",
+					"kind": 4194304,
+					"kindString": "Type alias",
+					"flags": {
+						"isExported": true
+					},
+					"sources": [
+						{
+							"fileName": "lib/utilityTypes.ts",
+							"line": 1,
+							"character": 21
+						}
+					],
+					"type": {
+						"type": "union",
+						"types": [
+							{
+								"type": "intrinsic",
+								"name": "string"
+							},
+							{
+								"type": "intrinsic",
+								"name": "number"
+							},
+							{
+								"type": "intrinsic",
+								"name": "boolean"
+							},
+							{
+								"type": "intrinsic",
+								"name": "bigint"
+							},
+							{
+								"type": "intrinsic",
+								"name": "symbol"
+							},
+							{
+								"type": "intrinsic",
+								"name": "undefined"
+							},
+							{
+								"type": "intrinsic",
+								"name": "null"
+							}
+						]
+					}
+				},
+				{
+					"id": 130,
+					"name": "RequiredExcept",
+					"kind": 4194304,
+					"kindString": "Type alias",
+					"flags": {
+						"isExported": true
+					},
+					"typeParameter": [
+						{
+							"id": 131,
+							"name": "T",
+							"kind": 131072,
+							"kindString": "Type parameter",
+							"flags": {
+								"isExported": true
+							}
+						},
+						{
+							"id": 132,
+							"name": "K",
+							"kind": 131072,
+							"kindString": "Type parameter",
+							"flags": {
+								"isExported": true
+							},
+							"type": {
+								"type": "typeOperator",
+								"operator": "keyof",
+								"target": {
+									"type": "typeParameter",
+									"name": "T"
+								}
+							}
+						}
+					],
+					"sources": [
+						{
+							"fileName": "lib/utilityTypes.ts",
+							"line": 24,
+							"character": 26
+						}
+					],
+					"type": {
+						"type": "intersection",
+						"types": [
+							{
+								"type": "reference",
+								"typeArguments": [
+									{
+										"type": "reference",
+										"typeArguments": [
+											{
+												"type": "typeParameter",
+												"name": "T"
+											},
+											{
+												"type": "typeParameter",
+												"name": "K",
+												"constraint": {
+													"type": "typeOperator",
+													"operator": "keyof",
+													"target": {
+														"type": "typeParameter",
+														"name": "T"
+													}
+												}
+											}
+										],
+										"name": "Pick"
+									}
+								],
+								"name": "Partial"
+							},
+							{
+								"type": "reference",
+								"typeArguments": [
+									{
+										"type": "reference",
+										"typeArguments": [
+											{
+												"type": "typeParameter",
+												"name": "T"
+											},
+											{
+												"type": "typeParameter",
+												"name": "K",
+												"constraint": {
+													"type": "typeOperator",
+													"operator": "keyof",
+													"target": {
+														"type": "typeParameter",
+														"name": "T"
+													}
+												}
+											}
+										],
+										"name": "Omit"
+									}
+								],
+								"name": "Required"
+							}
+						]
+					}
+				}
+			],
+			"groups": [
+				{
+					"title": "Type aliases",
+					"kind": 4194304,
+					"children": [
+						125,
+						126,
+						133,
+						124,
+						130
+					]
+				}
+			],
+			"sources": [
+				{
+					"fileName": "lib/utilityTypes.ts",
 					"line": 1,
 					"character": 0
 				}
@@ -3871,7 +4653,7 @@
 			"title": "Modules",
 			"kind": 1,
 			"children": [
-				167,
+				180,
 				15,
 				21,
 				6,
@@ -3885,13 +4667,14 @@
 				36,
 				100,
 				117,
-				123,
-				131,
-				139,
-				1,
+				136,
 				144,
-				153,
-				163
+				152,
+				1,
+				157,
+				166,
+				176,
+				123
 			]
 		}
 	]
