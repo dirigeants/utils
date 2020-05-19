@@ -10,8 +10,8 @@ type KeyedObject = Record<PropertyKey, unknown>;
  * @param def Default properties
  * @param given Object to assign defaults to
  */
-export function mergeDefault<A extends KeyedObject, B extends Partial<A>>(defaults: A, given?: B): DeepRequired<A> {
-	if (!given) return deepClone(defaults) as DeepRequired<A>;
+export function mergeDefault<A extends KeyedObject, B extends Partial<A>>(defaults: A, given?: B): DeepRequired<A & B> {
+	if (!given) return deepClone(defaults) as DeepRequired<A & B>;
 	for (const key in defaults) {
 		if (typeof given[key] === 'undefined') {
 			given[key] = deepClone(defaults[key]) as unknown as B[Extract<keyof A, string>];
@@ -20,5 +20,5 @@ export function mergeDefault<A extends KeyedObject, B extends Partial<A>>(defaul
 		}
 	}
 
-	return given as DeepRequired<A>;
+	return given as DeepRequired<A & B>;
 }
