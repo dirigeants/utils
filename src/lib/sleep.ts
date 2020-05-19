@@ -10,6 +10,4 @@ interface PromisifiedTimeout {
  * @param delay The amount of time in ms to delay
  * @param args Any args to pass to the .then (mostly pointless in this form)
  */
-const sleep: PromisifiedTimeout = promisify(setTimeout);
-
-export default sleep;
+export const sleep: PromisifiedTimeout = promisify(setTimeout);

@@ -10,6 +10,6 @@ interface Stringifiable {
  * @param lang The codeblock language
  * @param expression The expression to be wrapped in the codeblock
  */
-export default function codeBlock(lang: string, expression: Stringifiable): string {
+export function codeBlock(lang: string, expression: Stringifiable): string {
 	return `\`\`\`${lang}\n${expression || zws}\`\`\``;
 }

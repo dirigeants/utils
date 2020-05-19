@@ -4,7 +4,7 @@
  * @param entries The object to be merged
  * @param chunkSize The object to merge
  */
-export default function chunk<T>(entries: readonly T[], chunkSize: number): T[][] {
+export function chunk<T>(entries: readonly T[], chunkSize: number): T[][] {
 	if (!Array.isArray(entries)) throw new TypeError('entries must be an array.');
 	if (!Number.isInteger(chunkSize)) throw new TypeError('chunkSize must be an integer.');
 	if (chunkSize < 1) throw new RangeError('chunkSize must be 1 or greater.');

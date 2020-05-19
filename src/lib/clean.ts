@@ -1,4 +1,4 @@
-import regExpEsc from './regExpEsc';
+import { regExpEsc } from './regExpEsc';
 
 let sensitivePattern: RegExp | undefined;
 const zws = String.fromCharCode(8203);
