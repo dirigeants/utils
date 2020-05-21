@@ -1,5 +1,5 @@
 import ava from 'ava';
-import { isPrimitive } from '../dist';
+import { isPrimitive } from '../src';
 
 ava('isPrimitive(string)', (test): void => {
 	const value = 'Hello World';

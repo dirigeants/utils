@@ -1,5 +1,5 @@
 import ava from 'ava';
-import { sleep } from '../dist';
+import { sleep } from '../src';
 
 ava('sleep(cozy)', async (test): Promise<void> => {
 	test.plan(2);

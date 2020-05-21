@@ -1,5 +1,5 @@
 import ava from 'ava';
-import { clean, initClean } from '../dist';
+import { clean, initClean } from '../src';
 
 const token = 'MzM5OTQyNzM5Mjc1Njc3NzI3.4qyqwg.WjrWfDaMQdCP8xVn7P0va5gujmh';
 const zws = String.fromCharCode(8203);

@@ -1,5 +1,5 @@
 import ava from 'ava';
-import { codeBlock } from '../dist';
+import { codeBlock } from '../src';
 
 const zws = String.fromCharCode(8203);
 const language = 'js';

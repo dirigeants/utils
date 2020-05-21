@@ -1,5 +1,5 @@
 import ava from 'ava';
-import { regExpEsc } from '../dist';
+import { regExpEsc } from '../src';
 
 ava('regExpEsc(hyphen)', (test): void => {
 	const source = String.raw`test-this`;

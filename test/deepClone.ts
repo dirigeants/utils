@@ -1,5 +1,5 @@
 import ava from 'ava';
-import { deepClone } from '../dist';
+import { deepClone } from '../src';
 
 ava('deepClone(null)', (test): void => {
 	const source = null;

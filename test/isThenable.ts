@@ -1,5 +1,5 @@
 import ava from 'ava';
-import { isThenable } from '../dist';
+import { isThenable } from '../src';
 
 ava('isThenable(string)', (test): void => {
 	const value = 'Hello World';

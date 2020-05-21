@@ -1,5 +1,5 @@
 import ava from 'ava';
-import { isNumber } from '../dist';
+import { isNumber } from '../src';
 
 ava('isNumber(string)', (test): void => {
 	const value = 'Hello World';

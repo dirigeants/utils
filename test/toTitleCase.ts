@@ -1,5 +1,5 @@
 import ava from 'ava';
-import { toTitleCase } from '../dist';
+import { toTitleCase } from '../src';
 
 ava('toTitleCase(basic)', (test): void => {
 	const source = toTitleCase('something');

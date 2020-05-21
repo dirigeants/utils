@@ -1,5 +1,5 @@
 import ava from 'ava';
-import { mergeObjects } from '../dist';
+import { mergeObjects } from '../src';
 
 ava('mergeObjects(basic)', (test): void => {
 	const source = { a: 0, b: 1 };

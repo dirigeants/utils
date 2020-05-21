@@ -1,5 +1,5 @@
 import ava from 'ava';
-import { objectToTuples } from '../dist';
+import { objectToTuples } from '../src';
 
 ava('objectToTuples(basic)', (test): void => {
 	const source = { a: 'Hello', b: 420 };

@@ -1,5 +1,5 @@
 import ava from 'ava';
-import { mergeDefault } from '../dist';
+import { mergeDefault } from '../src';
 
 ava('mergeDefault(basic)', (test): void => {
 	const defaults = { a: 0, b: 1 };

@@ -1,5 +1,5 @@
 import ava from 'ava';
-import { arrayStrictEquals } from '../dist';
+import { arrayStrictEquals } from '../src';
 
 ava('arrayStrictEquals(reference)', (test): void => {
 	const array: undefined[] = [];

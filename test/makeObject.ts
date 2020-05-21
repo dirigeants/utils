@@ -1,5 +1,5 @@
 import ava from 'ava';
-import { makeObject } from '../dist';
+import { makeObject } from '../src';
 
 ava('makeObject(basic)', (test): void => {
 	const made = makeObject('hello', 'world');

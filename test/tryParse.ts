@@ -1,5 +1,5 @@
 import ava from 'ava';
-import { tryParse } from '../dist';
+import { tryParse } from '../src';
 
 ava('tryParse(basic)', (test): void => {
 	const source = '{"a":4,"b":6}';

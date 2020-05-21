@@ -1,5 +1,5 @@
 import ava from 'ava';
-import { isClass } from '../dist';
+import { isClass } from '../src';
 
 ava('isClass(string)', (test): void => {
 	const value = 'Hello World';

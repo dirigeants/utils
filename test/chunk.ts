@@ -1,5 +1,5 @@
 import ava from 'ava';
-import { chunk } from '../dist';
+import { chunk } from '../src';
 
 ava('chunk(basic)', (test): void => {
 	const entries = [0, 1, 2, 3, 4, 5];

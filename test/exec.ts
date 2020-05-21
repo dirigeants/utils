@@ -1,5 +1,5 @@
 import ava from 'ava';
-import { exec } from '../dist';
+import { exec } from '../src';
 import { lineEndings } from './lib/common';
 
 ava('exec(basic)', async (test): Promise<void> => {
