@@ -20,6 +20,9 @@
   "engines": {
     "node": ">=10.1.0"
   },
+  "files": [
+    "dist/src"
+  ],
   "devDependencies": {
     "@ava/typescript": "^1.1.1",
     "@types/node": "^14.0.5",
@@ -39,7 +42,8 @@
   },
   "ava": {
     "files": [
-      "test/src"
+      "test/**/*.ts",
+      "!test/lib"
     ],
     "typescript": {
       "extensions": [
