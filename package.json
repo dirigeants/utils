@@ -1,6 +1,6 @@
 {
   "name": "@klasa/utils",
-  "version": "0.0.5",
+  "version": "0.0.7",
   "description": "some util thing.",
   "main": "dist/src/index.js",
   "scripts": {
@@ -30,8 +30,8 @@
     "eslint-config-klasa": "dirigeants/klasa-lint",
     "nyc": "^15.0.1",
     "source-map-support": "^0.5.19",
-    "typescript": "^3.9.3",
-    "typedoc": "^0.17.7"
+    "typedoc": "^0.17.7",
+    "typescript": "^3.9.3"
   },
   "repository": {
     "type": "git",
@@ -39,8 +39,7 @@
   },
   "ava": {
     "files": [
-      "test/**/*.ts",
-      "!test/lib"
+      "test/src"
     ],
     "typescript": {
       "extensions": [
