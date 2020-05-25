@@ -6,7 +6,7 @@
 	"originalName": "",
 	"children": [
 		{
-			"id": 180,
+			"id": 179,
 			"name": "\"src/index\"",
 			"kind": 1,
 			"kindString": "Module",
@@ -16,7 +16,7 @@
 			"originalName": "/home/runner/work/utils/utils/src/index.ts",
 			"children": [
 				{
-					"id": 204,
+					"id": 203,
 					"name": "Builtin",
 					"kind": 16777216,
 					"kindString": "Reference",
@@ -26,7 +26,7 @@
 					"target": 125
 				},
 				{
-					"id": 205,
+					"id": 204,
 					"name": "DeepRequired",
 					"kind": 16777216,
 					"kindString": "Reference",
@@ -36,7 +36,7 @@
 					"target": 126
 				},
 				{
-					"id": 207,
+					"id": 206,
 					"name": "PartialRequired",
 					"kind": 16777216,
 					"kindString": "Reference",
@@ -46,7 +46,7 @@
 					"target": 133
 				},
 				{
-					"id": 203,
+					"id": 202,
 					"name": "Primitive",
 					"kind": 16777216,
 					"kindString": "Reference",
@@ -56,7 +56,7 @@
 					"target": 124
 				},
 				{
-					"id": 206,
+					"id": 205,
 					"name": "RequiredExcept",
 					"kind": 16777216,
 					"kindString": "Reference",
@@ -66,7 +66,7 @@
 					"target": 130
 				},
 				{
-					"id": 194,
+					"id": 193,
 					"name": "Thenable",
 					"kind": 16777216,
 					"kindString": "Reference",
@@ -76,7 +76,7 @@
 					"target": 101
 				},
 				{
-					"id": 183,
+					"id": 182,
 					"name": "arrayStrictEquals",
 					"kind": 16777216,
 					"kindString": "Reference",
@@ -86,7 +86,7 @@
 					"target": 16
 				},
 				{
-					"id": 184,
+					"id": 183,
 					"name": "chunk",
 					"kind": 16777216,
 					"kindString": "Reference",
@@ -96,7 +96,7 @@
 					"target": 22
 				},
 				{
-					"id": 181,
+					"id": 180,
 					"name": "clean",
 					"kind": 16777216,
 					"kindString": "Reference",
@@ -106,7 +106,7 @@
 					"target": 9
 				},
 				{
-					"id": 185,
+					"id": 184,
 					"name": "codeBlock",
 					"kind": 16777216,
 					"kindString": "Reference",
@@ -116,7 +116,7 @@
 					"target": 32
 				},
 				{
-					"id": 186,
+					"id": 185,
 					"name": "deepClone",
 					"kind": 16777216,
 					"kindString": "Reference",
@@ -126,7 +126,7 @@
 					"target": 46
 				},
 				{
-					"id": 187,
+					"id": 186,
 					"name": "exec",
 					"kind": 16777216,
 					"kindString": "Reference",
@@ -136,7 +136,7 @@
 					"target": 87
 				},
 				{
-					"id": 182,
+					"id": 181,
 					"name": "initClean",
 					"kind": 16777216,
 					"kindString": "Reference",
@@ -146,7 +146,7 @@
 					"target": 12
 				},
 				{
-					"id": 188,
+					"id": 187,
 					"name": "isClass",
 					"kind": 16777216,
 					"kindString": "Reference",
@@ -156,7 +156,7 @@
 					"target": 89
 				},
 				{
-					"id": 189,
+					"id": 188,
 					"name": "isFunction",
 					"kind": 16777216,
 					"kindString": "Reference",
@@ -166,7 +166,7 @@
 					"target": 93
 				},
 				{
-					"id": 190,
+					"id": 189,
 					"name": "isNumber",
 					"kind": 16777216,
 					"kindString": "Reference",
@@ -176,7 +176,7 @@
 					"target": 97
 				},
 				{
-					"id": 191,
+					"id": 190,
 					"name": "isObject",
 					"kind": 16777216,
 					"kindString": "Reference",
@@ -186,7 +186,7 @@
 					"target": 42
 				},
 				{
-					"id": 192,
+					"id": 191,
 					"name": "isPrimitive",
 					"kind": 16777216,
 					"kindString": "Reference",
@@ -196,7 +196,7 @@
 					"target": 38
 				},
 				{
-					"id": 193,
+					"id": 192,
 					"name": "isThenable",
 					"kind": 16777216,
 					"kindString": "Reference",
@@ -206,7 +206,7 @@
 					"target": 114
 				},
 				{
-					"id": 195,
+					"id": 194,
 					"name": "makeObject",
 					"kind": 16777216,
 					"kindString": "Reference",
@@ -216,7 +216,7 @@
 					"target": 118
 				},
 				{
-					"id": 196,
+					"id": 195,
 					"name": "mergeDefault",
 					"kind": 16777216,
 					"kindString": "Reference",
@@ -226,27 +226,27 @@
 					"target": 138
 				},
 				{
-					"id": 197,
+					"id": 196,
 					"name": "mergeObjects",
 					"kind": 16777216,
 					"kindString": "Reference",
 					"flags": {
 						"isExported": true
 					},
-					"target": 146
+					"target": 145
 				},
 				{
-					"id": 198,
+					"id": 197,
 					"name": "objectToTuples",
 					"kind": 16777216,
 					"kindString": "Reference",
 					"flags": {
 						"isExported": true
 					},
-					"target": 153
+					"target": 152
 				},
 				{
-					"id": 199,
+					"id": 198,
 					"name": "regExpEsc",
 					"kind": 16777216,
 					"kindString": "Reference",
@@ -256,34 +256,34 @@
 					"target": 3
 				},
 				{
-					"id": 200,
+					"id": 199,
 					"name": "sleep",
 					"kind": 16777216,
 					"kindString": "Reference",
 					"flags": {
 						"isExported": true
 					},
-					"target": 165
+					"target": 164
 				},
 				{
-					"id": 201,
+					"id": 200,
 					"name": "toTitleCase",
 					"kind": 16777216,
 					"kindString": "Reference",
 					"flags": {
 						"isExported": true
 					},
-					"target": 173
+					"target": 172
 				},
 				{
-					"id": 202,
+					"id": 201,
 					"name": "tryParse",
 					"kind": 16777216,
 					"kindString": "Reference",
 					"flags": {
 						"isExported": true
 					},
-					"target": 177
+					"target": 176
 				}
 			],
 			"groups": [
@@ -291,33 +291,33 @@
 					"title": "References",
 					"kind": 16777216,
 					"children": [
-						204,
-						205,
-						207,
 						203,
+						204,
 						206,
-						194,
+						202,
+						205,
+						193,
+						182,
 						183,
+						180,
 						184,
-						181,
 						185,
 						186,
+						181,
 						187,
-						182,
 						188,
 						189,
 						190,
 						191,
 						192,
-						193,
+						194,
 						195,
 						196,
 						197,
 						198,
 						199,
 						200,
-						201,
-						202
+						201
 					]
 				}
 			],
@@ -3041,34 +3041,6 @@
 			"children": [
 				{
 					"id": 145,
-					"name": "KeyedObject",
-					"kind": 4194304,
-					"kindString": "Type alias",
-					"flags": {},
-					"sources": [
-						{
-							"fileName": "src/lib/mergeObjects.ts",
-							"line": 3,
-							"character": 16
-						}
-					],
-					"type": {
-						"type": "reference",
-						"typeArguments": [
-							{
-								"type": "reference",
-								"name": "PropertyKey"
-							},
-							{
-								"type": "intrinsic",
-								"name": "unknown"
-							}
-						],
-						"name": "Record"
-					}
-				},
-				{
-					"id": 146,
 					"name": "mergeObjects",
 					"kind": 64,
 					"kindString": "Function",
@@ -3077,7 +3049,7 @@
 					},
 					"signatures": [
 						{
-							"id": 147,
+							"id": 146,
 							"name": "mergeObjects",
 							"kind": 4096,
 							"kindString": "Call signature",
@@ -3089,7 +3061,7 @@
 							},
 							"typeParameter": [
 								{
-									"id": 148,
+									"id": 147,
 									"name": "A",
 									"kind": 131072,
 									"kindString": "Type parameter",
@@ -3097,13 +3069,12 @@
 										"isExported": true
 									},
 									"type": {
-										"type": "reference",
-										"id": 145,
-										"name": "KeyedObject"
+										"type": "intrinsic",
+										"name": "object"
 									}
 								},
 								{
-									"id": 149,
+									"id": 148,
 									"name": "B",
 									"kind": 131072,
 									"kindString": "Type parameter",
@@ -3111,15 +3082,14 @@
 										"isExported": true
 									},
 									"type": {
-										"type": "reference",
-										"id": 145,
-										"name": "KeyedObject"
+										"type": "intrinsic",
+										"name": "object"
 									}
 								}
 							],
 							"parameters": [
 								{
-									"id": 150,
+									"id": 149,
 									"name": "objTarget",
 									"kind": 32768,
 									"kindString": "Parameter",
@@ -3133,14 +3103,13 @@
 										"type": "typeParameter",
 										"name": "A",
 										"constraint": {
-											"type": "reference",
-											"id": 145,
-											"name": "KeyedObject"
+											"type": "intrinsic",
+											"name": "object"
 										}
 									}
 								},
 								{
-									"id": 151,
+									"id": 150,
 									"name": "objSource",
 									"kind": 32768,
 									"kindString": "Parameter",
@@ -3151,13 +3120,18 @@
 										"text": "The object to merge\n"
 									},
 									"type": {
-										"type": "typeParameter",
-										"name": "B",
-										"constraint": {
-											"type": "reference",
-											"id": 145,
-											"name": "KeyedObject"
-										}
+										"type": "reference",
+										"typeArguments": [
+											{
+												"type": "typeParameter",
+												"name": "B",
+												"constraint": {
+													"type": "intrinsic",
+													"name": "object"
+												}
+											}
+										],
+										"name": "Readonly"
 									}
 								}
 							],
@@ -3168,18 +3142,16 @@
 										"type": "typeParameter",
 										"name": "A",
 										"constraint": {
-											"type": "reference",
-											"id": 145,
-											"name": "KeyedObject"
+											"type": "intrinsic",
+											"name": "object"
 										}
 									},
 									{
 										"type": "typeParameter",
 										"name": "B",
 										"constraint": {
-											"type": "reference",
-											"id": 145,
-											"name": "KeyedObject"
+											"type": "intrinsic",
+											"name": "object"
 										}
 									}
 								]
@@ -3189,7 +3161,7 @@
 					"sources": [
 						{
 							"fileName": "src/lib/mergeObjects.ts",
-							"line": 10,
+							"line": 8,
 							"character": 28
 						}
 					]
@@ -3197,17 +3169,10 @@
 			],
 			"groups": [
 				{
-					"title": "Type aliases",
-					"kind": 4194304,
-					"children": [
-						145
-					]
-				},
-				{
 					"title": "Functions",
 					"kind": 64,
 					"children": [
-						146
+						145
 					]
 				}
 			],
@@ -3220,7 +3185,7 @@
 			]
 		},
 		{
-			"id": 152,
+			"id": 151,
 			"name": "\"src/lib/objectToTuples\"",
 			"kind": 1,
 			"kindString": "Module",
@@ -3230,7 +3195,7 @@
 			"originalName": "/home/runner/work/utils/utils/src/lib/objectToTuples.ts",
 			"children": [
 				{
-					"id": 153,
+					"id": 152,
 					"name": "objectToTuples",
 					"kind": 64,
 					"kindString": "Function",
@@ -3239,7 +3204,7 @@
 					},
 					"signatures": [
 						{
-							"id": 154,
+							"id": 153,
 							"name": "objectToTuples",
 							"kind": 4096,
 							"kindString": "Call signature",
@@ -3257,7 +3222,7 @@
 							},
 							"parameters": [
 								{
-									"id": 155,
+									"id": 154,
 									"name": "original",
 									"kind": 32768,
 									"kindString": "Parameter",
@@ -3280,7 +3245,7 @@
 									}
 								},
 								{
-									"id": 156,
+									"id": 155,
 									"name": "prefix",
 									"kind": 32768,
 									"kindString": "Parameter",
@@ -3329,7 +3294,7 @@
 					"title": "Functions",
 					"kind": 64,
 					"children": [
-						153
+						152
 					]
 				}
 			],
@@ -3456,7 +3421,7 @@
 			]
 		},
 		{
-			"id": 157,
+			"id": 156,
 			"name": "\"src/lib/sleep\"",
 			"kind": 1,
 			"kindString": "Module",
@@ -3466,21 +3431,21 @@
 			"originalName": "/home/runner/work/utils/utils/src/lib/sleep.ts",
 			"children": [
 				{
-					"id": 158,
+					"id": 157,
 					"name": "PromisifiedTimeout",
 					"kind": 256,
 					"kindString": "Interface",
 					"flags": {},
 					"signatures": [
 						{
-							"id": 159,
+							"id": 158,
 							"name": "__call",
 							"kind": 4096,
 							"kindString": "Call signature",
 							"flags": {},
 							"parameters": [
 								{
-									"id": 160,
+									"id": 159,
 									"name": "ms",
 									"kind": 32768,
 									"kindString": "Parameter",
@@ -3503,14 +3468,14 @@
 							}
 						},
 						{
-							"id": 161,
+							"id": 160,
 							"name": "__call",
 							"kind": 4096,
 							"kindString": "Call signature",
 							"flags": {},
 							"typeParameter": [
 								{
-									"id": 162,
+									"id": 161,
 									"name": "T",
 									"kind": 131072,
 									"kindString": "Type parameter",
@@ -3519,7 +3484,7 @@
 							],
 							"parameters": [
 								{
-									"id": 163,
+									"id": 162,
 									"name": "ms",
 									"kind": 32768,
 									"kindString": "Parameter",
@@ -3530,7 +3495,7 @@
 									}
 								},
 								{
-									"id": 164,
+									"id": 163,
 									"name": "value",
 									"kind": 32768,
 									"kindString": "Parameter",
@@ -3562,7 +3527,7 @@
 					]
 				},
 				{
-					"id": 165,
+					"id": 164,
 					"name": "sleep",
 					"kind": 32,
 					"kindString": "Variable",
@@ -3594,7 +3559,7 @@
 					],
 					"type": {
 						"type": "reference",
-						"id": 158,
+						"id": 157,
 						"name": "PromisifiedTimeout"
 					},
 					"defaultValue": "promisify(setTimeout)"
@@ -3605,14 +3570,14 @@
 					"title": "Interfaces",
 					"kind": 256,
 					"children": [
-						158
+						157
 					]
 				},
 				{
 					"title": "Variables",
 					"kind": 32,
 					"children": [
-						165
+						164
 					]
 				}
 			],
@@ -3625,7 +3590,7 @@
 			]
 		},
 		{
-			"id": 166,
+			"id": 165,
 			"name": "\"src/lib/toTitleCase\"",
 			"kind": 1,
 			"kindString": "Module",
@@ -3635,7 +3600,7 @@
 			"originalName": "/home/runner/work/utils/utils/src/lib/toTitleCase.ts",
 			"children": [
 				{
-					"id": 167,
+					"id": 166,
 					"name": "TOTITLECASE",
 					"kind": 32,
 					"kindString": "Variable",
@@ -3656,7 +3621,7 @@
 					"defaultValue": "/[A-Za-zÀ-ÖØ-öø-ÿ]\\S*/g"
 				},
 				{
-					"id": 173,
+					"id": 172,
 					"name": "toTitleCase",
 					"kind": 64,
 					"kindString": "Function",
@@ -3665,7 +3630,7 @@
 					},
 					"signatures": [
 						{
-							"id": 174,
+							"id": 173,
 							"name": "toTitleCase",
 							"kind": 4096,
 							"kindString": "Call signature",
@@ -3677,7 +3642,7 @@
 							},
 							"parameters": [
 								{
-									"id": 175,
+									"id": 174,
 									"name": "str",
 									"kind": 32768,
 									"kindString": "Parameter",
@@ -3708,7 +3673,7 @@
 					]
 				},
 				{
-					"id": 168,
+					"id": 167,
 					"name": "titleCaseVariants",
 					"kind": 2097152,
 					"kindString": "Object literal",
@@ -3717,7 +3682,7 @@
 					},
 					"children": [
 						{
-							"id": 171,
+							"id": 170,
 							"name": "categorychannel",
 							"kind": 32,
 							"kindString": "Variable",
@@ -3736,7 +3701,7 @@
 							"defaultValue": "\"CategoryChannel\""
 						},
 						{
-							"id": 172,
+							"id": 171,
 							"name": "guildmember",
 							"kind": 32,
 							"kindString": "Variable",
@@ -3755,7 +3720,7 @@
 							"defaultValue": "\"GuildMember\""
 						},
 						{
-							"id": 169,
+							"id": 168,
 							"name": "textchannel",
 							"kind": 32,
 							"kindString": "Variable",
@@ -3774,7 +3739,7 @@
 							"defaultValue": "\"TextChannel\""
 						},
 						{
-							"id": 170,
+							"id": 169,
 							"name": "voicechannel",
 							"kind": 32,
 							"kindString": "Variable",
@@ -3798,10 +3763,10 @@
 							"title": "Variables",
 							"kind": 32,
 							"children": [
+								170,
 								171,
-								172,
-								169,
-								170
+								168,
+								169
 							]
 						}
 					],
@@ -3823,21 +3788,21 @@
 					"title": "Variables",
 					"kind": 32,
 					"children": [
-						167
+						166
 					]
 				},
 				{
 					"title": "Functions",
 					"kind": 64,
 					"children": [
-						173
+						172
 					]
 				},
 				{
 					"title": "Object literals",
 					"kind": 2097152,
 					"children": [
-						168
+						167
 					]
 				}
 			],
@@ -3850,7 +3815,7 @@
 			]
 		},
 		{
-			"id": 176,
+			"id": 175,
 			"name": "\"src/lib/tryParse\"",
 			"kind": 1,
 			"kindString": "Module",
@@ -3860,7 +3825,7 @@
 			"originalName": "/home/runner/work/utils/utils/src/lib/tryParse.ts",
 			"children": [
 				{
-					"id": 177,
+					"id": 176,
 					"name": "tryParse",
 					"kind": 64,
 					"kindString": "Function",
@@ -3869,7 +3834,7 @@
 					},
 					"signatures": [
 						{
-							"id": 178,
+							"id": 177,
 							"name": "tryParse",
 							"kind": 4096,
 							"kindString": "Call signature",
@@ -3881,7 +3846,7 @@
 							},
 							"parameters": [
 								{
-									"id": 179,
+									"id": 178,
 									"name": "value",
 									"kind": 32768,
 									"kindString": "Parameter",
@@ -3926,7 +3891,7 @@
 					"title": "Functions",
 					"kind": 64,
 					"children": [
-						177
+						176
 					]
 				}
 			],
@@ -4648,7 +4613,7 @@
 			]
 		},
 		{
-			"id": 208,
+			"id": 207,
 			"name": "\"test/arrayStrictEquals\"",
 			"kind": 1,
 			"kindString": "Module",
@@ -4665,7 +4630,7 @@
 			]
 		},
 		{
-			"id": 209,
+			"id": 208,
 			"name": "\"test/chunk\"",
 			"kind": 1,
 			"kindString": "Module",
@@ -4682,7 +4647,7 @@
 			]
 		},
 		{
-			"id": 210,
+			"id": 209,
 			"name": "\"test/clean\"",
 			"kind": 1,
 			"kindString": "Module",
@@ -4692,7 +4657,7 @@
 			"originalName": "/home/runner/work/utils/utils/test/clean.ts",
 			"children": [
 				{
-					"id": 211,
+					"id": 210,
 					"name": "token",
 					"kind": 32,
 					"kindString": "Variable",
@@ -4713,7 +4678,7 @@
 					"defaultValue": "\"MzM5OTQyNzM5Mjc1Njc3NzI3.4qyqwg.WjrWfDaMQdCP8xVn7P0va5gujmh\""
 				},
 				{
-					"id": 212,
+					"id": 211,
 					"name": "zws",
 					"kind": 32,
 					"kindString": "Variable",
@@ -4739,8 +4704,8 @@
 					"title": "Variables",
 					"kind": 32,
 					"children": [
-						211,
-						212
+						210,
+						211
 					]
 				}
 			],
@@ -4753,7 +4718,7 @@
 			]
 		},
 		{
-			"id": 213,
+			"id": 212,
 			"name": "\"test/codeBlock\"",
 			"kind": 1,
 			"kindString": "Module",
@@ -4763,7 +4728,7 @@
 			"originalName": "/home/runner/work/utils/utils/test/codeBlock.ts",
 			"children": [
 				{
-					"id": 215,
+					"id": 214,
 					"name": "language",
 					"kind": 32,
 					"kindString": "Variable",
@@ -4784,7 +4749,7 @@
 					"defaultValue": "\"js\""
 				},
 				{
-					"id": 214,
+					"id": 213,
 					"name": "zws",
 					"kind": 32,
 					"kindString": "Variable",
@@ -4810,8 +4775,8 @@
 					"title": "Variables",
 					"kind": 32,
 					"children": [
-						215,
-						214
+						214,
+						213
 					]
 				}
 			],
@@ -4824,7 +4789,7 @@
 			]
 		},
 		{
-			"id": 216,
+			"id": 215,
 			"name": "\"test/deepClone\"",
 			"kind": 1,
 			"kindString": "Module",
@@ -4841,7 +4806,7 @@
 			]
 		},
 		{
-			"id": 220,
+			"id": 219,
 			"name": "\"test/exec\"",
 			"kind": 1,
 			"kindString": "Module",
@@ -4858,7 +4823,7 @@
 			]
 		},
 		{
-			"id": 221,
+			"id": 220,
 			"name": "\"test/isClass\"",
 			"kind": 1,
 			"kindString": "Module",
@@ -4875,7 +4840,7 @@
 			]
 		},
 		{
-			"id": 222,
+			"id": 221,
 			"name": "\"test/isFunction\"",
 			"kind": 1,
 			"kindString": "Module",
@@ -4892,7 +4857,7 @@
 			]
 		},
 		{
-			"id": 223,
+			"id": 222,
 			"name": "\"test/isNumber\"",
 			"kind": 1,
 			"kindString": "Module",
@@ -4909,7 +4874,7 @@
 			]
 		},
 		{
-			"id": 224,
+			"id": 223,
 			"name": "\"test/isObject\"",
 			"kind": 1,
 			"kindString": "Module",
@@ -4926,7 +4891,7 @@
 			]
 		},
 		{
-			"id": 225,
+			"id": 224,
 			"name": "\"test/isPrimitive\"",
 			"kind": 1,
 			"kindString": "Module",
@@ -4943,7 +4908,7 @@
 			]
 		},
 		{
-			"id": 226,
+			"id": 225,
 			"name": "\"test/isThenable\"",
 			"kind": 1,
 			"kindString": "Module",
@@ -4960,7 +4925,7 @@
 			]
 		},
 		{
-			"id": 217,
+			"id": 216,
 			"name": "\"test/lib/common\"",
 			"kind": 1,
 			"kindString": "Module",
@@ -4970,7 +4935,7 @@
 			"originalName": "/home/runner/work/utils/utils/test/lib/common.ts",
 			"children": [
 				{
-					"id": 219,
+					"id": 218,
 					"name": "lineEndings",
 					"kind": 32,
 					"kindString": "Variable",
@@ -5001,7 +4966,7 @@
 					"defaultValue": "windows ? '\\r\\n' : '\\n'"
 				},
 				{
-					"id": 218,
+					"id": 217,
 					"name": "windows",
 					"kind": 32,
 					"kindString": "Variable",
@@ -5028,8 +4993,8 @@
 					"title": "Variables",
 					"kind": 32,
 					"children": [
-						219,
-						218
+						218,
+						217
 					]
 				}
 			],
@@ -5042,7 +5007,7 @@
 			]
 		},
 		{
-			"id": 227,
+			"id": 226,
 			"name": "\"test/makeObject\"",
 			"kind": 1,
 			"kindString": "Module",
@@ -5059,7 +5024,7 @@
 			]
 		},
 		{
-			"id": 228,
+			"id": 227,
 			"name": "\"test/mergeDefault\"",
 			"kind": 1,
 			"kindString": "Module",
@@ -5076,7 +5041,7 @@
 			]
 		},
 		{
-			"id": 229,
+			"id": 228,
 			"name": "\"test/mergeObjects\"",
 			"kind": 1,
 			"kindString": "Module",
@@ -5093,7 +5058,7 @@
 			]
 		},
 		{
-			"id": 230,
+			"id": 229,
 			"name": "\"test/objectToTuples\"",
 			"kind": 1,
 			"kindString": "Module",
@@ -5110,7 +5075,7 @@
 			]
 		},
 		{
-			"id": 231,
+			"id": 230,
 			"name": "\"test/regExpEsc\"",
 			"kind": 1,
 			"kindString": "Module",
@@ -5127,7 +5092,7 @@
 			]
 		},
 		{
-			"id": 232,
+			"id": 231,
 			"name": "\"test/sleep\"",
 			"kind": 1,
 			"kindString": "Module",
@@ -5144,7 +5109,7 @@
 			]
 		},
 		{
-			"id": 233,
+			"id": 232,
 			"name": "\"test/toTitleCase\"",
 			"kind": 1,
 			"kindString": "Module",
@@ -5161,7 +5126,7 @@
 			]
 		},
 		{
-			"id": 234,
+			"id": 233,
 			"name": "\"test/tryParse\"",
 			"kind": 1,
 			"kindString": "Module",
@@ -5183,7 +5148,7 @@
 			"title": "Modules",
 			"kind": 1,
 			"children": [
-				180,
+				179,
 				15,
 				21,
 				6,
@@ -5199,33 +5164,33 @@
 				117,
 				136,
 				144,
-				152,
+				151,
 				1,
-				157,
-				166,
-				176,
+				156,
+				165,
+				175,
 				123,
+				207,
 				208,
 				209,
-				210,
-				213,
-				216,
+				212,
+				215,
+				219,
 				220,
 				221,
 				222,
 				223,
 				224,
 				225,
+				216,
 				226,
-				217,
 				227,
 				228,
 				229,
 				230,
 				231,
 				232,
-				233,
-				234
+				233
 			]
 		}
 	]
