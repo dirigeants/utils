@@ -6,7 +6,7 @@
 	"originalName": "",
 	"children": [
 		{
-			"id": 179,
+			"id": 170,
 			"name": "\"src/index\"",
 			"kind": 1,
 			"kindString": "Module",
@@ -16,118 +16,58 @@
 			"originalName": "/home/runner/work/utils/utils/src/index.ts",
 			"children": [
 				{
-					"id": 203,
+					"id": 192,
 					"name": "Builtin",
 					"kind": 16777216,
 					"kindString": "Reference",
 					"flags": {
 						"isExported": true
 					},
-					"target": 125
+					"target": 111
 				},
 				{
-					"id": 204,
+					"id": 193,
 					"name": "DeepRequired",
 					"kind": 16777216,
 					"kindString": "Reference",
 					"flags": {
 						"isExported": true
 					},
-					"target": 126
+					"target": 112
 				},
 				{
-					"id": 206,
+					"id": 195,
 					"name": "PartialRequired",
 					"kind": 16777216,
 					"kindString": "Reference",
 					"flags": {
 						"isExported": true
 					},
-					"target": 133
+					"target": 119
 				},
 				{
-					"id": 202,
+					"id": 191,
 					"name": "Primitive",
 					"kind": 16777216,
 					"kindString": "Reference",
 					"flags": {
 						"isExported": true
 					},
-					"target": 124
+					"target": 110
 				},
 				{
-					"id": 205,
+					"id": 194,
 					"name": "RequiredExcept",
 					"kind": 16777216,
 					"kindString": "Reference",
 					"flags": {
 						"isExported": true
 					},
-					"target": 130
-				},
-				{
-					"id": 193,
-					"name": "Thenable",
-					"kind": 16777216,
-					"kindString": "Reference",
-					"flags": {
-						"isExported": true
-					},
-					"target": 101
+					"target": 116
 				},
 				{
 					"id": 182,
-					"name": "arrayStrictEquals",
-					"kind": 16777216,
-					"kindString": "Reference",
-					"flags": {
-						"isExported": true
-					},
-					"target": 16
-				},
-				{
-					"id": 183,
-					"name": "chunk",
-					"kind": 16777216,
-					"kindString": "Reference",
-					"flags": {
-						"isExported": true
-					},
-					"target": 22
-				},
-				{
-					"id": 180,
-					"name": "clean",
-					"kind": 16777216,
-					"kindString": "Reference",
-					"flags": {
-						"isExported": true
-					},
-					"target": 9
-				},
-				{
-					"id": 184,
-					"name": "codeBlock",
-					"kind": 16777216,
-					"kindString": "Reference",
-					"flags": {
-						"isExported": true
-					},
-					"target": 32
-				},
-				{
-					"id": 185,
-					"name": "deepClone",
-					"kind": 16777216,
-					"kindString": "Reference",
-					"flags": {
-						"isExported": true
-					},
-					"target": 46
-				},
-				{
-					"id": 186,
-					"name": "exec",
+					"name": "Thenable",
 					"kind": 16777216,
 					"kindString": "Reference",
 					"flags": {
@@ -136,88 +76,148 @@
 					"target": 87
 				},
 				{
-					"id": 181,
-					"name": "initClean",
+					"id": 171,
+					"name": "arrayStrictEquals",
 					"kind": 16777216,
 					"kindString": "Reference",
 					"flags": {
 						"isExported": true
 					},
-					"target": 12
+					"target": 2
 				},
 				{
-					"id": 187,
+					"id": 172,
+					"name": "chunk",
+					"kind": 16777216,
+					"kindString": "Reference",
+					"flags": {
+						"isExported": true
+					},
+					"target": 8
+				},
+				{
+					"id": 173,
+					"name": "codeBlock",
+					"kind": 16777216,
+					"kindString": "Reference",
+					"flags": {
+						"isExported": true
+					},
+					"target": 18
+				},
+				{
+					"id": 174,
+					"name": "deepClone",
+					"kind": 16777216,
+					"kindString": "Reference",
+					"flags": {
+						"isExported": true
+					},
+					"target": 32
+				},
+				{
+					"id": 175,
+					"name": "exec",
+					"kind": 16777216,
+					"kindString": "Reference",
+					"flags": {
+						"isExported": true
+					},
+					"target": 73
+				},
+				{
+					"id": 176,
 					"name": "isClass",
 					"kind": 16777216,
 					"kindString": "Reference",
 					"flags": {
 						"isExported": true
 					},
-					"target": 89
+					"target": 75
 				},
 				{
-					"id": 188,
+					"id": 177,
 					"name": "isFunction",
 					"kind": 16777216,
 					"kindString": "Reference",
 					"flags": {
 						"isExported": true
 					},
-					"target": 93
+					"target": 79
 				},
 				{
-					"id": 189,
+					"id": 178,
 					"name": "isNumber",
 					"kind": 16777216,
 					"kindString": "Reference",
 					"flags": {
 						"isExported": true
 					},
-					"target": 97
+					"target": 83
 				},
 				{
-					"id": 190,
+					"id": 179,
 					"name": "isObject",
 					"kind": 16777216,
 					"kindString": "Reference",
 					"flags": {
 						"isExported": true
 					},
-					"target": 42
+					"target": 28
 				},
 				{
-					"id": 191,
+					"id": 180,
 					"name": "isPrimitive",
 					"kind": 16777216,
 					"kindString": "Reference",
 					"flags": {
 						"isExported": true
 					},
-					"target": 38
+					"target": 24
 				},
 				{
-					"id": 192,
+					"id": 181,
 					"name": "isThenable",
 					"kind": 16777216,
 					"kindString": "Reference",
 					"flags": {
 						"isExported": true
 					},
-					"target": 114
+					"target": 100
 				},
 				{
-					"id": 194,
+					"id": 183,
 					"name": "makeObject",
 					"kind": 16777216,
 					"kindString": "Reference",
 					"flags": {
 						"isExported": true
 					},
-					"target": 118
+					"target": 104
 				},
 				{
-					"id": 195,
+					"id": 184,
 					"name": "mergeDefault",
+					"kind": 16777216,
+					"kindString": "Reference",
+					"flags": {
+						"isExported": true
+					},
+					"target": 124
+				},
+				{
+					"id": 185,
+					"name": "mergeObjects",
+					"kind": 16777216,
+					"kindString": "Reference",
+					"flags": {
+						"isExported": true
+					},
+					"target": 131
+				},
+				{
+					"id": 186,
+					"name": "objectToTuples",
 					"kind": 16777216,
 					"kindString": "Reference",
 					"flags": {
@@ -226,64 +226,44 @@
 					"target": 138
 				},
 				{
-					"id": 196,
-					"name": "mergeObjects",
-					"kind": 16777216,
-					"kindString": "Reference",
-					"flags": {
-						"isExported": true
-					},
-					"target": 145
-				},
-				{
-					"id": 197,
-					"name": "objectToTuples",
-					"kind": 16777216,
-					"kindString": "Reference",
-					"flags": {
-						"isExported": true
-					},
-					"target": 152
-				},
-				{
-					"id": 198,
+					"id": 187,
 					"name": "regExpEsc",
 					"kind": 16777216,
 					"kindString": "Reference",
 					"flags": {
 						"isExported": true
 					},
-					"target": 3
+					"target": 144
 				},
 				{
-					"id": 199,
+					"id": 188,
 					"name": "sleep",
 					"kind": 16777216,
 					"kindString": "Reference",
 					"flags": {
 						"isExported": true
 					},
-					"target": 164
+					"target": 155
 				},
 				{
-					"id": 200,
+					"id": 189,
 					"name": "toTitleCase",
 					"kind": 16777216,
 					"kindString": "Reference",
 					"flags": {
 						"isExported": true
 					},
-					"target": 172
+					"target": 163
 				},
 				{
-					"id": 201,
+					"id": 190,
 					"name": "tryParse",
 					"kind": 16777216,
 					"kindString": "Reference",
 					"flags": {
 						"isExported": true
 					},
-					"target": 176
+					"target": 167
 				}
 			],
 			"groups": [
@@ -291,33 +271,31 @@
 					"title": "References",
 					"kind": 16777216,
 					"children": [
-						203,
-						204,
-						206,
-						202,
-						205,
+						192,
 						193,
+						195,
+						191,
+						194,
 						182,
-						183,
+						171,
+						172,
+						173,
+						174,
+						175,
+						176,
+						177,
+						178,
+						179,
 						180,
+						181,
+						183,
 						184,
 						185,
 						186,
-						181,
 						187,
 						188,
 						189,
-						190,
-						191,
-						192,
-						194,
-						195,
-						196,
-						197,
-						198,
-						199,
-						200,
-						201
+						190
 					]
 				}
 			],
@@ -330,7 +308,7 @@
 			]
 		},
 		{
-			"id": 15,
+			"id": 1,
 			"name": "\"src/lib/arrayStrictEquals\"",
 			"kind": 1,
 			"kindString": "Module",
@@ -340,7 +318,7 @@
 			"originalName": "/home/runner/work/utils/utils/src/lib/arrayStrictEquals.ts",
 			"children": [
 				{
-					"id": 16,
+					"id": 2,
 					"name": "arrayStrictEquals",
 					"kind": 64,
 					"kindString": "Function",
@@ -349,7 +327,7 @@
 					},
 					"signatures": [
 						{
-							"id": 17,
+							"id": 3,
 							"name": "arrayStrictEquals",
 							"kind": 4096,
 							"kindString": "Call signature",
@@ -361,7 +339,7 @@
 							},
 							"typeParameter": [
 								{
-									"id": 18,
+									"id": 4,
 									"name": "T",
 									"kind": 131072,
 									"kindString": "Type parameter",
@@ -383,7 +361,7 @@
 							],
 							"parameters": [
 								{
-									"id": 19,
+									"id": 5,
 									"name": "arr1",
 									"kind": 32768,
 									"kindString": "Parameter",
@@ -410,7 +388,7 @@
 									}
 								},
 								{
-									"id": 20,
+									"id": 6,
 									"name": "arr2",
 									"kind": 32768,
 									"kindString": "Parameter",
@@ -457,7 +435,7 @@
 					"title": "Functions",
 					"kind": 64,
 					"children": [
-						16
+						2
 					]
 				}
 			],
@@ -470,7 +448,7 @@
 			]
 		},
 		{
-			"id": 21,
+			"id": 7,
 			"name": "\"src/lib/chunk\"",
 			"kind": 1,
 			"kindString": "Module",
@@ -480,7 +458,7 @@
 			"originalName": "/home/runner/work/utils/utils/src/lib/chunk.ts",
 			"children": [
 				{
-					"id": 22,
+					"id": 8,
 					"name": "chunk",
 					"kind": 64,
 					"kindString": "Function",
@@ -489,7 +467,7 @@
 					},
 					"signatures": [
 						{
-							"id": 23,
+							"id": 9,
 							"name": "chunk",
 							"kind": 4096,
 							"kindString": "Call signature",
@@ -507,7 +485,7 @@
 							},
 							"typeParameter": [
 								{
-									"id": 24,
+									"id": 10,
 									"name": "T",
 									"kind": 131072,
 									"kindString": "Type parameter",
@@ -518,7 +496,7 @@
 							],
 							"parameters": [
 								{
-									"id": 25,
+									"id": 11,
 									"name": "entries",
 									"kind": 32768,
 									"kindString": "Parameter",
@@ -541,7 +519,7 @@
 									}
 								},
 								{
-									"id": 26,
+									"id": 12,
 									"name": "chunkSize",
 									"kind": 32768,
 									"kindString": "Parameter",
@@ -583,7 +561,7 @@
 					"title": "Functions",
 					"kind": 64,
 					"children": [
-						22
+						8
 					]
 				}
 			],
@@ -596,204 +574,7 @@
 			]
 		},
 		{
-			"id": 6,
-			"name": "\"src/lib/clean\"",
-			"kind": 1,
-			"kindString": "Module",
-			"flags": {
-				"isExported": true
-			},
-			"originalName": "/home/runner/work/utils/utils/src/lib/clean.ts",
-			"children": [
-				{
-					"id": 7,
-					"name": "sensitivePattern",
-					"kind": 32,
-					"kindString": "Variable",
-					"flags": {
-						"isLet": true
-					},
-					"sources": [
-						{
-							"fileName": "src/lib/clean.ts",
-							"line": 3,
-							"character": 20
-						}
-					],
-					"type": {
-						"type": "union",
-						"types": [
-							{
-								"type": "reference",
-								"name": "RegExp"
-							},
-							{
-								"type": "intrinsic",
-								"name": "undefined"
-							}
-						]
-					}
-				},
-				{
-					"id": 8,
-					"name": "zws",
-					"kind": 32,
-					"kindString": "Variable",
-					"flags": {
-						"isConst": true
-					},
-					"sources": [
-						{
-							"fileName": "src/lib/clean.ts",
-							"line": 4,
-							"character": 9
-						}
-					],
-					"type": {
-						"type": "intrinsic",
-						"name": "string"
-					},
-					"defaultValue": "String.fromCharCode(8203)"
-				},
-				{
-					"id": 9,
-					"name": "clean",
-					"kind": 64,
-					"kindString": "Function",
-					"flags": {
-						"isExported": true
-					},
-					"signatures": [
-						{
-							"id": 10,
-							"name": "clean",
-							"kind": 4096,
-							"kindString": "Call signature",
-							"flags": {
-								"isExported": true
-							},
-							"comment": {
-								"shortText": "Cleans sensitive info from strings",
-								"tags": [
-									{
-										"tag": "since",
-										"text": "0.0.1"
-									}
-								]
-							},
-							"parameters": [
-								{
-									"id": 11,
-									"name": "text",
-									"kind": 32768,
-									"kindString": "Parameter",
-									"flags": {
-										"isExported": true
-									},
-									"comment": {
-										"text": "The text to clean\n"
-									},
-									"type": {
-										"type": "intrinsic",
-										"name": "string"
-									}
-								}
-							],
-							"type": {
-								"type": "intrinsic",
-								"name": "string"
-							}
-						}
-					],
-					"sources": [
-						{
-							"fileName": "src/lib/clean.ts",
-							"line": 11,
-							"character": 21
-						}
-					]
-				},
-				{
-					"id": 12,
-					"name": "initClean",
-					"kind": 64,
-					"kindString": "Function",
-					"flags": {
-						"isExported": true
-					},
-					"signatures": [
-						{
-							"id": 13,
-							"name": "initClean",
-							"kind": 4096,
-							"kindString": "Call signature",
-							"flags": {
-								"isExported": true
-							},
-							"comment": {
-								"shortText": "Initializes the sensitive patterns for clean()"
-							},
-							"parameters": [
-								{
-									"id": 14,
-									"name": "token",
-									"kind": 32768,
-									"kindString": "Parameter",
-									"flags": {
-										"isExported": true
-									},
-									"comment": {
-										"text": "The token to clean\n"
-									},
-									"type": {
-										"type": "intrinsic",
-										"name": "string"
-									}
-								}
-							],
-							"type": {
-								"type": "intrinsic",
-								"name": "void"
-							}
-						}
-					],
-					"sources": [
-						{
-							"fileName": "src/lib/clean.ts",
-							"line": 20,
-							"character": 25
-						}
-					]
-				}
-			],
-			"groups": [
-				{
-					"title": "Variables",
-					"kind": 32,
-					"children": [
-						7,
-						8
-					]
-				},
-				{
-					"title": "Functions",
-					"kind": 64,
-					"children": [
-						9,
-						12
-					]
-				}
-			],
-			"sources": [
-				{
-					"fileName": "src/lib/clean.ts",
-					"line": 1,
-					"character": 0
-				}
-			]
-		},
-		{
-			"id": 27,
+			"id": 13,
 			"name": "\"src/lib/codeBlock\"",
 			"kind": 1,
 			"kindString": "Module",
@@ -803,21 +584,21 @@
 			"originalName": "/home/runner/work/utils/utils/src/lib/codeBlock.ts",
 			"children": [
 				{
-					"id": 28,
+					"id": 14,
 					"name": "Stringifiable",
 					"kind": 256,
 					"kindString": "Interface",
 					"flags": {},
 					"children": [
 						{
-							"id": 29,
+							"id": 15,
 							"name": "toString",
 							"kind": 2048,
 							"kindString": "Method",
 							"flags": {},
 							"signatures": [
 								{
-									"id": 30,
+									"id": 16,
 									"name": "toString",
 									"kind": 4096,
 									"kindString": "Call signature",
@@ -842,7 +623,7 @@
 							"title": "Methods",
 							"kind": 2048,
 							"children": [
-								29
+								15
 							]
 						}
 					],
@@ -855,7 +636,7 @@
 					]
 				},
 				{
-					"id": 31,
+					"id": 17,
 					"name": "zws",
 					"kind": 32,
 					"kindString": "Variable",
@@ -876,7 +657,7 @@
 					"defaultValue": "String.fromCharCode(8203)"
 				},
 				{
-					"id": 32,
+					"id": 18,
 					"name": "codeBlock",
 					"kind": 64,
 					"kindString": "Function",
@@ -885,7 +666,7 @@
 					},
 					"signatures": [
 						{
-							"id": 33,
+							"id": 19,
 							"name": "codeBlock",
 							"kind": 4096,
 							"kindString": "Call signature",
@@ -903,7 +684,7 @@
 							},
 							"parameters": [
 								{
-									"id": 34,
+									"id": 20,
 									"name": "lang",
 									"kind": 32768,
 									"kindString": "Parameter",
@@ -919,7 +700,7 @@
 									}
 								},
 								{
-									"id": 35,
+									"id": 21,
 									"name": "expression",
 									"kind": 32768,
 									"kindString": "Parameter",
@@ -931,7 +712,7 @@
 									},
 									"type": {
 										"type": "reference",
-										"id": 28,
+										"id": 14,
 										"name": "Stringifiable"
 									}
 								}
@@ -956,21 +737,21 @@
 					"title": "Interfaces",
 					"kind": 256,
 					"children": [
-						28
+						14
 					]
 				},
 				{
 					"title": "Variables",
 					"kind": 32,
 					"children": [
-						31
+						17
 					]
 				},
 				{
 					"title": "Functions",
 					"kind": 64,
 					"children": [
-						32
+						18
 					]
 				}
 			],
@@ -983,7 +764,7 @@
 			]
 		},
 		{
-			"id": 45,
+			"id": 31,
 			"name": "\"src/lib/deepClone\"",
 			"kind": 1,
 			"kindString": "Module",
@@ -993,7 +774,7 @@
 			"originalName": "/home/runner/work/utils/utils/src/lib/deepClone.ts",
 			"children": [
 				{
-					"id": 46,
+					"id": 32,
 					"name": "deepClone",
 					"kind": 64,
 					"kindString": "Function",
@@ -1002,7 +783,7 @@
 					},
 					"signatures": [
 						{
-							"id": 47,
+							"id": 33,
 							"name": "deepClone",
 							"kind": 4096,
 							"kindString": "Call signature",
@@ -1020,7 +801,7 @@
 							},
 							"typeParameter": [
 								{
-									"id": 48,
+									"id": 34,
 									"name": "T",
 									"kind": 131072,
 									"kindString": "Type parameter",
@@ -1031,7 +812,7 @@
 							],
 							"parameters": [
 								{
-									"id": 49,
+									"id": 35,
 									"name": "source",
 									"kind": 32768,
 									"kindString": "Parameter",
@@ -1067,7 +848,7 @@
 					"title": "Functions",
 					"kind": 64,
 					"children": [
-						46
+						32
 					]
 				}
 			],
@@ -1080,7 +861,7 @@
 			]
 		},
 		{
-			"id": 50,
+			"id": 36,
 			"name": "\"src/lib/exec\"",
 			"kind": 1,
 			"kindString": "Module",
@@ -1090,21 +871,21 @@
 			"originalName": "/home/runner/work/utils/utils/src/lib/exec.ts",
 			"children": [
 				{
-					"id": 51,
+					"id": 37,
 					"name": "PromisifiedExec",
 					"kind": 256,
 					"kindString": "Interface",
 					"flags": {},
 					"signatures": [
 						{
-							"id": 52,
+							"id": 38,
 							"name": "__call",
 							"kind": 4096,
 							"kindString": "Call signature",
 							"flags": {},
 							"parameters": [
 								{
-									"id": 53,
+									"id": 39,
 									"name": "command",
 									"kind": 32768,
 									"kindString": "Parameter",
@@ -1121,14 +902,14 @@
 									{
 										"type": "reflection",
 										"declaration": {
-											"id": 54,
+											"id": 40,
 											"name": "__type",
 											"kind": 65536,
 											"kindString": "Type literal",
 											"flags": {},
 											"children": [
 												{
-													"id": 56,
+													"id": 42,
 													"name": "stderr",
 													"kind": 32,
 													"kindString": "Variable",
@@ -1146,7 +927,7 @@
 													}
 												},
 												{
-													"id": 55,
+													"id": 41,
 													"name": "stdout",
 													"kind": 32,
 													"kindString": "Variable",
@@ -1169,8 +950,8 @@
 													"title": "Variables",
 													"kind": 32,
 													"children": [
-														56,
-														55
+														42,
+														41
 													]
 												}
 											],
@@ -1188,14 +969,14 @@
 							}
 						},
 						{
-							"id": 57,
+							"id": 43,
 							"name": "__call",
 							"kind": 4096,
 							"kindString": "Call signature",
 							"flags": {},
 							"parameters": [
 								{
-									"id": 58,
+									"id": 44,
 									"name": "command",
 									"kind": 32768,
 									"kindString": "Parameter",
@@ -1206,7 +987,7 @@
 									}
 								},
 								{
-									"id": 59,
+									"id": 45,
 									"name": "options",
 									"kind": 32768,
 									"kindString": "Parameter",
@@ -1217,14 +998,14 @@
 											{
 												"type": "reflection",
 												"declaration": {
-													"id": 60,
+													"id": 46,
 													"name": "__type",
 													"kind": 65536,
 													"kindString": "Type literal",
 													"flags": {},
 													"children": [
 														{
-															"id": 61,
+															"id": 47,
 															"name": "encoding",
 															"kind": 32,
 															"kindString": "Variable",
@@ -1256,7 +1037,7 @@
 															"title": "Variables",
 															"kind": 32,
 															"children": [
-																61
+																47
 															]
 														}
 													],
@@ -1283,14 +1064,14 @@
 									{
 										"type": "reflection",
 										"declaration": {
-											"id": 62,
+											"id": 48,
 											"name": "__type",
 											"kind": 65536,
 											"kindString": "Type literal",
 											"flags": {},
 											"children": [
 												{
-													"id": 64,
+													"id": 50,
 													"name": "stderr",
 													"kind": 32,
 													"kindString": "Variable",
@@ -1308,7 +1089,7 @@
 													}
 												},
 												{
-													"id": 63,
+													"id": 49,
 													"name": "stdout",
 													"kind": 32,
 													"kindString": "Variable",
@@ -1331,8 +1112,8 @@
 													"title": "Variables",
 													"kind": 32,
 													"children": [
-														64,
-														63
+														50,
+														49
 													]
 												}
 											],
@@ -1341,6 +1122,261 @@
 													"fileName": "src/lib/exec.ts",
 													"line": 6,
 													"character": 91
+												}
+											]
+										}
+									}
+								],
+								"name": "PromiseWithChild"
+							}
+						},
+						{
+							"id": 51,
+							"name": "__call",
+							"kind": 4096,
+							"kindString": "Call signature",
+							"flags": {},
+							"parameters": [
+								{
+									"id": 52,
+									"name": "command",
+									"kind": 32768,
+									"kindString": "Parameter",
+									"flags": {},
+									"type": {
+										"type": "intrinsic",
+										"name": "string"
+									}
+								},
+								{
+									"id": 53,
+									"name": "options",
+									"kind": 32768,
+									"kindString": "Parameter",
+									"flags": {},
+									"type": {
+										"type": "intersection",
+										"types": [
+											{
+												"type": "reflection",
+												"declaration": {
+													"id": 54,
+													"name": "__type",
+													"kind": 65536,
+													"kindString": "Type literal",
+													"flags": {},
+													"children": [
+														{
+															"id": 55,
+															"name": "encoding",
+															"kind": 32,
+															"kindString": "Variable",
+															"flags": {},
+															"sources": [
+																{
+																	"fileName": "src/lib/exec.ts",
+																	"line": 7,
+																	"character": 38
+																}
+															],
+															"type": {
+																"type": "reference",
+																"name": "BufferEncoding"
+															}
+														}
+													],
+													"groups": [
+														{
+															"title": "Variables",
+															"kind": 32,
+															"children": [
+																55
+															]
+														}
+													],
+													"sources": [
+														{
+															"fileName": "src/lib/exec.ts",
+															"line": 7,
+															"character": 27
+														}
+													]
+												}
+											},
+											{
+												"type": "reference",
+												"name": "ExecOptions"
+											}
+										]
+									}
+								}
+							],
+							"type": {
+								"type": "reference",
+								"typeArguments": [
+									{
+										"type": "reflection",
+										"declaration": {
+											"id": 56,
+											"name": "__type",
+											"kind": 65536,
+											"kindString": "Type literal",
+											"flags": {},
+											"children": [
+												{
+													"id": 58,
+													"name": "stderr",
+													"kind": 32,
+													"kindString": "Variable",
+													"flags": {},
+													"sources": [
+														{
+															"fileName": "src/lib/exec.ts",
+															"line": 7,
+															"character": 114
+														}
+													],
+													"type": {
+														"type": "intrinsic",
+														"name": "string"
+													}
+												},
+												{
+													"id": 57,
+													"name": "stdout",
+													"kind": 32,
+													"kindString": "Variable",
+													"flags": {},
+													"sources": [
+														{
+															"fileName": "src/lib/exec.ts",
+															"line": 7,
+															"character": 98
+														}
+													],
+													"type": {
+														"type": "intrinsic",
+														"name": "string"
+													}
+												}
+											],
+											"groups": [
+												{
+													"title": "Variables",
+													"kind": 32,
+													"children": [
+														58,
+														57
+													]
+												}
+											],
+											"sources": [
+												{
+													"fileName": "src/lib/exec.ts",
+													"line": 7,
+													"character": 90
+												}
+											]
+										}
+									}
+								],
+								"name": "PromiseWithChild"
+							}
+						},
+						{
+							"id": 59,
+							"name": "__call",
+							"kind": 4096,
+							"kindString": "Call signature",
+							"flags": {},
+							"parameters": [
+								{
+									"id": 60,
+									"name": "command",
+									"kind": 32768,
+									"kindString": "Parameter",
+									"flags": {},
+									"type": {
+										"type": "intrinsic",
+										"name": "string"
+									}
+								},
+								{
+									"id": 61,
+									"name": "options",
+									"kind": 32768,
+									"kindString": "Parameter",
+									"flags": {},
+									"type": {
+										"type": "reference",
+										"name": "ExecOptions"
+									}
+								}
+							],
+							"type": {
+								"type": "reference",
+								"typeArguments": [
+									{
+										"type": "reflection",
+										"declaration": {
+											"id": 62,
+											"name": "__type",
+											"kind": 65536,
+											"kindString": "Type literal",
+											"flags": {},
+											"children": [
+												{
+													"id": 64,
+													"name": "stderr",
+													"kind": 32,
+													"kindString": "Variable",
+													"flags": {},
+													"sources": [
+														{
+															"fileName": "src/lib/exec.ts",
+															"line": 8,
+															"character": 83
+														}
+													],
+													"type": {
+														"type": "intrinsic",
+														"name": "string"
+													}
+												},
+												{
+													"id": 63,
+													"name": "stdout",
+													"kind": 32,
+													"kindString": "Variable",
+													"flags": {},
+													"sources": [
+														{
+															"fileName": "src/lib/exec.ts",
+															"line": 8,
+															"character": 67
+														}
+													],
+													"type": {
+														"type": "intrinsic",
+														"name": "string"
+													}
+												}
+											],
+											"groups": [
+												{
+													"title": "Variables",
+													"kind": 32,
+													"children": [
+														64,
+														63
+													]
+												}
+											],
+											"sources": [
+												{
+													"fileName": "src/lib/exec.ts",
+													"line": 8,
+													"character": 59
 												}
 											]
 										}
@@ -1372,261 +1408,6 @@
 									"name": "options",
 									"kind": 32768,
 									"kindString": "Parameter",
-									"flags": {},
-									"type": {
-										"type": "intersection",
-										"types": [
-											{
-												"type": "reflection",
-												"declaration": {
-													"id": 68,
-													"name": "__type",
-													"kind": 65536,
-													"kindString": "Type literal",
-													"flags": {},
-													"children": [
-														{
-															"id": 69,
-															"name": "encoding",
-															"kind": 32,
-															"kindString": "Variable",
-															"flags": {},
-															"sources": [
-																{
-																	"fileName": "src/lib/exec.ts",
-																	"line": 7,
-																	"character": 38
-																}
-															],
-															"type": {
-																"type": "reference",
-																"name": "BufferEncoding"
-															}
-														}
-													],
-													"groups": [
-														{
-															"title": "Variables",
-															"kind": 32,
-															"children": [
-																69
-															]
-														}
-													],
-													"sources": [
-														{
-															"fileName": "src/lib/exec.ts",
-															"line": 7,
-															"character": 27
-														}
-													]
-												}
-											},
-											{
-												"type": "reference",
-												"name": "ExecOptions"
-											}
-										]
-									}
-								}
-							],
-							"type": {
-								"type": "reference",
-								"typeArguments": [
-									{
-										"type": "reflection",
-										"declaration": {
-											"id": 70,
-											"name": "__type",
-											"kind": 65536,
-											"kindString": "Type literal",
-											"flags": {},
-											"children": [
-												{
-													"id": 72,
-													"name": "stderr",
-													"kind": 32,
-													"kindString": "Variable",
-													"flags": {},
-													"sources": [
-														{
-															"fileName": "src/lib/exec.ts",
-															"line": 7,
-															"character": 114
-														}
-													],
-													"type": {
-														"type": "intrinsic",
-														"name": "string"
-													}
-												},
-												{
-													"id": 71,
-													"name": "stdout",
-													"kind": 32,
-													"kindString": "Variable",
-													"flags": {},
-													"sources": [
-														{
-															"fileName": "src/lib/exec.ts",
-															"line": 7,
-															"character": 98
-														}
-													],
-													"type": {
-														"type": "intrinsic",
-														"name": "string"
-													}
-												}
-											],
-											"groups": [
-												{
-													"title": "Variables",
-													"kind": 32,
-													"children": [
-														72,
-														71
-													]
-												}
-											],
-											"sources": [
-												{
-													"fileName": "src/lib/exec.ts",
-													"line": 7,
-													"character": 90
-												}
-											]
-										}
-									}
-								],
-								"name": "PromiseWithChild"
-							}
-						},
-						{
-							"id": 73,
-							"name": "__call",
-							"kind": 4096,
-							"kindString": "Call signature",
-							"flags": {},
-							"parameters": [
-								{
-									"id": 74,
-									"name": "command",
-									"kind": 32768,
-									"kindString": "Parameter",
-									"flags": {},
-									"type": {
-										"type": "intrinsic",
-										"name": "string"
-									}
-								},
-								{
-									"id": 75,
-									"name": "options",
-									"kind": 32768,
-									"kindString": "Parameter",
-									"flags": {},
-									"type": {
-										"type": "reference",
-										"name": "ExecOptions"
-									}
-								}
-							],
-							"type": {
-								"type": "reference",
-								"typeArguments": [
-									{
-										"type": "reflection",
-										"declaration": {
-											"id": 76,
-											"name": "__type",
-											"kind": 65536,
-											"kindString": "Type literal",
-											"flags": {},
-											"children": [
-												{
-													"id": 78,
-													"name": "stderr",
-													"kind": 32,
-													"kindString": "Variable",
-													"flags": {},
-													"sources": [
-														{
-															"fileName": "src/lib/exec.ts",
-															"line": 8,
-															"character": 83
-														}
-													],
-													"type": {
-														"type": "intrinsic",
-														"name": "string"
-													}
-												},
-												{
-													"id": 77,
-													"name": "stdout",
-													"kind": 32,
-													"kindString": "Variable",
-													"flags": {},
-													"sources": [
-														{
-															"fileName": "src/lib/exec.ts",
-															"line": 8,
-															"character": 67
-														}
-													],
-													"type": {
-														"type": "intrinsic",
-														"name": "string"
-													}
-												}
-											],
-											"groups": [
-												{
-													"title": "Variables",
-													"kind": 32,
-													"children": [
-														78,
-														77
-													]
-												}
-											],
-											"sources": [
-												{
-													"fileName": "src/lib/exec.ts",
-													"line": 8,
-													"character": 59
-												}
-											]
-										}
-									}
-								],
-								"name": "PromiseWithChild"
-							}
-						},
-						{
-							"id": 79,
-							"name": "__call",
-							"kind": 4096,
-							"kindString": "Call signature",
-							"flags": {},
-							"parameters": [
-								{
-									"id": 80,
-									"name": "command",
-									"kind": 32768,
-									"kindString": "Parameter",
-									"flags": {},
-									"type": {
-										"type": "intrinsic",
-										"name": "string"
-									}
-								},
-								{
-									"id": 81,
-									"name": "options",
-									"kind": 32768,
-									"kindString": "Parameter",
 									"flags": {
 										"isOptional": true
 									},
@@ -1639,14 +1420,14 @@
 													{
 														"type": "reflection",
 														"declaration": {
-															"id": 82,
+															"id": 68,
 															"name": "__type",
 															"kind": 65536,
 															"kindString": "Type literal",
 															"flags": {},
 															"children": [
 																{
-																	"id": 83,
+																	"id": 69,
 																	"name": "encoding",
 																	"kind": 32,
 																	"kindString": "Variable",
@@ -1680,7 +1461,7 @@
 																	"title": "Variables",
 																	"kind": 32,
 																	"children": [
-																		83
+																		69
 																	]
 																}
 															]
@@ -1706,14 +1487,14 @@
 									{
 										"type": "reflection",
 										"declaration": {
-											"id": 84,
+											"id": 70,
 											"name": "__type",
 											"kind": 65536,
 											"kindString": "Type literal",
 											"flags": {},
 											"children": [
 												{
-													"id": 86,
+													"id": 72,
 													"name": "stderr",
 													"kind": 32,
 													"kindString": "Variable",
@@ -1740,7 +1521,7 @@
 													}
 												},
 												{
-													"id": 85,
+													"id": 71,
 													"name": "stdout",
 													"kind": 32,
 													"kindString": "Variable",
@@ -1772,8 +1553,8 @@
 													"title": "Variables",
 													"kind": 32,
 													"children": [
-														86,
-														85
+														72,
+														71
 													]
 												}
 											],
@@ -1800,7 +1581,7 @@
 					]
 				},
 				{
-					"id": 87,
+					"id": 73,
 					"name": "exec",
 					"kind": 32,
 					"kindString": "Variable",
@@ -1832,7 +1613,7 @@
 					],
 					"type": {
 						"type": "reference",
-						"id": 51,
+						"id": 37,
 						"name": "PromisifiedExec"
 					},
 					"defaultValue": "promisify(childProcessExec)"
@@ -1843,14 +1624,14 @@
 					"title": "Interfaces",
 					"kind": 256,
 					"children": [
-						51
+						37
 					]
 				},
 				{
 					"title": "Variables",
 					"kind": 32,
 					"children": [
-						87
+						73
 					]
 				}
 			],
@@ -1863,7 +1644,7 @@
 			]
 		},
 		{
-			"id": 88,
+			"id": 74,
 			"name": "\"src/lib/isClass\"",
 			"kind": 1,
 			"kindString": "Module",
@@ -1873,7 +1654,7 @@
 			"originalName": "/home/runner/work/utils/utils/src/lib/isClass.ts",
 			"children": [
 				{
-					"id": 89,
+					"id": 75,
 					"name": "isClass",
 					"kind": 64,
 					"kindString": "Function",
@@ -1882,7 +1663,7 @@
 					},
 					"signatures": [
 						{
-							"id": 90,
+							"id": 76,
 							"name": "isClass",
 							"kind": 4096,
 							"kindString": "Call signature",
@@ -1894,7 +1675,7 @@
 							},
 							"parameters": [
 								{
-									"id": 91,
+									"id": 77,
 									"name": "input",
 									"kind": 32768,
 									"kindString": "Parameter",
@@ -1930,7 +1711,7 @@
 					"title": "Functions",
 					"kind": 64,
 					"children": [
-						89
+						75
 					]
 				}
 			],
@@ -1943,7 +1724,7 @@
 			]
 		},
 		{
-			"id": 92,
+			"id": 78,
 			"name": "\"src/lib/isFunction\"",
 			"kind": 1,
 			"kindString": "Module",
@@ -1953,7 +1734,7 @@
 			"originalName": "/home/runner/work/utils/utils/src/lib/isFunction.ts",
 			"children": [
 				{
-					"id": 93,
+					"id": 79,
 					"name": "isFunction",
 					"kind": 64,
 					"kindString": "Function",
@@ -1962,7 +1743,7 @@
 					},
 					"signatures": [
 						{
-							"id": 94,
+							"id": 80,
 							"name": "isFunction",
 							"kind": 4096,
 							"kindString": "Call signature",
@@ -1974,7 +1755,7 @@
 							},
 							"parameters": [
 								{
-									"id": 95,
+									"id": 81,
 									"name": "input",
 									"kind": 32768,
 									"kindString": "Parameter",
@@ -2015,7 +1796,7 @@
 					"title": "Functions",
 					"kind": 64,
 					"children": [
-						93
+						79
 					]
 				}
 			],
@@ -2028,7 +1809,7 @@
 			]
 		},
 		{
-			"id": 96,
+			"id": 82,
 			"name": "\"src/lib/isNumber\"",
 			"kind": 1,
 			"kindString": "Module",
@@ -2038,7 +1819,7 @@
 			"originalName": "/home/runner/work/utils/utils/src/lib/isNumber.ts",
 			"children": [
 				{
-					"id": 97,
+					"id": 83,
 					"name": "isNumber",
 					"kind": 64,
 					"kindString": "Function",
@@ -2047,7 +1828,7 @@
 					},
 					"signatures": [
 						{
-							"id": 98,
+							"id": 84,
 							"name": "isNumber",
 							"kind": 4096,
 							"kindString": "Call signature",
@@ -2059,7 +1840,7 @@
 							},
 							"parameters": [
 								{
-									"id": 99,
+									"id": 85,
 									"name": "input",
 									"kind": 32768,
 									"kindString": "Parameter",
@@ -2100,7 +1881,7 @@
 					"title": "Functions",
 					"kind": 64,
 					"children": [
-						97
+						83
 					]
 				}
 			],
@@ -2113,7 +1894,7 @@
 			]
 		},
 		{
-			"id": 41,
+			"id": 27,
 			"name": "\"src/lib/isObject\"",
 			"kind": 1,
 			"kindString": "Module",
@@ -2123,7 +1904,7 @@
 			"originalName": "/home/runner/work/utils/utils/src/lib/isObject.ts",
 			"children": [
 				{
-					"id": 42,
+					"id": 28,
 					"name": "isObject",
 					"kind": 64,
 					"kindString": "Function",
@@ -2132,7 +1913,7 @@
 					},
 					"signatures": [
 						{
-							"id": 43,
+							"id": 29,
 							"name": "isObject",
 							"kind": 4096,
 							"kindString": "Call signature",
@@ -2144,7 +1925,7 @@
 							},
 							"parameters": [
 								{
-									"id": 44,
+									"id": 30,
 									"name": "input",
 									"kind": 32768,
 									"kindString": "Parameter",
@@ -2204,7 +1985,7 @@
 					"title": "Functions",
 					"kind": 64,
 					"children": [
-						42
+						28
 					]
 				}
 			],
@@ -2217,7 +1998,7 @@
 			]
 		},
 		{
-			"id": 36,
+			"id": 22,
 			"name": "\"src/lib/isPrimitive\"",
 			"kind": 1,
 			"kindString": "Module",
@@ -2227,7 +2008,7 @@
 			"originalName": "/home/runner/work/utils/utils/src/lib/isPrimitive.ts",
 			"children": [
 				{
-					"id": 37,
+					"id": 23,
 					"name": "PRIMITIVE_TYPES",
 					"kind": 32,
 					"kindString": "Variable",
@@ -2251,7 +2032,7 @@
 					"defaultValue": "['string', 'bigint', 'number', 'boolean']"
 				},
 				{
-					"id": 38,
+					"id": 24,
 					"name": "isPrimitive",
 					"kind": 64,
 					"kindString": "Function",
@@ -2260,7 +2041,7 @@
 					},
 					"signatures": [
 						{
-							"id": 39,
+							"id": 25,
 							"name": "isPrimitive",
 							"kind": 4096,
 							"kindString": "Call signature",
@@ -2278,7 +2059,7 @@
 							},
 							"parameters": [
 								{
-									"id": 40,
+									"id": 26,
 									"name": "input",
 									"kind": 32768,
 									"kindString": "Parameter",
@@ -2340,14 +2121,14 @@
 					"title": "Variables",
 					"kind": 32,
 					"children": [
-						37
+						23
 					]
 				},
 				{
 					"title": "Functions",
 					"kind": 64,
 					"children": [
-						38
+						24
 					]
 				}
 			],
@@ -2360,7 +2141,7 @@
 			]
 		},
 		{
-			"id": 100,
+			"id": 86,
 			"name": "\"src/lib/isThenable\"",
 			"kind": 1,
 			"kindString": "Module",
@@ -2370,7 +2151,7 @@
 			"originalName": "/home/runner/work/utils/utils/src/lib/isThenable.ts",
 			"children": [
 				{
-					"id": 101,
+					"id": 87,
 					"name": "Thenable",
 					"kind": 256,
 					"kindString": "Interface",
@@ -2379,7 +2160,7 @@
 					},
 					"children": [
 						{
-							"id": 103,
+							"id": 89,
 							"name": "catch",
 							"kind": 1024,
 							"kindString": "Property",
@@ -2399,7 +2180,7 @@
 							}
 						},
 						{
-							"id": 102,
+							"id": 88,
 							"name": "then",
 							"kind": 1024,
 							"kindString": "Property",
@@ -2424,8 +2205,8 @@
 							"title": "Properties",
 							"kind": 1024,
 							"children": [
-								103,
-								102
+								89,
+								88
 							]
 						}
 					],
@@ -2438,21 +2219,21 @@
 					]
 				},
 				{
-					"id": 109,
+					"id": 95,
 					"name": "hasCatch",
 					"kind": 64,
 					"kindString": "Function",
 					"flags": {},
 					"signatures": [
 						{
-							"id": 110,
+							"id": 96,
 							"name": "hasCatch",
 							"kind": 4096,
 							"kindString": "Call signature",
 							"flags": {},
 							"parameters": [
 								{
-									"id": 111,
+									"id": 97,
 									"name": "input",
 									"kind": 32768,
 									"kindString": "Parameter",
@@ -2460,14 +2241,14 @@
 									"type": {
 										"type": "reflection",
 										"declaration": {
-											"id": 112,
+											"id": 98,
 											"name": "__type",
 											"kind": 65536,
 											"kindString": "Type literal",
 											"flags": {},
 											"children": [
 												{
-													"id": 113,
+													"id": 99,
 													"name": "catch",
 													"kind": 32,
 													"kindString": "Variable",
@@ -2492,7 +2273,7 @@
 													"title": "Variables",
 													"kind": 32,
 													"children": [
-														113
+														99
 													]
 												}
 											],
@@ -2522,21 +2303,21 @@
 					]
 				},
 				{
-					"id": 104,
+					"id": 90,
 					"name": "hasThen",
 					"kind": 64,
 					"kindString": "Function",
 					"flags": {},
 					"signatures": [
 						{
-							"id": 105,
+							"id": 91,
 							"name": "hasThen",
 							"kind": 4096,
 							"kindString": "Call signature",
 							"flags": {},
 							"parameters": [
 								{
-									"id": 106,
+									"id": 92,
 									"name": "input",
 									"kind": 32768,
 									"kindString": "Parameter",
@@ -2544,14 +2325,14 @@
 									"type": {
 										"type": "reflection",
 										"declaration": {
-											"id": 107,
+											"id": 93,
 											"name": "__type",
 											"kind": 65536,
 											"kindString": "Type literal",
 											"flags": {},
 											"children": [
 												{
-													"id": 108,
+													"id": 94,
 													"name": "then",
 													"kind": 32,
 													"kindString": "Variable",
@@ -2576,7 +2357,7 @@
 													"title": "Variables",
 													"kind": 32,
 													"children": [
-														108
+														94
 													]
 												}
 											],
@@ -2606,7 +2387,7 @@
 					]
 				},
 				{
-					"id": 114,
+					"id": 100,
 					"name": "isThenable",
 					"kind": 64,
 					"kindString": "Function",
@@ -2615,7 +2396,7 @@
 					},
 					"signatures": [
 						{
-							"id": 115,
+							"id": 101,
 							"name": "isThenable",
 							"kind": 4096,
 							"kindString": "Call signature",
@@ -2627,7 +2408,7 @@
 							},
 							"parameters": [
 								{
-									"id": 116,
+									"id": 102,
 									"name": "input",
 									"kind": 32768,
 									"kindString": "Parameter",
@@ -2668,16 +2449,16 @@
 					"title": "Interfaces",
 					"kind": 256,
 					"children": [
-						101
+						87
 					]
 				},
 				{
 					"title": "Functions",
 					"kind": 64,
 					"children": [
-						109,
-						104,
-						114
+						95,
+						90,
+						100
 					]
 				}
 			],
@@ -2690,7 +2471,7 @@
 			]
 		},
 		{
-			"id": 117,
+			"id": 103,
 			"name": "\"src/lib/makeObject\"",
 			"kind": 1,
 			"kindString": "Module",
@@ -2700,7 +2481,7 @@
 			"originalName": "/home/runner/work/utils/utils/src/lib/makeObject.ts",
 			"children": [
 				{
-					"id": 118,
+					"id": 104,
 					"name": "makeObject",
 					"kind": 64,
 					"kindString": "Function",
@@ -2709,7 +2490,7 @@
 					},
 					"signatures": [
 						{
-							"id": 119,
+							"id": 105,
 							"name": "makeObject",
 							"kind": 4096,
 							"kindString": "Call signature",
@@ -2721,7 +2502,7 @@
 							},
 							"parameters": [
 								{
-									"id": 120,
+									"id": 106,
 									"name": "path",
 									"kind": 32768,
 									"kindString": "Parameter",
@@ -2737,7 +2518,7 @@
 									}
 								},
 								{
-									"id": 121,
+									"id": 107,
 									"name": "value",
 									"kind": 32768,
 									"kindString": "Parameter",
@@ -2753,7 +2534,7 @@
 									}
 								},
 								{
-									"id": 122,
+									"id": 108,
 									"name": "obj",
 									"kind": 32768,
 									"kindString": "Parameter",
@@ -2810,7 +2591,7 @@
 					"title": "Functions",
 					"kind": 64,
 					"children": [
-						118
+						104
 					]
 				}
 			],
@@ -2823,7 +2604,7 @@
 			]
 		},
 		{
-			"id": 136,
+			"id": 122,
 			"name": "\"src/lib/mergeDefault\"",
 			"kind": 1,
 			"kindString": "Module",
@@ -2833,7 +2614,7 @@
 			"originalName": "/home/runner/work/utils/utils/src/lib/mergeDefault.ts",
 			"children": [
 				{
-					"id": 137,
+					"id": 123,
 					"name": "KeyedObject",
 					"kind": 4194304,
 					"kindString": "Type alias",
@@ -2861,7 +2642,7 @@
 					}
 				},
 				{
-					"id": 138,
+					"id": 124,
 					"name": "mergeDefault",
 					"kind": 64,
 					"kindString": "Function",
@@ -2870,7 +2651,7 @@
 					},
 					"signatures": [
 						{
-							"id": 139,
+							"id": 125,
 							"name": "mergeDefault",
 							"kind": 4096,
 							"kindString": "Call signature",
@@ -2888,7 +2669,7 @@
 							},
 							"typeParameter": [
 								{
-									"id": 140,
+									"id": 126,
 									"name": "A",
 									"kind": 131072,
 									"kindString": "Type parameter",
@@ -2897,12 +2678,12 @@
 									},
 									"type": {
 										"type": "reference",
-										"id": 137,
+										"id": 123,
 										"name": "KeyedObject"
 									}
 								},
 								{
-									"id": 141,
+									"id": 127,
 									"name": "B",
 									"kind": 131072,
 									"kindString": "Type parameter",
@@ -2923,7 +2704,7 @@
 							],
 							"parameters": [
 								{
-									"id": 142,
+									"id": 128,
 									"name": "defaults",
 									"kind": 32768,
 									"kindString": "Parameter",
@@ -2935,13 +2716,13 @@
 										"name": "A",
 										"constraint": {
 											"type": "reference",
-											"id": 137,
+											"id": 123,
 											"name": "KeyedObject"
 										}
 									}
 								},
 								{
-									"id": 143,
+									"id": 129,
 									"name": "given",
 									"kind": 32768,
 									"kindString": "Parameter",
@@ -2954,14 +2735,14 @@
 									},
 									"type": {
 										"type": "reference",
-										"id": 141,
+										"id": 127,
 										"name": "B"
 									}
 								}
 							],
 							"type": {
 								"type": "reference",
-								"id": 126,
+								"id": 112,
 								"typeArguments": [
 									{
 										"type": "intersection",
@@ -2971,7 +2752,7 @@
 												"name": "A",
 												"constraint": {
 													"type": "reference",
-													"id": 137,
+													"id": 123,
 													"name": "KeyedObject"
 												}
 											},
@@ -3010,14 +2791,14 @@
 					"title": "Type aliases",
 					"kind": 4194304,
 					"children": [
-						137
+						123
 					]
 				},
 				{
 					"title": "Functions",
 					"kind": 64,
 					"children": [
-						138
+						124
 					]
 				}
 			],
@@ -3030,7 +2811,7 @@
 			]
 		},
 		{
-			"id": 144,
+			"id": 130,
 			"name": "\"src/lib/mergeObjects\"",
 			"kind": 1,
 			"kindString": "Module",
@@ -3040,7 +2821,7 @@
 			"originalName": "/home/runner/work/utils/utils/src/lib/mergeObjects.ts",
 			"children": [
 				{
-					"id": 145,
+					"id": 131,
 					"name": "mergeObjects",
 					"kind": 64,
 					"kindString": "Function",
@@ -3049,7 +2830,7 @@
 					},
 					"signatures": [
 						{
-							"id": 146,
+							"id": 132,
 							"name": "mergeObjects",
 							"kind": 4096,
 							"kindString": "Call signature",
@@ -3061,7 +2842,7 @@
 							},
 							"typeParameter": [
 								{
-									"id": 147,
+									"id": 133,
 									"name": "A",
 									"kind": 131072,
 									"kindString": "Type parameter",
@@ -3074,7 +2855,7 @@
 									}
 								},
 								{
-									"id": 148,
+									"id": 134,
 									"name": "B",
 									"kind": 131072,
 									"kindString": "Type parameter",
@@ -3089,7 +2870,7 @@
 							],
 							"parameters": [
 								{
-									"id": 149,
+									"id": 135,
 									"name": "objTarget",
 									"kind": 32768,
 									"kindString": "Parameter",
@@ -3109,7 +2890,7 @@
 									}
 								},
 								{
-									"id": 150,
+									"id": 136,
 									"name": "objSource",
 									"kind": 32768,
 									"kindString": "Parameter",
@@ -3172,7 +2953,7 @@
 					"title": "Functions",
 					"kind": 64,
 					"children": [
-						145
+						131
 					]
 				}
 			],
@@ -3185,7 +2966,7 @@
 			]
 		},
 		{
-			"id": 151,
+			"id": 137,
 			"name": "\"src/lib/objectToTuples\"",
 			"kind": 1,
 			"kindString": "Module",
@@ -3195,7 +2976,7 @@
 			"originalName": "/home/runner/work/utils/utils/src/lib/objectToTuples.ts",
 			"children": [
 				{
-					"id": 152,
+					"id": 138,
 					"name": "objectToTuples",
 					"kind": 64,
 					"kindString": "Function",
@@ -3204,7 +2985,7 @@
 					},
 					"signatures": [
 						{
-							"id": 153,
+							"id": 139,
 							"name": "objectToTuples",
 							"kind": 4096,
 							"kindString": "Call signature",
@@ -3222,7 +3003,7 @@
 							},
 							"parameters": [
 								{
-									"id": 154,
+									"id": 140,
 									"name": "original",
 									"kind": 32768,
 									"kindString": "Parameter",
@@ -3245,7 +3026,7 @@
 									}
 								},
 								{
-									"id": 155,
+									"id": 141,
 									"name": "prefix",
 									"kind": 32768,
 									"kindString": "Parameter",
@@ -3294,7 +3075,7 @@
 					"title": "Functions",
 					"kind": 64,
 					"children": [
-						152
+						138
 					]
 				}
 			],
@@ -3307,7 +3088,7 @@
 			]
 		},
 		{
-			"id": 1,
+			"id": 142,
 			"name": "\"src/lib/regExpEsc\"",
 			"kind": 1,
 			"kindString": "Module",
@@ -3317,7 +3098,7 @@
 			"originalName": "/home/runner/work/utils/utils/src/lib/regExpEsc.ts",
 			"children": [
 				{
-					"id": 2,
+					"id": 143,
 					"name": "REGEXPESC",
 					"kind": 32,
 					"kindString": "Variable",
@@ -3338,7 +3119,7 @@
 					"defaultValue": "/[-/\\\\^$*+?.()|[\\]{}]/g"
 				},
 				{
-					"id": 3,
+					"id": 144,
 					"name": "regExpEsc",
 					"kind": 64,
 					"kindString": "Function",
@@ -3347,7 +3128,7 @@
 					},
 					"signatures": [
 						{
-							"id": 4,
+							"id": 145,
 							"name": "regExpEsc",
 							"kind": 4096,
 							"kindString": "Call signature",
@@ -3365,7 +3146,7 @@
 							},
 							"parameters": [
 								{
-									"id": 5,
+									"id": 146,
 									"name": "str",
 									"kind": 32768,
 									"kindString": "Parameter",
@@ -3401,14 +3182,14 @@
 					"title": "Variables",
 					"kind": 32,
 					"children": [
-						2
+						143
 					]
 				},
 				{
 					"title": "Functions",
 					"kind": 64,
 					"children": [
-						3
+						144
 					]
 				}
 			],
@@ -3421,7 +3202,7 @@
 			]
 		},
 		{
-			"id": 156,
+			"id": 147,
 			"name": "\"src/lib/sleep\"",
 			"kind": 1,
 			"kindString": "Module",
@@ -3431,21 +3212,21 @@
 			"originalName": "/home/runner/work/utils/utils/src/lib/sleep.ts",
 			"children": [
 				{
-					"id": 157,
+					"id": 148,
 					"name": "PromisifiedTimeout",
 					"kind": 256,
 					"kindString": "Interface",
 					"flags": {},
 					"signatures": [
 						{
-							"id": 158,
+							"id": 149,
 							"name": "__call",
 							"kind": 4096,
 							"kindString": "Call signature",
 							"flags": {},
 							"parameters": [
 								{
-									"id": 159,
+									"id": 150,
 									"name": "ms",
 									"kind": 32768,
 									"kindString": "Parameter",
@@ -3468,14 +3249,14 @@
 							}
 						},
 						{
-							"id": 160,
+							"id": 151,
 							"name": "__call",
 							"kind": 4096,
 							"kindString": "Call signature",
 							"flags": {},
 							"typeParameter": [
 								{
-									"id": 161,
+									"id": 152,
 									"name": "T",
 									"kind": 131072,
 									"kindString": "Type parameter",
@@ -3484,7 +3265,7 @@
 							],
 							"parameters": [
 								{
-									"id": 162,
+									"id": 153,
 									"name": "ms",
 									"kind": 32768,
 									"kindString": "Parameter",
@@ -3495,7 +3276,7 @@
 									}
 								},
 								{
-									"id": 163,
+									"id": 154,
 									"name": "value",
 									"kind": 32768,
 									"kindString": "Parameter",
@@ -3527,7 +3308,7 @@
 					]
 				},
 				{
-					"id": 164,
+					"id": 155,
 					"name": "sleep",
 					"kind": 32,
 					"kindString": "Variable",
@@ -3559,7 +3340,7 @@
 					],
 					"type": {
 						"type": "reference",
-						"id": 157,
+						"id": 148,
 						"name": "PromisifiedTimeout"
 					},
 					"defaultValue": "promisify(setTimeout)"
@@ -3570,14 +3351,14 @@
 					"title": "Interfaces",
 					"kind": 256,
 					"children": [
-						157
+						148
 					]
 				},
 				{
 					"title": "Variables",
 					"kind": 32,
 					"children": [
-						164
+						155
 					]
 				}
 			],
@@ -3590,7 +3371,7 @@
 			]
 		},
 		{
-			"id": 165,
+			"id": 156,
 			"name": "\"src/lib/toTitleCase\"",
 			"kind": 1,
 			"kindString": "Module",
@@ -3600,7 +3381,7 @@
 			"originalName": "/home/runner/work/utils/utils/src/lib/toTitleCase.ts",
 			"children": [
 				{
-					"id": 166,
+					"id": 157,
 					"name": "TOTITLECASE",
 					"kind": 32,
 					"kindString": "Variable",
@@ -3621,7 +3402,7 @@
 					"defaultValue": "/[A-Za-zÀ-ÖØ-öø-ÿ]\\S*/g"
 				},
 				{
-					"id": 172,
+					"id": 163,
 					"name": "toTitleCase",
 					"kind": 64,
 					"kindString": "Function",
@@ -3630,7 +3411,7 @@
 					},
 					"signatures": [
 						{
-							"id": 173,
+							"id": 164,
 							"name": "toTitleCase",
 							"kind": 4096,
 							"kindString": "Call signature",
@@ -3642,7 +3423,7 @@
 							},
 							"parameters": [
 								{
-									"id": 174,
+									"id": 165,
 									"name": "str",
 									"kind": 32768,
 									"kindString": "Parameter",
@@ -3673,7 +3454,7 @@
 					]
 				},
 				{
-					"id": 167,
+					"id": 158,
 					"name": "titleCaseVariants",
 					"kind": 2097152,
 					"kindString": "Object literal",
@@ -3682,7 +3463,7 @@
 					},
 					"children": [
 						{
-							"id": 170,
+							"id": 161,
 							"name": "categorychannel",
 							"kind": 32,
 							"kindString": "Variable",
@@ -3701,7 +3482,7 @@
 							"defaultValue": "\"CategoryChannel\""
 						},
 						{
-							"id": 171,
+							"id": 162,
 							"name": "guildmember",
 							"kind": 32,
 							"kindString": "Variable",
@@ -3720,7 +3501,7 @@
 							"defaultValue": "\"GuildMember\""
 						},
 						{
-							"id": 168,
+							"id": 159,
 							"name": "textchannel",
 							"kind": 32,
 							"kindString": "Variable",
@@ -3739,7 +3520,7 @@
 							"defaultValue": "\"TextChannel\""
 						},
 						{
-							"id": 169,
+							"id": 160,
 							"name": "voicechannel",
 							"kind": 32,
 							"kindString": "Variable",
@@ -3763,10 +3544,10 @@
 							"title": "Variables",
 							"kind": 32,
 							"children": [
-								170,
-								171,
-								168,
-								169
+								161,
+								162,
+								159,
+								160
 							]
 						}
 					],
@@ -3788,21 +3569,21 @@
 					"title": "Variables",
 					"kind": 32,
 					"children": [
-						166
+						157
 					]
 				},
 				{
 					"title": "Functions",
 					"kind": 64,
 					"children": [
-						172
+						163
 					]
 				},
 				{
 					"title": "Object literals",
 					"kind": 2097152,
 					"children": [
-						167
+						158
 					]
 				}
 			],
@@ -3815,7 +3596,7 @@
 			]
 		},
 		{
-			"id": 175,
+			"id": 166,
 			"name": "\"src/lib/tryParse\"",
 			"kind": 1,
 			"kindString": "Module",
@@ -3825,7 +3606,7 @@
 			"originalName": "/home/runner/work/utils/utils/src/lib/tryParse.ts",
 			"children": [
 				{
-					"id": 176,
+					"id": 167,
 					"name": "tryParse",
 					"kind": 64,
 					"kindString": "Function",
@@ -3834,7 +3615,7 @@
 					},
 					"signatures": [
 						{
-							"id": 177,
+							"id": 168,
 							"name": "tryParse",
 							"kind": 4096,
 							"kindString": "Call signature",
@@ -3846,7 +3627,7 @@
 							},
 							"parameters": [
 								{
-									"id": 178,
+									"id": 169,
 									"name": "value",
 									"kind": 32768,
 									"kindString": "Parameter",
@@ -3891,7 +3672,7 @@
 					"title": "Functions",
 					"kind": 64,
 					"children": [
-						176
+						167
 					]
 				}
 			],
@@ -3904,7 +3685,7 @@
 			]
 		},
 		{
-			"id": 123,
+			"id": 109,
 			"name": "\"src/lib/utilityTypes\"",
 			"kind": 1,
 			"kindString": "Module",
@@ -3914,7 +3695,7 @@
 			"originalName": "/home/runner/work/utils/utils/src/lib/utilityTypes.ts",
 			"children": [
 				{
-					"id": 125,
+					"id": 111,
 					"name": "Builtin",
 					"kind": 4194304,
 					"kindString": "Type alias",
@@ -3933,7 +3714,7 @@
 						"types": [
 							{
 								"type": "reference",
-								"id": 124,
+								"id": 110,
 								"name": "Primitive"
 							},
 							{
@@ -3956,7 +3737,7 @@
 					}
 				},
 				{
-					"id": 126,
+					"id": 112,
 					"name": "DeepRequired",
 					"kind": 4194304,
 					"kindString": "Type alias",
@@ -3965,7 +3746,7 @@
 					},
 					"typeParameter": [
 						{
-							"id": 127,
+							"id": 113,
 							"name": "T",
 							"kind": 131072,
 							"kindString": "Type parameter",
@@ -4276,7 +4057,7 @@
 														"extendsType": {
 															"type": "reflection",
 															"declaration": {
-																"id": 128,
+																"id": 114,
 																"name": "__type",
 																"kind": 65536,
 																"kindString": "Type literal",
@@ -4295,7 +4076,7 @@
 														"trueType": {
 															"type": "reflection",
 															"declaration": {
-																"id": 129,
+																"id": 115,
 																"name": "__type",
 																"kind": 65536,
 																"kindString": "Type literal",
@@ -4332,7 +4113,7 @@
 					}
 				},
 				{
-					"id": 133,
+					"id": 119,
 					"name": "PartialRequired",
 					"kind": 4194304,
 					"kindString": "Type alias",
@@ -4341,7 +4122,7 @@
 					},
 					"typeParameter": [
 						{
-							"id": 134,
+							"id": 120,
 							"name": "T",
 							"kind": 131072,
 							"kindString": "Type parameter",
@@ -4350,7 +4131,7 @@
 							}
 						},
 						{
-							"id": 135,
+							"id": 121,
 							"name": "K",
 							"kind": 131072,
 							"kindString": "Type parameter",
@@ -4437,7 +4218,7 @@
 					}
 				},
 				{
-					"id": 124,
+					"id": 110,
 					"name": "Primitive",
 					"kind": 4194304,
 					"kindString": "Type alias",
@@ -4486,7 +4267,7 @@
 					}
 				},
 				{
-					"id": 130,
+					"id": 116,
 					"name": "RequiredExcept",
 					"kind": 4194304,
 					"kindString": "Type alias",
@@ -4495,7 +4276,7 @@
 					},
 					"typeParameter": [
 						{
-							"id": 131,
+							"id": 117,
 							"name": "T",
 							"kind": 131072,
 							"kindString": "Type parameter",
@@ -4504,7 +4285,7 @@
 							}
 						},
 						{
-							"id": 132,
+							"id": 118,
 							"name": "K",
 							"kind": 131072,
 							"kindString": "Type parameter",
@@ -4596,11 +4377,11 @@
 					"title": "Type aliases",
 					"kind": 4194304,
 					"children": [
-						125,
-						126,
-						133,
-						124,
-						130
+						111,
+						112,
+						119,
+						110,
+						116
 					]
 				}
 			],
@@ -4613,7 +4394,7 @@
 			]
 		},
 		{
-			"id": 207,
+			"id": 196,
 			"name": "\"test/arrayStrictEquals\"",
 			"kind": 1,
 			"kindString": "Module",
@@ -4630,7 +4411,7 @@
 			]
 		},
 		{
-			"id": 208,
+			"id": 197,
 			"name": "\"test/chunk\"",
 			"kind": 1,
 			"kindString": "Module",
@@ -4647,78 +4428,7 @@
 			]
 		},
 		{
-			"id": 209,
-			"name": "\"test/clean\"",
-			"kind": 1,
-			"kindString": "Module",
-			"flags": {
-				"isExported": true
-			},
-			"originalName": "/home/runner/work/utils/utils/test/clean.ts",
-			"children": [
-				{
-					"id": 210,
-					"name": "token",
-					"kind": 32,
-					"kindString": "Variable",
-					"flags": {
-						"isConst": true
-					},
-					"sources": [
-						{
-							"fileName": "test/clean.ts",
-							"line": 4,
-							"character": 11
-						}
-					],
-					"type": {
-						"type": "stringLiteral",
-						"value": "MzM5OTQyNzM5Mjc1Njc3NzI3.4qyqwg.WjrWfDaMQdCP8xVn7P0va5gujmh"
-					},
-					"defaultValue": "\"MzM5OTQyNzM5Mjc1Njc3NzI3.4qyqwg.WjrWfDaMQdCP8xVn7P0va5gujmh\""
-				},
-				{
-					"id": 211,
-					"name": "zws",
-					"kind": 32,
-					"kindString": "Variable",
-					"flags": {
-						"isConst": true
-					},
-					"sources": [
-						{
-							"fileName": "test/clean.ts",
-							"line": 5,
-							"character": 9
-						}
-					],
-					"type": {
-						"type": "intrinsic",
-						"name": "string"
-					},
-					"defaultValue": "String.fromCharCode(8203)"
-				}
-			],
-			"groups": [
-				{
-					"title": "Variables",
-					"kind": 32,
-					"children": [
-						210,
-						211
-					]
-				}
-			],
-			"sources": [
-				{
-					"fileName": "test/clean.ts",
-					"line": 1,
-					"character": 0
-				}
-			]
-		},
-		{
-			"id": 212,
+			"id": 198,
 			"name": "\"test/codeBlock\"",
 			"kind": 1,
 			"kindString": "Module",
@@ -4728,7 +4438,7 @@
 			"originalName": "/home/runner/work/utils/utils/test/codeBlock.ts",
 			"children": [
 				{
-					"id": 214,
+					"id": 200,
 					"name": "language",
 					"kind": 32,
 					"kindString": "Variable",
@@ -4749,7 +4459,7 @@
 					"defaultValue": "\"js\""
 				},
 				{
-					"id": 213,
+					"id": 199,
 					"name": "zws",
 					"kind": 32,
 					"kindString": "Variable",
@@ -4775,8 +4485,8 @@
 					"title": "Variables",
 					"kind": 32,
 					"children": [
-						214,
-						213
+						200,
+						199
 					]
 				}
 			],
@@ -4789,7 +4499,7 @@
 			]
 		},
 		{
-			"id": 215,
+			"id": 201,
 			"name": "\"test/deepClone\"",
 			"kind": 1,
 			"kindString": "Module",
@@ -4806,7 +4516,7 @@
 			]
 		},
 		{
-			"id": 219,
+			"id": 205,
 			"name": "\"test/exec\"",
 			"kind": 1,
 			"kindString": "Module",
@@ -4823,7 +4533,7 @@
 			]
 		},
 		{
-			"id": 220,
+			"id": 206,
 			"name": "\"test/isClass\"",
 			"kind": 1,
 			"kindString": "Module",
@@ -4840,7 +4550,7 @@
 			]
 		},
 		{
-			"id": 221,
+			"id": 207,
 			"name": "\"test/isFunction\"",
 			"kind": 1,
 			"kindString": "Module",
@@ -4857,7 +4567,7 @@
 			]
 		},
 		{
-			"id": 222,
+			"id": 208,
 			"name": "\"test/isNumber\"",
 			"kind": 1,
 			"kindString": "Module",
@@ -4874,7 +4584,7 @@
 			]
 		},
 		{
-			"id": 223,
+			"id": 209,
 			"name": "\"test/isObject\"",
 			"kind": 1,
 			"kindString": "Module",
@@ -4891,7 +4601,7 @@
 			]
 		},
 		{
-			"id": 224,
+			"id": 210,
 			"name": "\"test/isPrimitive\"",
 			"kind": 1,
 			"kindString": "Module",
@@ -4908,7 +4618,7 @@
 			]
 		},
 		{
-			"id": 225,
+			"id": 211,
 			"name": "\"test/isThenable\"",
 			"kind": 1,
 			"kindString": "Module",
@@ -4925,7 +4635,7 @@
 			]
 		},
 		{
-			"id": 216,
+			"id": 202,
 			"name": "\"test/lib/common\"",
 			"kind": 1,
 			"kindString": "Module",
@@ -4935,7 +4645,7 @@
 			"originalName": "/home/runner/work/utils/utils/test/lib/common.ts",
 			"children": [
 				{
-					"id": 218,
+					"id": 204,
 					"name": "lineEndings",
 					"kind": 32,
 					"kindString": "Variable",
@@ -4966,7 +4676,7 @@
 					"defaultValue": "windows ? '\\r\\n' : '\\n'"
 				},
 				{
-					"id": 217,
+					"id": 203,
 					"name": "windows",
 					"kind": 32,
 					"kindString": "Variable",
@@ -4993,8 +4703,8 @@
 					"title": "Variables",
 					"kind": 32,
 					"children": [
-						218,
-						217
+						204,
+						203
 					]
 				}
 			],
@@ -5007,7 +4717,7 @@
 			]
 		},
 		{
-			"id": 226,
+			"id": 212,
 			"name": "\"test/makeObject\"",
 			"kind": 1,
 			"kindString": "Module",
@@ -5024,7 +4734,7 @@
 			]
 		},
 		{
-			"id": 227,
+			"id": 213,
 			"name": "\"test/mergeDefault\"",
 			"kind": 1,
 			"kindString": "Module",
@@ -5041,7 +4751,7 @@
 			]
 		},
 		{
-			"id": 228,
+			"id": 214,
 			"name": "\"test/mergeObjects\"",
 			"kind": 1,
 			"kindString": "Module",
@@ -5058,7 +4768,7 @@
 			]
 		},
 		{
-			"id": 229,
+			"id": 215,
 			"name": "\"test/objectToTuples\"",
 			"kind": 1,
 			"kindString": "Module",
@@ -5075,7 +4785,7 @@
 			]
 		},
 		{
-			"id": 230,
+			"id": 216,
 			"name": "\"test/regExpEsc\"",
 			"kind": 1,
 			"kindString": "Module",
@@ -5092,7 +4802,7 @@
 			]
 		},
 		{
-			"id": 231,
+			"id": 217,
 			"name": "\"test/sleep\"",
 			"kind": 1,
 			"kindString": "Module",
@@ -5109,7 +4819,7 @@
 			]
 		},
 		{
-			"id": 232,
+			"id": 218,
 			"name": "\"test/toTitleCase\"",
 			"kind": 1,
 			"kindString": "Module",
@@ -5126,7 +4836,7 @@
 			]
 		},
 		{
-			"id": 233,
+			"id": 219,
 			"name": "\"test/tryParse\"",
 			"kind": 1,
 			"kindString": "Module",
@@ -5148,49 +4858,47 @@
 			"title": "Modules",
 			"kind": 1,
 			"children": [
-				179,
-				15,
-				21,
-				6,
-				27,
-				45,
-				50,
-				88,
-				92,
-				96,
-				41,
-				36,
-				100,
-				117,
-				136,
-				144,
-				151,
+				170,
 				1,
+				7,
+				13,
+				31,
+				36,
+				74,
+				78,
+				82,
+				27,
+				22,
+				86,
+				103,
+				122,
+				130,
+				137,
+				142,
+				147,
 				156,
-				165,
-				175,
-				123,
+				166,
+				109,
+				196,
+				197,
+				198,
+				201,
+				205,
+				206,
 				207,
 				208,
 				209,
+				210,
+				211,
+				202,
 				212,
+				213,
+				214,
 				215,
-				219,
-				220,
-				221,
-				222,
-				223,
-				224,
-				225,
 				216,
-				226,
-				227,
-				228,
-				229,
-				230,
-				231,
-				232,
-				233
+				217,
+				218,
+				219
 			]
 		}
 	]
