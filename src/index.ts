@@ -1,4 +1,3 @@
-export * from './lib/clean';
 export * from './lib/arrayStrictEquals';
 export * from './lib/chunk';
 export * from './lib/codeBlock';
