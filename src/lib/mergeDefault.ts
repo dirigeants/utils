@@ -18,7 +18,7 @@ export function mergeDefault<A extends NonNullObject, B extends Partial<A>>(defa
 		if (typeof givenValue === 'undefined') {
 			Reflect.set(given, key, deepClone(value));
 		} else if (isObject(givenValue)) {
-			Reflect.set(given, key, mergeDefault(value, givenValue));
+			Reflect.set(given, key, mergeDefault(value as NonNullObject, givenValue));
 		}
 	}
 
