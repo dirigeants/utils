@@ -3,7 +3,7 @@ import { isObject } from './isObject';
 
 import type { DeepRequired } from './utilityTypes';
 
-type KeyedObject = Record<PropertyKey, unknown>;
+type NonNullObject = {};
 
 /**
  * Sets default properties on an object that aren't already specified.
@@ -11,13 +11,13 @@ type KeyedObject = Record<PropertyKey, unknown>;
  * @param def Default properties
  * @param given Object to assign defaults to
  */
-export function mergeDefault<A extends KeyedObject, B extends Partial<A>>(defaults: A, given?: B): DeepRequired<A & B> {
+export function mergeDefault<A extends NonNullObject, B extends Partial<A>>(defaults: A, given?: B): DeepRequired<A & B> {
 	if (!given) return deepClone(defaults) as DeepRequired<A & B>;
 	for (const key in defaults) {
 		if (typeof given[key] === 'undefined') {
-			given[key] = deepClone(defaults[key]) as unknown as B[Extract<keyof A, string>];
+			Reflect.set(given, key, deepClone(defaults[key]));
 		} else if (isObject(given[key])) {
-			given[key] = mergeDefault(defaults[key] as KeyedObject, given[key] as KeyedObject) as unknown as B[Extract<keyof A, string>];
+			Reflect.set(given, key, mergeDefault(defaults[key], given[key]));
 		}
 	}
 
