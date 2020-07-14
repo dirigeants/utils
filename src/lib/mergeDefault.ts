@@ -13,7 +13,7 @@ type NonNullObject = {};
  */
 export function mergeDefault<A extends NonNullObject, B extends Partial<A>>(defaults: A, given?: B): DeepRequired<A & B> {
 	if (!given) return deepClone(defaults) as DeepRequired<A & B>;
-	for (const [key, value] in Object.entries(defaults)) {
+	for (const [key, value] of Object.entries(defaults)) {
 		const givenValue = Reflect.get(given, key);
 		if (typeof givenValue === 'undefined') {
 			Reflect.set(given, key, deepClone(value));
