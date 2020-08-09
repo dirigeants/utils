@@ -7,7 +7,7 @@
 	"children": [
 		{
 			"id": 171,
-			"name": "\"src/index\"",
+			"name": "\"index\"",
 			"kind": 1,
 			"kindString": "Module",
 			"flags": {
@@ -301,7 +301,7 @@
 			],
 			"sources": [
 				{
-					"fileName": "src/index.ts",
+					"fileName": "index.ts",
 					"line": 1,
 					"character": 0
 				}
@@ -309,7 +309,7 @@
 		},
 		{
 			"id": 1,
-			"name": "\"src/lib/arrayStrictEquals\"",
+			"name": "\"lib/arrayStrictEquals\"",
 			"kind": 1,
 			"kindString": "Module",
 			"flags": {
@@ -423,7 +423,7 @@
 					],
 					"sources": [
 						{
-							"fileName": "src/lib/arrayStrictEquals.ts",
+							"fileName": "lib/arrayStrictEquals.ts",
 							"line": 6,
 							"character": 33
 						}
@@ -441,7 +441,7 @@
 			],
 			"sources": [
 				{
-					"fileName": "src/lib/arrayStrictEquals.ts",
+					"fileName": "lib/arrayStrictEquals.ts",
 					"line": 1,
 					"character": 0
 				}
@@ -449,7 +449,7 @@
 		},
 		{
 			"id": 7,
-			"name": "\"src/lib/chunk\"",
+			"name": "\"lib/chunk\"",
 			"kind": 1,
 			"kindString": "Module",
 			"flags": {
@@ -549,7 +549,7 @@
 					],
 					"sources": [
 						{
-							"fileName": "src/lib/chunk.ts",
+							"fileName": "lib/chunk.ts",
 							"line": 7,
 							"character": 21
 						}
@@ -567,7 +567,7 @@
 			],
 			"sources": [
 				{
-					"fileName": "src/lib/chunk.ts",
+					"fileName": "lib/chunk.ts",
 					"line": 1,
 					"character": 0
 				}
@@ -575,7 +575,7 @@
 		},
 		{
 			"id": 13,
-			"name": "\"src/lib/codeBlock\"",
+			"name": "\"lib/codeBlock\"",
 			"kind": 1,
 			"kindString": "Module",
 			"flags": {
@@ -611,7 +611,7 @@
 							],
 							"sources": [
 								{
-									"fileName": "src/lib/codeBlock.ts",
+									"fileName": "lib/codeBlock.ts",
 									"line": 4,
 									"character": 9
 								}
@@ -629,7 +629,7 @@
 					],
 					"sources": [
 						{
-							"fileName": "src/lib/codeBlock.ts",
+							"fileName": "lib/codeBlock.ts",
 							"line": 3,
 							"character": 23
 						}
@@ -645,7 +645,7 @@
 					},
 					"sources": [
 						{
-							"fileName": "src/lib/codeBlock.ts",
+							"fileName": "lib/codeBlock.ts",
 							"line": 1,
 							"character": 9
 						}
@@ -725,7 +725,7 @@
 					],
 					"sources": [
 						{
-							"fileName": "src/lib/codeBlock.ts",
+							"fileName": "lib/codeBlock.ts",
 							"line": 13,
 							"character": 25
 						}
@@ -757,7 +757,7 @@
 			],
 			"sources": [
 				{
-					"fileName": "src/lib/codeBlock.ts",
+					"fileName": "lib/codeBlock.ts",
 					"line": 1,
 					"character": 0
 				}
@@ -765,7 +765,7 @@
 		},
 		{
 			"id": 31,
-			"name": "\"src/lib/deepClone\"",
+			"name": "\"lib/deepClone\"",
 			"kind": 1,
 			"kindString": "Module",
 			"flags": {
@@ -836,7 +836,7 @@
 					],
 					"sources": [
 						{
-							"fileName": "src/lib/deepClone.ts",
+							"fileName": "lib/deepClone.ts",
 							"line": 9,
 							"character": 25
 						}
@@ -854,7 +854,7 @@
 			],
 			"sources": [
 				{
-					"fileName": "src/lib/deepClone.ts",
+					"fileName": "lib/deepClone.ts",
 					"line": 1,
 					"character": 0
 				}
@@ -862,7 +862,7 @@
 		},
 		{
 			"id": 36,
-			"name": "\"src/lib/exec\"",
+			"name": "\"lib/exec\"",
 			"kind": 1,
 			"kindString": "Module",
 			"flags": {
@@ -916,7 +916,7 @@
 													"flags": {},
 													"sources": [
 														{
-															"fileName": "src/lib/exec.ts",
+															"fileName": "lib/exec.ts",
 															"line": 5,
 															"character": 61
 														}
@@ -934,7 +934,7 @@
 													"flags": {},
 													"sources": [
 														{
-															"fileName": "src/lib/exec.ts",
+															"fileName": "lib/exec.ts",
 															"line": 5,
 															"character": 45
 														}
@@ -957,7 +957,7 @@
 											],
 											"sources": [
 												{
-													"fileName": "src/lib/exec.ts",
+													"fileName": "lib/exec.ts",
 													"line": 5,
 													"character": 37
 												}
@@ -1012,7 +1012,7 @@
 															"flags": {},
 															"sources": [
 																{
-																	"fileName": "src/lib/exec.ts",
+																	"fileName": "lib/exec.ts",
 																	"line": 6,
 																	"character": 38
 																}
@@ -1043,7 +1043,7 @@
 													],
 													"sources": [
 														{
-															"fileName": "src/lib/exec.ts",
+															"fileName": "lib/exec.ts",
 															"line": 6,
 															"character": 27
 														}
@@ -1078,7 +1078,7 @@
 													"flags": {},
 													"sources": [
 														{
-															"fileName": "src/lib/exec.ts",
+															"fileName": "lib/exec.ts",
 															"line": 6,
 															"character": 115
 														}
@@ -1096,7 +1096,7 @@
 													"flags": {},
 													"sources": [
 														{
-															"fileName": "src/lib/exec.ts",
+															"fileName": "lib/exec.ts",
 															"line": 6,
 															"character": 99
 														}
@@ -1119,7 +1119,7 @@
 											],
 											"sources": [
 												{
-													"fileName": "src/lib/exec.ts",
+													"fileName": "lib/exec.ts",
 													"line": 6,
 													"character": 91
 												}
@@ -1174,7 +1174,7 @@
 															"flags": {},
 															"sources": [
 																{
-																	"fileName": "src/lib/exec.ts",
+																	"fileName": "lib/exec.ts",
 																	"line": 7,
 																	"character": 38
 																}
@@ -1196,7 +1196,7 @@
 													],
 													"sources": [
 														{
-															"fileName": "src/lib/exec.ts",
+															"fileName": "lib/exec.ts",
 															"line": 7,
 															"character": 27
 														}
@@ -1231,7 +1231,7 @@
 													"flags": {},
 													"sources": [
 														{
-															"fileName": "src/lib/exec.ts",
+															"fileName": "lib/exec.ts",
 															"line": 7,
 															"character": 114
 														}
@@ -1249,7 +1249,7 @@
 													"flags": {},
 													"sources": [
 														{
-															"fileName": "src/lib/exec.ts",
+															"fileName": "lib/exec.ts",
 															"line": 7,
 															"character": 98
 														}
@@ -1272,7 +1272,7 @@
 											],
 											"sources": [
 												{
-													"fileName": "src/lib/exec.ts",
+													"fileName": "lib/exec.ts",
 													"line": 7,
 													"character": 90
 												}
@@ -1333,7 +1333,7 @@
 													"flags": {},
 													"sources": [
 														{
-															"fileName": "src/lib/exec.ts",
+															"fileName": "lib/exec.ts",
 															"line": 8,
 															"character": 83
 														}
@@ -1351,7 +1351,7 @@
 													"flags": {},
 													"sources": [
 														{
-															"fileName": "src/lib/exec.ts",
+															"fileName": "lib/exec.ts",
 															"line": 8,
 															"character": 67
 														}
@@ -1374,7 +1374,7 @@
 											],
 											"sources": [
 												{
-													"fileName": "src/lib/exec.ts",
+													"fileName": "lib/exec.ts",
 													"line": 8,
 													"character": 59
 												}
@@ -1436,7 +1436,7 @@
 																	},
 																	"sources": [
 																		{
-																			"fileName": "src/lib/exec.ts",
+																			"fileName": "lib/exec.ts",
 																			"line": 9,
 																			"character": 40
 																		}
@@ -1501,7 +1501,7 @@
 													"flags": {},
 													"sources": [
 														{
-															"fileName": "src/lib/exec.ts",
+															"fileName": "lib/exec.ts",
 															"line": 9,
 															"character": 133
 														}
@@ -1528,7 +1528,7 @@
 													"flags": {},
 													"sources": [
 														{
-															"fileName": "src/lib/exec.ts",
+															"fileName": "lib/exec.ts",
 															"line": 9,
 															"character": 108
 														}
@@ -1560,7 +1560,7 @@
 											],
 											"sources": [
 												{
-													"fileName": "src/lib/exec.ts",
+													"fileName": "lib/exec.ts",
 													"line": 9,
 													"character": 100
 												}
@@ -1574,7 +1574,7 @@
 					],
 					"sources": [
 						{
-							"fileName": "src/lib/exec.ts",
+							"fileName": "lib/exec.ts",
 							"line": 4,
 							"character": 25
 						}
@@ -1606,7 +1606,7 @@
 					},
 					"sources": [
 						{
-							"fileName": "src/lib/exec.ts",
+							"fileName": "lib/exec.ts",
 							"line": 17,
 							"character": 17
 						}
@@ -1637,7 +1637,7 @@
 			],
 			"sources": [
 				{
-					"fileName": "src/lib/exec.ts",
+					"fileName": "lib/exec.ts",
 					"line": 1,
 					"character": 0
 				}
@@ -1645,7 +1645,7 @@
 		},
 		{
 			"id": 74,
-			"name": "\"src/lib/isClass\"",
+			"name": "\"lib/isClass\"",
 			"kind": 1,
 			"kindString": "Module",
 			"flags": {
@@ -1699,7 +1699,7 @@
 					],
 					"sources": [
 						{
-							"fileName": "src/lib/isClass.ts",
+							"fileName": "lib/isClass.ts",
 							"line": 5,
 							"character": 23
 						}
@@ -1717,7 +1717,7 @@
 			],
 			"sources": [
 				{
-					"fileName": "src/lib/isClass.ts",
+					"fileName": "lib/isClass.ts",
 					"line": 1,
 					"character": 0
 				}
@@ -1725,7 +1725,7 @@
 		},
 		{
 			"id": 78,
-			"name": "\"src/lib/isFunction\"",
+			"name": "\"lib/isFunction\"",
 			"kind": 1,
 			"kindString": "Module",
 			"flags": {
@@ -1784,7 +1784,7 @@
 					],
 					"sources": [
 						{
-							"fileName": "src/lib/isFunction.ts",
+							"fileName": "lib/isFunction.ts",
 							"line": 5,
 							"character": 26
 						}
@@ -1802,7 +1802,7 @@
 			],
 			"sources": [
 				{
-					"fileName": "src/lib/isFunction.ts",
+					"fileName": "lib/isFunction.ts",
 					"line": 1,
 					"character": 0
 				}
@@ -1810,7 +1810,7 @@
 		},
 		{
 			"id": 82,
-			"name": "\"src/lib/isNumber\"",
+			"name": "\"lib/isNumber\"",
 			"kind": 1,
 			"kindString": "Module",
 			"flags": {
@@ -1869,7 +1869,7 @@
 					],
 					"sources": [
 						{
-							"fileName": "src/lib/isNumber.ts",
+							"fileName": "lib/isNumber.ts",
 							"line": 5,
 							"character": 24
 						}
@@ -1887,7 +1887,7 @@
 			],
 			"sources": [
 				{
-					"fileName": "src/lib/isNumber.ts",
+					"fileName": "lib/isNumber.ts",
 					"line": 1,
 					"character": 0
 				}
@@ -1895,7 +1895,7 @@
 		},
 		{
 			"id": 27,
-			"name": "\"src/lib/isObject\"",
+			"name": "\"lib/isObject\"",
 			"kind": 1,
 			"kindString": "Module",
 			"flags": {
@@ -1973,7 +1973,7 @@
 					],
 					"sources": [
 						{
-							"fileName": "src/lib/isObject.ts",
+							"fileName": "lib/isObject.ts",
 							"line": 5,
 							"character": 24
 						}
@@ -1991,7 +1991,7 @@
 			],
 			"sources": [
 				{
-					"fileName": "src/lib/isObject.ts",
+					"fileName": "lib/isObject.ts",
 					"line": 1,
 					"character": 0
 				}
@@ -1999,7 +1999,7 @@
 		},
 		{
 			"id": 22,
-			"name": "\"src/lib/isPrimitive\"",
+			"name": "\"lib/isPrimitive\"",
 			"kind": 1,
 			"kindString": "Module",
 			"flags": {
@@ -2017,7 +2017,7 @@
 					},
 					"sources": [
 						{
-							"fileName": "src/lib/isPrimitive.ts",
+							"fileName": "lib/isPrimitive.ts",
 							"line": 1,
 							"character": 21
 						}
@@ -2109,7 +2109,7 @@
 					],
 					"sources": [
 						{
-							"fileName": "src/lib/isPrimitive.ts",
+							"fileName": "lib/isPrimitive.ts",
 							"line": 8,
 							"character": 27
 						}
@@ -2134,7 +2134,7 @@
 			],
 			"sources": [
 				{
-					"fileName": "src/lib/isPrimitive.ts",
+					"fileName": "lib/isPrimitive.ts",
 					"line": 1,
 					"character": 0
 				}
@@ -2142,7 +2142,7 @@
 		},
 		{
 			"id": 86,
-			"name": "\"src/lib/isThenable\"",
+			"name": "\"lib/isThenable\"",
 			"kind": 1,
 			"kindString": "Module",
 			"flags": {
@@ -2169,7 +2169,7 @@
 							},
 							"sources": [
 								{
-									"fileName": "src/lib/isThenable.ts",
+									"fileName": "lib/isThenable.ts",
 									"line": 5,
 									"character": 6
 								}
@@ -2189,7 +2189,7 @@
 							},
 							"sources": [
 								{
-									"fileName": "src/lib/isThenable.ts",
+									"fileName": "lib/isThenable.ts",
 									"line": 4,
 									"character": 5
 								}
@@ -2212,7 +2212,7 @@
 					],
 					"sources": [
 						{
-							"fileName": "src/lib/isThenable.ts",
+							"fileName": "lib/isThenable.ts",
 							"line": 3,
 							"character": 25
 						}
@@ -2257,7 +2257,7 @@
 													},
 													"sources": [
 														{
-															"fileName": "src/lib/isThenable.ts",
+															"fileName": "lib/isThenable.ts",
 															"line": 12,
 															"character": 32
 														}
@@ -2279,7 +2279,7 @@
 											],
 											"sources": [
 												{
-													"fileName": "src/lib/isThenable.ts",
+													"fileName": "lib/isThenable.ts",
 													"line": 12,
 													"character": 24
 												}
@@ -2296,7 +2296,7 @@
 					],
 					"sources": [
 						{
-							"fileName": "src/lib/isThenable.ts",
+							"fileName": "lib/isThenable.ts",
 							"line": 12,
 							"character": 17
 						}
@@ -2341,7 +2341,7 @@
 													},
 													"sources": [
 														{
-															"fileName": "src/lib/isThenable.ts",
+															"fileName": "lib/isThenable.ts",
 															"line": 8,
 															"character": 30
 														}
@@ -2363,7 +2363,7 @@
 											],
 											"sources": [
 												{
-													"fileName": "src/lib/isThenable.ts",
+													"fileName": "lib/isThenable.ts",
 													"line": 8,
 													"character": 23
 												}
@@ -2380,7 +2380,7 @@
 					],
 					"sources": [
 						{
-							"fileName": "src/lib/isThenable.ts",
+							"fileName": "lib/isThenable.ts",
 							"line": 8,
 							"character": 16
 						}
@@ -2437,7 +2437,7 @@
 					],
 					"sources": [
 						{
-							"fileName": "src/lib/isThenable.ts",
+							"fileName": "lib/isThenable.ts",
 							"line": 20,
 							"character": 26
 						}
@@ -2464,7 +2464,7 @@
 			],
 			"sources": [
 				{
-					"fileName": "src/lib/isThenable.ts",
+					"fileName": "lib/isThenable.ts",
 					"line": 1,
 					"character": 0
 				}
@@ -2472,7 +2472,7 @@
 		},
 		{
 			"id": 103,
-			"name": "\"src/lib/makeObject\"",
+			"name": "\"lib/makeObject\"",
 			"kind": 1,
 			"kindString": "Module",
 			"flags": {
@@ -2579,7 +2579,7 @@
 					],
 					"sources": [
 						{
-							"fileName": "src/lib/makeObject.ts",
+							"fileName": "lib/makeObject.ts",
 							"line": 7,
 							"character": 26
 						}
@@ -2597,7 +2597,7 @@
 			],
 			"sources": [
 				{
-					"fileName": "src/lib/makeObject.ts",
+					"fileName": "lib/makeObject.ts",
 					"line": 1,
 					"character": 0
 				}
@@ -2605,7 +2605,7 @@
 		},
 		{
 			"id": 122,
-			"name": "\"src/lib/mergeDefault\"",
+			"name": "\"lib/mergeDefault\"",
 			"kind": 1,
 			"kindString": "Module",
 			"flags": {
@@ -2621,7 +2621,7 @@
 					"flags": {},
 					"sources": [
 						{
-							"fileName": "src/lib/mergeDefault.ts",
+							"fileName": "lib/mergeDefault.ts",
 							"line": 6,
 							"character": 18
 						}
@@ -2636,7 +2636,7 @@
 							"flags": {},
 							"sources": [
 								{
-									"fileName": "src/lib/mergeDefault.ts",
+									"fileName": "lib/mergeDefault.ts",
 									"line": 6,
 									"character": 20
 								}
@@ -2782,7 +2782,7 @@
 					],
 					"sources": [
 						{
-							"fileName": "src/lib/mergeDefault.ts",
+							"fileName": "lib/mergeDefault.ts",
 							"line": 14,
 							"character": 28
 						}
@@ -2807,7 +2807,7 @@
 			],
 			"sources": [
 				{
-					"fileName": "src/lib/mergeDefault.ts",
+					"fileName": "lib/mergeDefault.ts",
 					"line": 1,
 					"character": 0
 				}
@@ -2815,7 +2815,7 @@
 		},
 		{
 			"id": 131,
-			"name": "\"src/lib/mergeObjects\"",
+			"name": "\"lib/mergeObjects\"",
 			"kind": 1,
 			"kindString": "Module",
 			"flags": {
@@ -2944,7 +2944,7 @@
 					],
 					"sources": [
 						{
-							"fileName": "src/lib/mergeObjects.ts",
+							"fileName": "lib/mergeObjects.ts",
 							"line": 8,
 							"character": 28
 						}
@@ -2962,7 +2962,7 @@
 			],
 			"sources": [
 				{
-					"fileName": "src/lib/mergeObjects.ts",
+					"fileName": "lib/mergeObjects.ts",
 					"line": 1,
 					"character": 0
 				}
@@ -2970,7 +2970,7 @@
 		},
 		{
 			"id": 138,
-			"name": "\"src/lib/objectToTuples\"",
+			"name": "\"lib/objectToTuples\"",
 			"kind": 1,
 			"kindString": "Module",
 			"flags": {
@@ -3066,7 +3066,7 @@
 					],
 					"sources": [
 						{
-							"fileName": "src/lib/objectToTuples.ts",
+							"fileName": "lib/objectToTuples.ts",
 							"line": 9,
 							"character": 30
 						}
@@ -3084,7 +3084,7 @@
 			],
 			"sources": [
 				{
-					"fileName": "src/lib/objectToTuples.ts",
+					"fileName": "lib/objectToTuples.ts",
 					"line": 1,
 					"character": 0
 				}
@@ -3092,7 +3092,7 @@
 		},
 		{
 			"id": 143,
-			"name": "\"src/lib/regExpEsc\"",
+			"name": "\"lib/regExpEsc\"",
 			"kind": 1,
 			"kindString": "Module",
 			"flags": {
@@ -3110,7 +3110,7 @@
 					},
 					"sources": [
 						{
-							"fileName": "src/lib/regExpEsc.ts",
+							"fileName": "lib/regExpEsc.ts",
 							"line": 1,
 							"character": 15
 						}
@@ -3173,7 +3173,7 @@
 					],
 					"sources": [
 						{
-							"fileName": "src/lib/regExpEsc.ts",
+							"fileName": "lib/regExpEsc.ts",
 							"line": 8,
 							"character": 25
 						}
@@ -3198,7 +3198,7 @@
 			],
 			"sources": [
 				{
-					"fileName": "src/lib/regExpEsc.ts",
+					"fileName": "lib/regExpEsc.ts",
 					"line": 1,
 					"character": 0
 				}
@@ -3206,7 +3206,7 @@
 		},
 		{
 			"id": 148,
-			"name": "\"src/lib/sleep\"",
+			"name": "\"lib/sleep\"",
 			"kind": 1,
 			"kindString": "Module",
 			"flags": {
@@ -3304,7 +3304,7 @@
 					],
 					"sources": [
 						{
-							"fileName": "src/lib/sleep.ts",
+							"fileName": "lib/sleep.ts",
 							"line": 3,
 							"character": 28
 						}
@@ -3336,7 +3336,7 @@
 					},
 					"sources": [
 						{
-							"fileName": "src/lib/sleep.ts",
+							"fileName": "lib/sleep.ts",
 							"line": 13,
 							"character": 18
 						}
@@ -3367,7 +3367,7 @@
 			],
 			"sources": [
 				{
-					"fileName": "src/lib/sleep.ts",
+					"fileName": "lib/sleep.ts",
 					"line": 1,
 					"character": 0
 				}
@@ -3375,7 +3375,7 @@
 		},
 		{
 			"id": 157,
-			"name": "\"src/lib/toTitleCase\"",
+			"name": "\"lib/toTitleCase\"",
 			"kind": 1,
 			"kindString": "Module",
 			"flags": {
@@ -3393,7 +3393,7 @@
 					},
 					"sources": [
 						{
-							"fileName": "src/lib/toTitleCase.ts",
+							"fileName": "lib/toTitleCase.ts",
 							"line": 1,
 							"character": 17
 						}
@@ -3450,7 +3450,7 @@
 					],
 					"sources": [
 						{
-							"fileName": "src/lib/toTitleCase.ts",
+							"fileName": "lib/toTitleCase.ts",
 							"line": 13,
 							"character": 27
 						}
@@ -3473,7 +3473,7 @@
 							"flags": {},
 							"sources": [
 								{
-									"fileName": "src/lib/toTitleCase.ts",
+									"fileName": "lib/toTitleCase.ts",
 									"line": 5,
 									"character": 16
 								}
@@ -3492,7 +3492,7 @@
 							"flags": {},
 							"sources": [
 								{
-									"fileName": "src/lib/toTitleCase.ts",
+									"fileName": "lib/toTitleCase.ts",
 									"line": 6,
 									"character": 12
 								}
@@ -3511,7 +3511,7 @@
 							"flags": {},
 							"sources": [
 								{
-									"fileName": "src/lib/toTitleCase.ts",
+									"fileName": "lib/toTitleCase.ts",
 									"line": 3,
 									"character": 12
 								}
@@ -3530,7 +3530,7 @@
 							"flags": {},
 							"sources": [
 								{
-									"fileName": "src/lib/toTitleCase.ts",
+									"fileName": "lib/toTitleCase.ts",
 									"line": 4,
 									"character": 13
 								}
@@ -3556,7 +3556,7 @@
 					],
 					"sources": [
 						{
-							"fileName": "src/lib/toTitleCase.ts",
+							"fileName": "lib/toTitleCase.ts",
 							"line": 2,
 							"character": 23
 						}
@@ -3592,7 +3592,7 @@
 			],
 			"sources": [
 				{
-					"fileName": "src/lib/toTitleCase.ts",
+					"fileName": "lib/toTitleCase.ts",
 					"line": 1,
 					"character": 0
 				}
@@ -3600,7 +3600,7 @@
 		},
 		{
 			"id": 167,
-			"name": "\"src/lib/tryParse\"",
+			"name": "\"lib/tryParse\"",
 			"kind": 1,
 			"kindString": "Module",
 			"flags": {
@@ -3663,7 +3663,7 @@
 					],
 					"sources": [
 						{
-							"fileName": "src/lib/tryParse.ts",
+							"fileName": "lib/tryParse.ts",
 							"line": 5,
 							"character": 24
 						}
@@ -3681,7 +3681,7 @@
 			],
 			"sources": [
 				{
-					"fileName": "src/lib/tryParse.ts",
+					"fileName": "lib/tryParse.ts",
 					"line": 1,
 					"character": 0
 				}
@@ -3689,7 +3689,7 @@
 		},
 		{
 			"id": 109,
-			"name": "\"src/lib/utilityTypes\"",
+			"name": "\"lib/utilityTypes\"",
 			"kind": 1,
 			"kindString": "Module",
 			"flags": {
@@ -3707,7 +3707,7 @@
 					},
 					"sources": [
 						{
-							"fileName": "src/lib/utilityTypes.ts",
+							"fileName": "lib/utilityTypes.ts",
 							"line": 2,
 							"character": 19
 						}
@@ -3760,7 +3760,7 @@
 					],
 					"sources": [
 						{
-							"fileName": "src/lib/utilityTypes.ts",
+							"fileName": "lib/utilityTypes.ts",
 							"line": 4,
 							"character": 24
 						}
@@ -4069,7 +4069,7 @@
 																},
 																"sources": [
 																	{
-																		"fileName": "src/lib/utilityTypes.ts",
+																		"fileName": "lib/utilityTypes.ts",
 																		"line": 20,
 																		"character": 19
 																	}
@@ -4088,7 +4088,7 @@
 																},
 																"sources": [
 																	{
-																		"fileName": "src/lib/utilityTypes.ts",
+																		"fileName": "lib/utilityTypes.ts",
 																		"line": 21,
 																		"character": 10
 																	}
@@ -4153,7 +4153,7 @@
 					],
 					"sources": [
 						{
-							"fileName": "src/lib/utilityTypes.ts",
+							"fileName": "lib/utilityTypes.ts",
 							"line": 26,
 							"character": 27
 						}
@@ -4230,7 +4230,7 @@
 					},
 					"sources": [
 						{
-							"fileName": "src/lib/utilityTypes.ts",
+							"fileName": "lib/utilityTypes.ts",
 							"line": 1,
 							"character": 21
 						}
@@ -4307,7 +4307,7 @@
 					],
 					"sources": [
 						{
-							"fileName": "src/lib/utilityTypes.ts",
+							"fileName": "lib/utilityTypes.ts",
 							"line": 24,
 							"character": 26
 						}
@@ -4390,466 +4390,7 @@
 			],
 			"sources": [
 				{
-					"fileName": "src/lib/utilityTypes.ts",
-					"line": 1,
-					"character": 0
-				}
-			]
-		},
-		{
-			"id": 197,
-			"name": "\"test/arrayStrictEquals\"",
-			"kind": 1,
-			"kindString": "Module",
-			"flags": {
-				"isExported": true
-			},
-			"originalName": "/home/runner/work/utils/utils/test/arrayStrictEquals.ts",
-			"sources": [
-				{
-					"fileName": "test/arrayStrictEquals.ts",
-					"line": 1,
-					"character": 0
-				}
-			]
-		},
-		{
-			"id": 198,
-			"name": "\"test/chunk\"",
-			"kind": 1,
-			"kindString": "Module",
-			"flags": {
-				"isExported": true
-			},
-			"originalName": "/home/runner/work/utils/utils/test/chunk.ts",
-			"sources": [
-				{
-					"fileName": "test/chunk.ts",
-					"line": 1,
-					"character": 0
-				}
-			]
-		},
-		{
-			"id": 199,
-			"name": "\"test/codeBlock\"",
-			"kind": 1,
-			"kindString": "Module",
-			"flags": {
-				"isExported": true
-			},
-			"originalName": "/home/runner/work/utils/utils/test/codeBlock.ts",
-			"children": [
-				{
-					"id": 201,
-					"name": "language",
-					"kind": 32,
-					"kindString": "Variable",
-					"flags": {
-						"isConst": true
-					},
-					"sources": [
-						{
-							"fileName": "test/codeBlock.ts",
-							"line": 5,
-							"character": 14
-						}
-					],
-					"type": {
-						"type": "stringLiteral",
-						"value": "js"
-					},
-					"defaultValue": "\"js\""
-				},
-				{
-					"id": 200,
-					"name": "zws",
-					"kind": 32,
-					"kindString": "Variable",
-					"flags": {
-						"isConst": true
-					},
-					"sources": [
-						{
-							"fileName": "test/codeBlock.ts",
-							"line": 4,
-							"character": 9
-						}
-					],
-					"type": {
-						"type": "intrinsic",
-						"name": "string"
-					},
-					"defaultValue": "String.fromCharCode(8203)"
-				}
-			],
-			"groups": [
-				{
-					"title": "Variables",
-					"kind": 32,
-					"children": [
-						201,
-						200
-					]
-				}
-			],
-			"sources": [
-				{
-					"fileName": "test/codeBlock.ts",
-					"line": 1,
-					"character": 0
-				}
-			]
-		},
-		{
-			"id": 202,
-			"name": "\"test/deepClone\"",
-			"kind": 1,
-			"kindString": "Module",
-			"flags": {
-				"isExported": true
-			},
-			"originalName": "/home/runner/work/utils/utils/test/deepClone.ts",
-			"sources": [
-				{
-					"fileName": "test/deepClone.ts",
-					"line": 1,
-					"character": 0
-				}
-			]
-		},
-		{
-			"id": 206,
-			"name": "\"test/exec\"",
-			"kind": 1,
-			"kindString": "Module",
-			"flags": {
-				"isExported": true
-			},
-			"originalName": "/home/runner/work/utils/utils/test/exec.ts",
-			"sources": [
-				{
-					"fileName": "test/exec.ts",
-					"line": 1,
-					"character": 0
-				}
-			]
-		},
-		{
-			"id": 207,
-			"name": "\"test/isClass\"",
-			"kind": 1,
-			"kindString": "Module",
-			"flags": {
-				"isExported": true
-			},
-			"originalName": "/home/runner/work/utils/utils/test/isClass.ts",
-			"sources": [
-				{
-					"fileName": "test/isClass.ts",
-					"line": 1,
-					"character": 0
-				}
-			]
-		},
-		{
-			"id": 208,
-			"name": "\"test/isFunction\"",
-			"kind": 1,
-			"kindString": "Module",
-			"flags": {
-				"isExported": true
-			},
-			"originalName": "/home/runner/work/utils/utils/test/isFunction.ts",
-			"sources": [
-				{
-					"fileName": "test/isFunction.ts",
-					"line": 1,
-					"character": 0
-				}
-			]
-		},
-		{
-			"id": 209,
-			"name": "\"test/isNumber\"",
-			"kind": 1,
-			"kindString": "Module",
-			"flags": {
-				"isExported": true
-			},
-			"originalName": "/home/runner/work/utils/utils/test/isNumber.ts",
-			"sources": [
-				{
-					"fileName": "test/isNumber.ts",
-					"line": 1,
-					"character": 0
-				}
-			]
-		},
-		{
-			"id": 210,
-			"name": "\"test/isObject\"",
-			"kind": 1,
-			"kindString": "Module",
-			"flags": {
-				"isExported": true
-			},
-			"originalName": "/home/runner/work/utils/utils/test/isObject.ts",
-			"sources": [
-				{
-					"fileName": "test/isObject.ts",
-					"line": 1,
-					"character": 0
-				}
-			]
-		},
-		{
-			"id": 211,
-			"name": "\"test/isPrimitive\"",
-			"kind": 1,
-			"kindString": "Module",
-			"flags": {
-				"isExported": true
-			},
-			"originalName": "/home/runner/work/utils/utils/test/isPrimitive.ts",
-			"sources": [
-				{
-					"fileName": "test/isPrimitive.ts",
-					"line": 1,
-					"character": 0
-				}
-			]
-		},
-		{
-			"id": 212,
-			"name": "\"test/isThenable\"",
-			"kind": 1,
-			"kindString": "Module",
-			"flags": {
-				"isExported": true
-			},
-			"originalName": "/home/runner/work/utils/utils/test/isThenable.ts",
-			"sources": [
-				{
-					"fileName": "test/isThenable.ts",
-					"line": 1,
-					"character": 0
-				}
-			]
-		},
-		{
-			"id": 203,
-			"name": "\"test/lib/common\"",
-			"kind": 1,
-			"kindString": "Module",
-			"flags": {
-				"isExported": true
-			},
-			"originalName": "/home/runner/work/utils/utils/test/lib/common.ts",
-			"children": [
-				{
-					"id": 205,
-					"name": "lineEndings",
-					"kind": 32,
-					"kindString": "Variable",
-					"flags": {
-						"isExported": true,
-						"isConst": true
-					},
-					"sources": [
-						{
-							"fileName": "test/lib/common.ts",
-							"line": 4,
-							"character": 24
-						}
-					],
-					"type": {
-						"type": "union",
-						"types": [
-							{
-								"type": "stringLiteral",
-								"value": "\r\n"
-							},
-							{
-								"type": "stringLiteral",
-								"value": "\n"
-							}
-						]
-					},
-					"defaultValue": "windows ? '\\r\\n' : '\\n'"
-				},
-				{
-					"id": 204,
-					"name": "windows",
-					"kind": 32,
-					"kindString": "Variable",
-					"flags": {
-						"isExported": true,
-						"isConst": true
-					},
-					"sources": [
-						{
-							"fileName": "test/lib/common.ts",
-							"line": 3,
-							"character": 20
-						}
-					],
-					"type": {
-						"type": "intrinsic",
-						"name": "boolean"
-					},
-					"defaultValue": "platform() === 'win32'"
-				}
-			],
-			"groups": [
-				{
-					"title": "Variables",
-					"kind": 32,
-					"children": [
-						205,
-						204
-					]
-				}
-			],
-			"sources": [
-				{
-					"fileName": "test/lib/common.ts",
-					"line": 1,
-					"character": 0
-				}
-			]
-		},
-		{
-			"id": 213,
-			"name": "\"test/makeObject\"",
-			"kind": 1,
-			"kindString": "Module",
-			"flags": {
-				"isExported": true
-			},
-			"originalName": "/home/runner/work/utils/utils/test/makeObject.ts",
-			"sources": [
-				{
-					"fileName": "test/makeObject.ts",
-					"line": 1,
-					"character": 0
-				}
-			]
-		},
-		{
-			"id": 214,
-			"name": "\"test/mergeDefault\"",
-			"kind": 1,
-			"kindString": "Module",
-			"flags": {
-				"isExported": true
-			},
-			"originalName": "/home/runner/work/utils/utils/test/mergeDefault.ts",
-			"sources": [
-				{
-					"fileName": "test/mergeDefault.ts",
-					"line": 1,
-					"character": 0
-				}
-			]
-		},
-		{
-			"id": 215,
-			"name": "\"test/mergeObjects\"",
-			"kind": 1,
-			"kindString": "Module",
-			"flags": {
-				"isExported": true
-			},
-			"originalName": "/home/runner/work/utils/utils/test/mergeObjects.ts",
-			"sources": [
-				{
-					"fileName": "test/mergeObjects.ts",
-					"line": 1,
-					"character": 0
-				}
-			]
-		},
-		{
-			"id": 216,
-			"name": "\"test/objectToTuples\"",
-			"kind": 1,
-			"kindString": "Module",
-			"flags": {
-				"isExported": true
-			},
-			"originalName": "/home/runner/work/utils/utils/test/objectToTuples.ts",
-			"sources": [
-				{
-					"fileName": "test/objectToTuples.ts",
-					"line": 1,
-					"character": 0
-				}
-			]
-		},
-		{
-			"id": 217,
-			"name": "\"test/regExpEsc\"",
-			"kind": 1,
-			"kindString": "Module",
-			"flags": {
-				"isExported": true
-			},
-			"originalName": "/home/runner/work/utils/utils/test/regExpEsc.ts",
-			"sources": [
-				{
-					"fileName": "test/regExpEsc.ts",
-					"line": 1,
-					"character": 0
-				}
-			]
-		},
-		{
-			"id": 218,
-			"name": "\"test/sleep\"",
-			"kind": 1,
-			"kindString": "Module",
-			"flags": {
-				"isExported": true
-			},
-			"originalName": "/home/runner/work/utils/utils/test/sleep.ts",
-			"sources": [
-				{
-					"fileName": "test/sleep.ts",
-					"line": 1,
-					"character": 0
-				}
-			]
-		},
-		{
-			"id": 219,
-			"name": "\"test/toTitleCase\"",
-			"kind": 1,
-			"kindString": "Module",
-			"flags": {
-				"isExported": true
-			},
-			"originalName": "/home/runner/work/utils/utils/test/toTitleCase.ts",
-			"sources": [
-				{
-					"fileName": "test/toTitleCase.ts",
-					"line": 1,
-					"character": 0
-				}
-			]
-		},
-		{
-			"id": 220,
-			"name": "\"test/tryParse\"",
-			"kind": 1,
-			"kindString": "Module",
-			"flags": {
-				"isExported": true
-			},
-			"originalName": "/home/runner/work/utils/utils/test/tryParse.ts",
-			"sources": [
-				{
-					"fileName": "test/tryParse.ts",
+					"fileName": "lib/utilityTypes.ts",
 					"line": 1,
 					"character": 0
 				}
@@ -4881,27 +4422,7 @@
 				148,
 				157,
 				167,
-				109,
-				197,
-				198,
-				199,
-				202,
-				206,
-				207,
-				208,
-				209,
-				210,
-				211,
-				212,
-				203,
-				213,
-				214,
-				215,
-				216,
-				217,
-				218,
-				219,
-				220
+				109
 			]
 		}
 	]
