@@ -348,7 +348,7 @@
 									},
 									"type": {
 										"type": "typeOperator",
-										"operator": "keyof",
+										"operator": "readonly",
 										"target": {
 											"type": "array",
 											"elementType": {
@@ -376,7 +376,7 @@
 										"name": "T",
 										"constraint": {
 											"type": "typeOperator",
-											"operator": "keyof",
+											"operator": "readonly",
 											"target": {
 												"type": "array",
 												"elementType": {
@@ -403,7 +403,7 @@
 										"name": "T",
 										"constraint": {
 											"type": "typeOperator",
-											"operator": "keyof",
+											"operator": "readonly",
 											"target": {
 												"type": "array",
 												"elementType": {
@@ -508,7 +508,7 @@
 									},
 									"type": {
 										"type": "typeOperator",
-										"operator": "keyof",
+										"operator": "readonly",
 										"target": {
 											"type": "array",
 											"elementType": {
@@ -1464,6 +1464,13 @@
 																		69
 																	]
 																}
+															],
+															"sources": [
+																{
+																	"fileName": "lib/exec.ts",
+																	"line": 9,
+																	"character": 30
+																}
 															]
 														}
 													},
@@ -2088,19 +2095,15 @@
 										},
 										{
 											"type": "intrinsic",
-											"name": "number"
-										},
-										{
-											"type": "intrinsic",
 											"name": "bigint"
 										},
 										{
 											"type": "intrinsic",
-											"name": "false"
+											"name": "number"
 										},
 										{
 											"type": "intrinsic",
-											"name": "true"
+											"name": "boolean"
 										}
 									]
 								}
