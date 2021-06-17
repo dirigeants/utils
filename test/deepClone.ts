@@ -104,3 +104,13 @@ ava('deepClone(set)', (test): void => {
 	test.true(cloned.has('Hello'));
 	test.true(cloned.has('World'));
 });
+
+ava('deepClone(readonly-array-to-mutable)', (test): void => {
+	test.plan(2);
+	const source: readonly number[] = [1, 2, 3];
+	// Mutate the type of the clone to a regular array of numbers
+	const clone = deepClone<readonly number[], number[]>(source);
+
+	test.not(source, clone);
+	test.deepEqual(clone, source);
+});
